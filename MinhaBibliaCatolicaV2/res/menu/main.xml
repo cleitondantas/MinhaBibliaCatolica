@@ -1,0 +1,46 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+        <item
+        android:id="@+id/menu_spinner"
+        android:actionViewClass="android.widget.Spinner"
+        android:orderInCategory="0"
+        android:visible="false"
+        android:showAsAction="always"/>
+  	<!-- 	 
+  		<item
+        android:id="@+id/menu_toggle"
+        android:orderInCategory="2"
+        android:icon="@android:drawable/ic_menu_more"
+        android:showAsAction="ifRoom"
+        android:title="MenuPopup"/>
+     -->
+    <group android:id="@+id/SizeText" 
+        android:visible="true">
+        
+        <item android:id="@+id/AAMore" 
+            android:visible="true" 
+            android:title="Fonte +">
+        </item>
+        <item android:id="@+id/AAless" 
+            android:title="Fonte -" 
+            android:visible="true">
+        </item>
+        <item android:id="@+id/config"
+            android:title="@string/configuracoes"
+            android:visible="true">
+          </item>  
+      <item android:id="@+id/help"
+            android:title="@string/help"
+            android:visible="true">
+        </item>
+                <item android:id="@+id/exit"
+            android:title="@string/exit"
+            android:visible="true">
+        </item>
+        
+    <!--    <item android:id="@+id/DelBanco"
+            android:title="Delete DB"
+            android:visible="true">
+        </item>
+         --> 
+    </group>
+</menu>

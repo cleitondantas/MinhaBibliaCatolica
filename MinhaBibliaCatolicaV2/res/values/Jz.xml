@@ -1,0 +1,668 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+<string-array name="CapJz1">
+<item>Capítulo 1</item>
+<item>1. Depois da morte de Josué, os israelitas consultaram o Senhor: Quem dentre nós será o primeiro a combater os cananeus?</item>
+<item>2. O Senhor respondeu: Judá, pois eu entregarei a terra nas suas mãos.</item>
+<item>3. Então Judá disse a Simeão, seu irmão: Vem comigo à terra que me coube por sorte, para combatermos contra os cananeus. Depois irei contigo à tua terra. Simeão partiu com ele.</item>
+<item>4. Judá travou combate e o Senhor entregou-lhe os cananeus e os ferezeus; derrotaram dez mil homens em Bezec.</item>
+<item>5. Ali encontraram Adoni-Bezec, atacaram-no e derrotaram os cananeus e os ferezeus.</item>
+<item>6. Adoni-Bezec fugiu, mas eles o perseguiram, prenderam-no e cortaram-lhe os polegares das mãos e os hálux dos pés.</item>
+<item>7. Adoni-Bezec disse: Setenta reis, com os polegares das mãos e os hálux dos pés cortados, apanhavam debaixo de minha mesa os sobejos da comida. Como eu fiz, assim Deus me faz. E conduziram-no a Jerusalém, onde morreu.</item>
+<item>8. Os juditas atacaram Jerusalém e tomaram-na. Passaram os seus habitantes ao fio da espada e incendiaram a cidade.</item>
+<item>9. Desceram dali e combateram os cananeus das montanhas, do meio-dia e da planície.</item>
+<item>10. Judá marchou contra os cananeus de Hebron (chamada antigamente Cariat-Arbé), e derrotou Sesai, Aimã e Tolmai.</item>
+<item>11. Marchou depois contra os habitantes de Dabir, que antigamente se chamava Cariat-Sefer.</item>
+<item>12. Caleb tinha dito: Àquele que combater e tomar Cariat-Sefer darei por mulher minha filha Axa.</item>
+<item>13. Otoniel, filho de Cenez, irmão mais novo de Caleb, tomou a cidade; e Caleb deu-lhe sua filha Axa por mulher.</item>
+<item>14. Chegando Axa à casa de seu marido, ele moveu-a a que pedisse um campo ao seu pai. (E pela segunda vez) ela saltou de seu jumento, e Caleb disse-lhe: Que tens?</item>
+<item>15. Dá-me, respondeu ela, um presente. Instalaste-me em uma terra árida; dá-me também fontes de água! E Caleb deu-lhe as fontes superiores e inferiores.</item>
+<item>16. Os filhos de Hobab, o quenita, cunhado de Moisés, subiram da cidade das Palmeiras com os juditas, no deserto de Judá, ao sul de Arad, e vieram estabelecer-se com o povo.</item>
+<item>17. Judá prosseguiu sua marcha com Simeão, seu irmão, e derrotaram os cananeus de Sefaat. Votaram a cidade ao interdito e ela recebeu o nome de Horma.</item>
+<item>18. Judá tomou também Gaza e seu território, bem como Ascalon e Acaron com seus territórios.</item>
+<item>19. O Senhor estava com Judá, e ele conquistou a montanha; porém, não pôde despojar os habitantes da planície que possuíam carros de ferro.</item>
+<item>20. Conforme o que Moisés tinha dito, deram Hebron a Caleb, que expulsou dela os três filhos de Enac.</item>
+<item>21. Os benjaminitas não exterminaram os jebuseus de Jerusalém; por isso, os jebuseus habitaram em Jerusalém com os benjaminitas até o presente.</item>
+<item>22. A família de José marchou também contra Betel, e o Senhor esteve com eles.</item>
+<item>23. E quando exploravam Betel, que antes se chamava Luz,</item>
+<item>24. viram um homem que saía da cidade, e disseram-lhe: Mostra-nos por onde se pode entrar na cidade e usaremos de misericórdia contigo.</item>
+<item>25. Ele indicou-lhes a entrada, e passaram a localidade ao fio da espada, poupando, porém, aquele homem com a sua família.</item>
+<item>26. Este emigrou para a terra dos hiteus, onde construiu uma cidade, à qual pôs o nome de Luz, nome que ela conserva ainda hoje.</item>
+<item>27. Manassés não expulsou os habitantes de Betsã com suas aldeias, nem os de Tanac, de Dor, de Jeblaão, de Magedo, com suas aldeias, porque os cananeus estavam decididos a ocupar essa terra.</item>
+<item>28. Quando se tornaram mais fortes, os israelitas fizeram-nos tributários, mas não os despojaram.</item>
+<item>29. Efraim não expulsou os cananeus de Geser, os quais continuaram a habitar em Geser, no meio de Efraim.</item>
+<item>30. Zabulon não expulsou os habitantes de Cetron, nem os de Naalol; e os cananeus continuaram a habitar no meio de Zabulon, embora sujeitos ao tributo.</item>
+<item>31. Aser não expulsou os habitantes de Aco, nem os de Sidon, nem os de Aalab, de Acasib, de Helba, de Afec e de Roob;</item>
+<item>32. os filhos de Aser estabeleceram-se entre os cananeus, habitantes daquela terra; não os despojaram.</item>
+<item>33. Neftali não expulsou os habitantes de Bet-Sames, nem os de Bet-Anat, e estabeleceu-se entre os cananeus, habitantes daquela terra; os betsamitas e os betanitas ficaram-lhe tributários.</item>
+<item>34. Os amorreus repeliram os danitas para a montanha, e não os deixaram descer para a planície.</item>
+<item>35. Persistiram em ficar em Har-Harés, em Ajalon e em Salebim; mas a mão da casa de José prevaleceu sobre eles, e tiveram de pagar o tributo.</item>
+<item>36. O território dos amorreus estendia-se desde a costa de Acrabim e de Sela, para o norte.</item>
+ </string-array><string-array name="CapJz2">
+<item>Capítulo 2</item>
+<item>1. O anjo do Senhor subiu de Gálgala a Boquim e disse: Eu vos fiz subir do Egito e vos conduzi a esta terra que eu tinha prometido com juramento a vossos pais. E vos tinha dito: jamais hei de romper a aliança que fiz convosco;</item>
+<item>2. vós, porém, não fareis aliança com os habitantes desta terra e lançareis por terra os seus altares! Ora, vós não obedecestes à minha voz.</item>
+<item>3. Por que fizestes isso? Por essa razão eu disse: não os expulsarei de diante de vós; eles permanecerão ao vosso lado e os seus deuses vos serão um laço.</item>
+<item>4. Ao dizer o anjo do Senhor estas palavras aos filhos de Israel, o povo pôs-se a chorar.</item>
+<item>5. Pelo que chamaram àquele lugar Boquim, e ofereceram ali sacrifícios ao Senhor.</item>
+<item>6. Josué despediu o povo, e os israelitas foram cada um para a sua herança, a fim de tomar posse da terra.</item>
+<item>7. Durante toda a vida de Josué e dos anciãos que lhe sobreviveram, e que tinham testemunhado a grande obra que o Senhor tinha feito em favor de Israel, o povo serviu o Senhor.</item>
+<item>8. Josué, filho de Nun, servo do Senhor, morreu com a idade de cento e dez anos.</item>
+<item>9. Sepultaram-no no território de sua possessão, em Tamnat-Heres, na montanha de Efraim, ao norte do monte de Gaas.</item>
+<item>10. Toda aquela geração se foi também unir a seus pais, e sucedeu-lhe outra que não conhecia o Senhor, nem o que ele tinha feito em favor de Israel.</item>
+<item>11. Os israelitas fizeram então o mal aos olhos do Senhor e serviram os Baal.</item>
+<item>12. Abandonaram o Senhor, o Deus de seus pais, que os tinha tirado do Egito, e seguiram outros deuses, os dos povos que habitavam em torno deles; prostraram-se diante deles, excitando assim a cólera do Senhor.</item>
+<item>13. Abandonaram o Senhor para servirem Baal e Astarot.</item>
+<item>14. A cólera do Senhor inflamou-se contra Israel, e ele entregou-os nas mãos de piratas, que os despojaram, e vendeu-os aos inimigos dos arredores, de sorte que não puderam mais resistir-lhes.</item>
+<item>15. Para onde quer que fossem, a mão do Senhor estava contra eles para fazer-lhes mal, como o Senhor lhes tinha dito e jurado, e viram-se em grande aflição.</item>
+<item>16. (Entretanto) o Senhor suscitava-lhes juízes que os livraram das mãos dos opressores,</item>
+<item>17. mas nem mesmo os seus juízes ouviam e continuavam prostituindo-se a outros deuses, adorando-os. Abandonaram depressa o caminho que tinham seguido seus pais, na obediência aos mandamentos do Senhor, e não os imitaram.</item>
+<item>18. Ora, quando o Senhor suscitava juízes, ele estava com o juiz para livrá-los de seus inimigos enquanto vivesse o juiz: o Senhor compadecia-se dos gemidos que soltavam diante de seus inimigos e de seus opressores.</item>
+<item>19. Mas, depois que o juiz morria, corrompiam-se e se tornavam ainda piores do que seus pais, seguindo outros deuses, servindo-os e adorando-os; e não renunciavam aos seus crimes e à sua obstinação.</item>
+<item>20. Inflamou-se, pois, contra Israel a cólera do Senhor: Visto que este povo violou o meu pacto, dizia ele, a aliança que eu tinha feito com seus pais, e não obedeceram à minha voz,</item>
+<item>21. também eu não expulsarei de diante deles nenhuma das nações que Josué deixou ao morrer.</item>
+<item>22. Por elas, queria o Senhor provar os israelitas, e ver se eles seguiriam ou não o caminho do Senhor, como o tinham feito seus pais.</item>
+<item>23. E o Senhor deixou subsistir todas essas nações que não tinha entregue nas mãos de Josué, e não as quis expulsar logo.</item>
+ </string-array><string-array name="CapJz3">
+<item>Capítulo 3</item>
+<item>1. Estas são as nações que o Senhor deixou subsistir para provar por meio delas os israelitas, todos aqueles que não tinham visto as guerras de Canaã,</item>
+<item>2. e isso tão-somente para instrução das novas gerações israelitas, a fim de lhes ensinar a combater, ao menos àqueles que não o tinham feito antes.</item>
+<item>3. Eram os cinco príncipes dos filisteus, todos os cananeus, os sidônios, os heveus que habitavam os montes do Líbano, desde a montanha de Baal-Hermon até a entrada de Hamat.</item>
+<item>4. Essas nações ficaram para provar Israel, e ver se eles obedeceriam aos mandamentos que o Senhor havia prescrito aos seus pais por intermédio de Moisés.</item>
+<item>5. Os filhos de Israel habitaram no meio dos cananeus, dos hiteus, dos amorreus, dos ferezeus, dos heveus e dos jebuseus.</item>
+<item>6. Tomaram por mulheres suas filhas e eles mesmos deram suas filhas aos filhos deles, e serviram os seus deuses.</item>
+<item>7. Os israelitas fizeram o mal aos olhos do Senhor, esqueceram-se do Senhor, seu Deus, e serviram aos baal e às asserá.</item>
+<item>8. A ira do Senhor inflamou-se contra Israel, e ele entregou-os nas mãos de Cusã-Rasataim, rei da Mesopotâmia, a quem ficaram sujeitos durante oito anos.</item>
+<item>9. Os israelitas clamaram ao Senhor, que lhes suscitou um libertador para salvá-los: Otoniel, filho de Cenez, irmão mais novo de Caleb.</item>
+<item>10. O Espírito do Senhor desceu sobre ele: ele julgou Israel e saiu para a guerra. O Senhor entregou-lhe Cusã-Rasataim, rei da Mesopotâmia, e sua mão triunfou sobre ele.</item>
+<item>11. A terra teve quarenta anos de descanso, e Otoniel, filho de Cenez, morreu.</item>
+<item>12. Os israelitas fizeram de novo o mal aos olhos do Senhor, e o Senhor excitou contra eles Eglon, rei de Moab, porque tinham feito o mal aos seus olhos.</item>
+<item>13. Eglon aliou-se aos filhos de Amon e de Amalec, e pôs-se em marcha contra Israel; derrotou-o e apoderou-se da cidade das Palmeiras.</item>
+<item>14. E os israelitas estiveram sujeitos a Eglon, rei de Moab, por dezoito anos.</item>
+<item>15. Os filhos de Israel clamaram ao Senhor, que lhes suscitou um libertador na pessoa de Aod, o canhoto, filho de Gera, benjaminita. Os filhos de Israel mandaram, por meio dele, um presente a Eglon, rei de Moab.</item>
+<item>16. Aod mandou fazer para si uma espada de dois gumes, de um côvado de comprimento, e a levava debaixo de suas vestes, apoiada na coxa direita.</item>
+<item>17. Ele veio e ofereceu o presente a Eglon, rei de Moab, que era muito gordo.</item>
+<item>18. Terminada a cerimônia, levou os homens que tinham trazido o presente</item>
+<item>19. até as estelas próximas de Gálgala. Voltou ao rei e disse-lhe: Senhor, tenho uma palavra a dizer-te. Silêncio, ordenou o rei; e todos os seus familiares se retiraram.</item>
+<item>20. Aod entrou; o rei estava assentado, só, no seu quarto de verão. Tenho a dizer-te uma palavra da parte do Senhor, disse Aod. O rei levantou-se do seu trono.</item>
+<item>21. E logo tomou Aod com a mão esquerda a espada que trazia na coxa direita e mergulhou-lha no ventre</item>
+<item>22. com tanta força que o próprio cabo entrou após a lâmina, e ficou coberto pela muita gordura. E não retirou do ventre sua espada, cuja lâmina saía por detrás.</item>
+<item>23. Aod saiu pela galeria, depois de ter fechado bem atrás de si as portas do quarto de cima, deixando-as trancadas.</item>
+<item>24. E, tendo ele partido, notaram os servos do rei que as portas estavam fechadas: Sem dúvida, disseram, estará fazendo necessidade, em seu quarto de verão.</item>
+<item>25. Mas, depois de esperarem muito tempo, ficaram alarmados, e, vendo que a porta do apartamento não se abria, tomaram a chave, abriram-na e encontraram o seu senhor morto e estendido por terra.</item>
+<item>26. Enquanto isso, Aod fugiu para além das estelas, e foi para Seirat.</item>
+<item>27. Logo que chegou à montanha de Efraim, tocou a trombeta e os filhos de Israel desceram da montanha com ele.</item>
+<item>28. Segui-me, disse-lhes ele, porque o Senhor entregou-vos os moabitas, vossos inimigos. Eles o seguiram e ocuparam os vaus do Jordão, por onde se vai a Moab, de modo a não deixar passar ninguém.</item>
+<item>29. Mataram então cerca de dez mil homens, todo o escol e todo o vigor de Moab; ninguém escapou.</item>
+<item>30. Naquele dia foi Moab humilhado sob a mão de Israel. E a terra teve um descanso de oitenta anos.</item>
+<item>31. Depois de Aod, Samgar, filho de Anat, derrotou seiscentos filisteus com um aguilhão de bois. Samgar também foi um libertador para Israel.</item>
+ </string-array><string-array name="CapJz4">
+<item>Capítulo 4</item>
+<item>1. Depois da morte de Aod, os israelitas continuaram a fazer o mal aos olhos do Senhor.</item>
+<item>2. Então o Senhor entregou-os nas mãos de Jabin, rei de Canaã, que reinava em Asor. Seu exército era chefiado por Sísara, que habitava em Haroset-Goim.</item>
+<item>3. Os filhos de Israel clamaram ao Senhor, porque Jabin tinha novecentos carros de ferro e oprimia-os duramente já fazia vinte anos.</item>
+<item>4. Naquela época, a profetisa Débora mulher de Lapidot, era juíza em Israel.</item>
+<item>5. Sentava-se sob a palmeira de Débora, entre Ramá e Betel, na montanha de Efraim, e os israelitas iam ter com ela para que julgasse suas questões.</item>
+<item>6. Ela mandou chamar Barac, filho de Abinoem, de Cedes em Neftali, e disse-lhe: Eis o que te ordena o Senhor, Deus de Israel: vai ao monte Tabor; toma contigo dez mil homens dos filhos de Neftali e de Zabulon.</item>
+<item>7. Quando estiveres na torrente de Cison, conduzir-te-ei Sísara, chefe do exército de Jabin, com seus carros e suas tropas, e to entregarei.</item>
+<item>8. Barac respondeu-lhe: Se vieres comigo, irei; mas se não quiseres vir comigo, não irei.</item>
+<item>9. Sim, disse ela, irei contigo; mas a glória da expedição não será tua, porque o Senhor entregará Sísara nas mãos de uma mulher. E Débora foi com Barac a Cedes.</item>
+<item>10. Barac convocou ali Zabulon e Neftali: dez mil homens levantaram-se e seguiram-no, tendo Débora em sua companhia.</item>
+<item>11. Ora, Heber, o cineu, tinha-se separado dos cineus da família de Hobab, cunhado de Moisés, e tinha levantado suas tendas até o carvalhal de Senim, perto de Cedes.</item>
+<item>12. Foi anunciado a Sísara que Barac, filho de Abinoem, estava em marcha para o monte Tabor.</item>
+<item>13. Mandou então vir de Haroset-Goim todos os seus carros, novecentos carros de ferro, e todo o povo que estava com ele até a torrente de Cison.</item>
+<item>14. Débora disse a Barac: Vai-te, porque este é o dia em que o Senhor te entregará Sísara. O Senhor mesmo marcha adiante de ti. Barac desceu do monte Tabor com dez mil homens.</item>
+<item>15. E o Senhor desbaratou Sísara com todos os seus carros e todo o seu exército, que caíram ao fio da espada, diante de Barac. Sísara, saltando do seu carro, fugiu a pé,</item>
+<item>16. enquanto Barac perseguia os carros e o exército até Haroset-Goim. Todo o exército de Sísara foi passado ao fio da espada, sem escapar um só homem.</item>
+<item>17. Sísara, fugindo a pé, chegou à tenda de Jael, mulher de Heber, o cineu, porque havia paz entre Jabin, rei de Asor e a casa de Heber, o cineu.</item>
+<item>18. Jael, saindo ao encontro de Sísara, disse-lhe: Entra, meu senhor, em minha casa, e não temas. Ele entrou na tenda e ela o ocultou sob um manto.</item>
+<item>19. Ele disse à mulher: Peço-te que me dês um pouco de água, porque tenho sede. Ela abriu um odre de leite, deu-lhe de beber e recobriu-o.</item>
+<item>20. Sísara disse-lhe ainda: Põe-te à entrada da tenda, e se qualquer pessoa te perguntar se há alguém aqui, responderás que não.</item>
+<item>21. Jael, pois, mulher de Heber, tomou um prego da tenda juntamente com um martelo e, aproximando-se devagarinho, enterrou o prego na fonte de Sísara, pregando-o assim na terra enquanto ele dormia profundamente por causa da muita fadiga. Sísara morreu.</item>
+<item>22. Entrementes, chegou Barac logo após Sísara. Jael saindo-lhe ao encontro, disse-lhe: Vem, vou mostrar-te o homem que buscas. Ele entrou e viu Sísara que jazia morto por terra, com o prego cravado em sua fonte.</item>
+<item>23. Foi assim que Deus, naquele dia, humilhou Jabin, rei de Canaã, diante dos israelitas;</item>
+<item>24. e a mão dos filhos de Israel pesava cada vez mais sobre Jabin, rei de Canaã, até que o exterminaram.</item>
+ </string-array><string-array name="CapJz5">
+<item>Capítulo 5</item>
+<item>1. Naquele dia, Débora cantou este cântico, com Barac, filho de Abinoem:</item>
+<item>2. Desatou-se a cabeleira em Israel, o povo ofereceu-se para o combate: bendizei o Senhor!</item>
+<item>3. Reis, ouvi! Estai atentos, ó príncipes! Sou eu, eu que vou cantar ao Senhor. Vou proferir um salmo ao Senhor, Deus de Israel!</item>
+<item>4. Senhor, quando saístes de Seir, quando surgistes dos campos de Edom, a terra tremeu, os céus se entornaram, as nuvens desfizeram-se em água,</item>
+<item>5. abalaram-se as montanhas diante do Senhor, nada menos que o Sinai, diante do Senhor, Deus de Israel!</item>
+<item>6. Nos dias de Samgar, filho de Anat, nos dias de Jael, estavam desertos os caminhos, e os viajantes seguiam veredas tortuosas.</item>
+<item>7. Desertos se achavam os campos em Israel, desertos, senão quando eu, Débora, me levantei, me levantei como uma mãe em Israel.</item>
+<item>8. Israel escolhera deuses novos, e logo a guerra lhe bateu às portas, e não havia um escudo nem uma lança entre os quarenta mil de Israel.</item>
+<item>9. Meu coração bate pelos chefes de Israel, pelos que se ofereceram voluntariamente entre o povo: bendizei o Senhor!</item>
+<item>10. Vós que cavalgais jumentas brancas, sentados sobre tapetes, a galopar pelas estradas, cantai!</item>
+<item>11. A voz dos arqueiros, junto dos bebedouros, celebre as vitórias do Senhor, as vitórias dos seus chefes em Israel! Então o povo do Senhor desceu às portas.</item>
+<item>12. Desperta, desperta, Débora! Desperta, desperta, canta um hino! Levanta-te, Barac! Toma os teus prisioneiros, filho de Abinoem!</item>
+<item>13. E agora descei, sobreviventes do meu povo. Senhor, descei para junto de mim entre estes heróis.</item>
+<item>14. De Efraim vêm os habitantes de Amalec; seguindo-te, marcha Benjamim com as tropas; de Maquir vêm os príncipes, e de Zabulon os guias com o bastão.</item>
+<item>15. Os príncipes de Issacar estão com Débora; Issacar marcha com Barac e segue-lhe as pisadas na planície. Junto aos regatos de Rubem grandes foram as deliberações do coração.</item>
+<item>16. Por que ficaste junto ao aprisco, a ouvir a música dos pastores? Junto aos regatos de Rubem grandes foram as deliberações do coração.</item>
+<item>17. Galaad ficou em sua casa, além do Jordão; e Dã, por que habita junto dos navios? Aser assentou-se à beira do mar e ficou descansando nos seus portos.</item>
+<item>18. Zabulon, porém, é um povo que desafia a morte, e da mesma forma Neftali, sobre os planaltos.</item>
+<item>19. Vieram os reis e travaram combate; e travaram combate os reis de Canaã em Tanac, junto às águas de Magedo; mas não levaram espólio em dinheiro.</item>
+<item>20. Desde o céu as estrelas combateram, de suas órbitas combateram contra Sísara,</item>
+<item>21. e a torrente de Cison os arrastou, a velha torrente, a torrente de Cison. Marcha, ó minha alma, resolutamente!</item>
+<item>22. Ouviu-se, então, o troar dos cascos dos cavalos, ao tropel, ao tropel dos cavaleiros.</item>
+<item>23. Amaldiçoai Meroz, disse o Anjo do Senhor, amaldiçoai, amaldiçoai seus habitantes! Porque não vieram em socorro do Senhor, em socorro do Senhor, com os guerreiros.</item>
+<item>24. Bendita seja entre as mulheres Jael, mulher de Heber, o quenita! Entre as mulheres da tenda seja bendita!</item>
+<item>25. Ao que pediu água ofereceu leite; serviu nata em taça nobre.</item>
+<item>26. Com uma das mãos segurou o prego, e com a outra o martelo de operário, e malhou Sísara, espedaçando-lhe a cabeça, e esmagou-lhe a fonte e a transpassou.</item>
+<item>27. Aos seus pés ele vergou, tombou, ficou; aos seus pés ele vergou, tombou. Onde vergou, ali tombou abatido!</item>
+<item>28. Da janela, através das persianas, a mãe de Sísara olha e clama: Por que tarda em chegar o seu carro?! Por que demoram tanto as suas carruagens?!</item>
+<item>29. As mais sábias das damas lhe respondem, e ela mesma o repete a si própria:</item>
+<item>30. Devem ter achado despojos, e os repartem: uma moça, duas moças para cada homem, despojos de tecidos multicores para Sísara, despojos de tecidos multicores, recamados; uma veste bordada, dois brocados, para os ombros do vencedor.</item>
+<item>31. Assim pereçam, Senhor, todos os vossos inimigos! E os que vos amam sejam como o sol quando nasce resplendente.</item>
+<item>32. E repousou a terra durante quarenta anos.</item>
+ </string-array><string-array name="CapJz6">
+<item>Capítulo 6</item>
+<item>1. Os israelitas fizeram o mal aos olhos do Senhor, e o Senhor entregou-os nas mãos dos madianitas durante sete anos.</item>
+<item>2. A mão de Madiã pesou rudemente contra Israel. Por medo dos madianitas, os filhos de Israel refugiaram-se nas cavernas das montanhas, em cavernas e fortificações.</item>
+<item>3. Quando Israel semeava, subia Madiã com Amalec e os filhos do oriente para atacá-lo.</item>
+<item>4. Acampavam defronte deles e devastavam as suas plantações até a vizinhança de Gaza, e não deixavam aos israelitas provisão alguma, nem ovelhas, nem bois, nem jumentos.</item>
+<item>5. Subiam com todos os seus rebanhos e tendas, semelhantes a uma nuvem de gafanhotos, e essa multidão inumerável de homens e camelos subia e devastava a terra.</item>
+<item>6. Os israelitas ficaram desse modo extenuados pelos madianitas, e clamaram ao Senhor.</item>
+<item>7. E, tendo eles clamado ao Senhor, pedindo socorro contra os madianitas, o Senhor mandou-lhes um profeta,</item>
+<item>8. que lhes disse: Eis o oráculo do Senhor, Deus de Israel: eu vos fiz sair do Egito e vos tirei da servidão;</item>
+<item>9. livrei-vos da mão dos egípcios e de vossos opressores; expulsei-os de diante de vós e dei-vos a sua terra.</item>
+<item>10. E disse-vos: eu sou o Senhor, vosso Deus: não adorareis os deuses dos amorreus, em cuja terra ides habitar. Mas não ouvistes a minha voz.</item>
+<item>11. Depois veio o anjo do Senhor e sentou-se debaixo do terebinto de Efra, que pertencia a Joás, da família de Abieser. Gedeão, seu filho, estava limpando o trigo no lagar, para escondê-lo dos madianitas.</item>
+<item>12. O anjo do Senhor apareceu-lhe e disse-lhe: O Senhor está contigo, valente guerreiro!</item>
+<item>13. Gedeão respondeu: Ah, meu senhor, se o Senhor está conosco, por que nos vieram todos esses males? Onde estão aqueles prodígios que nos contaram nossos pais, dizendo: o Senhor fez-nos verdadeiramente sair do Egito? Agora o Senhor abandonou-nos e entregou-nos nas mãos dos madianitas.</item>
+<item>14. Então o Senhor, voltando-se para ele: Vai, disse, com essa força que tens e livra Israel dos madianitas. Porventura não sou eu que te envio?</item>
+<item>15. Ó Senhor, respondeu Gedeão, com que livrarei eu Israel? Minha família é a última de Manassés, e eu sou o menor na casa de meu pai.</item>
+<item>16. O Senhor replicou: Eu estarei contigo e tu derrotarás os madianitas como se fossem um só homem.</item>
+<item>17. Prosseguiu Gedeão: Se encontrei graça aos vossos olhos, provai-me por um sinal que sois vós quem me falais.</item>
+<item>18. Não vos afasteis daqui até que eu volte trazendo uma oferta, e a ponha diante de vós. Esperarei, respondeu o Senhor, até que voltes.</item>
+<item>19. Gedeão entrou em sua casa, preparou um cabrito e fez pães sem fermento com um efá de farinha. Pôs a carne num cesto e o caldo numa panela, levou tudo debaixo do terebinto e ofereceu-lho.</item>
+<item>20. O anjo do Senhor disse-lhe: Toma a carne e os pães sem fermento, põe-nos sobre aquela pedra e derrama por cima o caldo. Ele assim o fez.</item>
+<item>21. Então o anjo do Senhor estendeu a ponta da vara que tinha na mão, tocou a carne com os pães sem fermento, e imediatamente jorrou fogo da rocha que consumiu a carne e os pães sem fermento; e o anjo do Senhor desapareceu de seus olhos.</item>
+<item>22. Gedeão reconheceu que era o anjo do Senhor e exclamou: Ai de mim, Senhor Javé, que vi o anjo do Senhor face a face.</item>
+<item>23. O Senhor disse-lhe: Tranqüiliza-te; não temas, não morrerás.</item>
+<item>24. Gedeão edificou ali um altar ao Senhor e chamou-o Javé-Chalom. Esse altar existe ainda hoje em Efra de Abieser.</item>
+<item>25. Durante a noite disse-lhe o Senhor: Toma o novilho de teu pai e um segundo touro de sete anos; destrói o altar de Baal de teu pai e faze o mesmo com o ídolo de madeira que está junto dele.</item>
+<item>26. Edificarás então um altar ao Senhor, teu Deus, em cima dessa pedra, depois de a teres preparado. Tomarás o segundo touro e o oferecerás em holocausto usando a madeira do ídolo que tiveres cortado.</item>
+<item>27. Gedeão escolheu dez dos seus servos e fez o que o Senhor lhe tinha ordenado. Temendo, porém, a família de seu pai e os habitantes da cidade, não o quis fazer durante o dia; executou tudo durante a noite.</item>
+<item>28. Chegada a manhã, quando os habitantes da cidade se levantaram, eis que viram o altar de Baal derrubado por terra, o ídolo vizinho cortado, e o segundo touro queimado em holocausto sobre o novo altar.</item>
+<item>29. Quem fez isto?, perguntaram uns aos outros. Depois de haverem buscado e investigado cuidadosamente, foi-lhes dito: Foi Gedeão, filho de Joás.</item>
+<item>30. Disseram então a Joás: Faze vir aqui o teu filho, para que seja morto, porque ele derrubou o altar de Baal e cortou o ídolo de madeira que estava perto!</item>
+<item>31. Joás respondeu a todos os que o interpelavam: Porventura sois vós que deveis tomar o partido de Baal? Sois vós que deveis socorrê-lo? Pois aquele que tomar o partido de Baal será morto hoje mesmo. Se Baal é deus, que defenda ele mesmo a sua causa, pois derrubaram o seu altar!</item>
+<item>32. Daquele dia em diante, Gedeão foi chamado Jerobaal, dizendo: Que Baal defenda a sua causa contra ele, pois ele derrubou o seu altar!</item>
+<item>33. Todos os madianitas, os amalecitas e os filhos do oriente se tinham coligado e, tendo passado o Jordão, acamparam no vale de Jezrael.</item>
+<item>34. O Espírito do Senhor apoderou-se de Gedeão, o qual, tocando a trombeta, convocou os filhos de Abieser para que o seguissem.</item>
+<item>35. Enviou mensageiros por toda a tribo de Manassés, que se reuniu para segui-lo; e enviou também mensageiros às tribos de Aser, de Zabulon e de Neftali, e todos vieram juntar-se a ele.</item>
+<item>36. Gedeão disse a Deus: Se quereis realmente salvar Israel por meio de minha mão, como o dissestes,</item>
+<item>37. eis que vou estender um velo de lã na eira: se o orvalho cair só no velo, ficando toda a terra seca, reconhecerei que é por minha mão que livrareis Israel, como o dissestes.</item>
+<item>38. E assim aconteceu. Levantando-se Gedeão no dia seguinte pela manhã, espremeu a lã e encheu um copo de orvalho.</item>
+<item>39. Gedeão disse de novo a Deus: Não se acenda contra mim a vossa cólera se vos falo ainda uma vez! Só quero fazer mais uma prova com o velo: peço que só a lã fique seca, e o orvalho molhe toda a terra em redor.</item>
+<item>40. E Deus assim o fez naquela noite: só o velo ficou seco, enquanto todo o solo estava coberto de orvalho.</item>
+ </string-array><string-array name="CapJz7">
+<item>Capítulo 7</item>
+<item>1. Jerobaal, isto é, Gedeão, levantando-se no dia seguinte bem cedo, foi acampar na fonte de Harad com todo o povo que o acompanhava. O acampamento madianita encontrava-se ao norte da colina de Moré, na planície.</item>
+<item>2. O Senhor disse a Gedeão: A gente que levas contigo é numerosa demais para que eu entregue Madiã em suas mãos. Israel poderia gloriar-se à minha custa, dizendo: foi a minha mão que me livrou.</item>
+<item>3. Manda, pois, publicar este aviso para que todos o ouçam: quem for medroso ou tímido, volte para trás e deixe a montanha de Gelboé. Vinte e dois mil homens voltaram, ficando ainda dez mil.</item>
+<item>4. O Senhor disse a Gedeão: Ainda há gente demais. Faze-os descer às águas, e ali farei uma escolha. Aquele que eu te disser que irá contigo, este te seguirá; e aquele que eu não te designar, ficará.</item>
+<item>5. Gedeão fez, pois, descer o povo junto às águas e o Senhor disse-lhe: Porás à parte todos aqueles que lamberem a água com a língua, como faz o cão, e de outro lado aqueles que se puserem de joelhos para beber.</item>
+<item>6. Ora, o número dos que lamberam a água, levando-a com a mão à boca, foi de trezentos homens; todo o resto do povo se pusera de joelhos para beber.</item>
+<item>7. O Senhor disse a Gedeão: Com os trezentos homens que lamberam a água, vos salvarei, e entregarei Madiã nas tuas mãos. Todo o resto do povo volte para a sua casa.</item>
+<item>8. Gedeão guardou os víveres do povo e suas trombetas, e despediu todos os israelitas, cada um para a sua tenda, só conservando os trezentos homens. O acampamento madianita estava embaixo, na planície.</item>
+<item>9. Durante a noite seguinte, o Senhor disse a Gedeão: Levanta-te e ataca o acampamento, porque to entregarei.</item>
+<item>10. Todavia, se tens medo de descer só, leva contigo Fara, teu servo.</item>
+<item>11. Ouvirás o que eles dizem, e sentir-te-ás assim encorajado para atacar o acampamento. Gedeão desceu, pois, com Fara, seu servo, até onde estavam os postos avançados do acampamento.</item>
+<item>12. Ora, os madianitas, os amalecitas e todos os filhos do oriente estavam espalhados pelo vale, tão numerosos como gafanhotos, e seus camelos eram também inumeráveis como a areia das praias.</item>
+<item>13. No momento em que Gedeão se aproximou, um homem estava justamente contando um sonho ao seu companheiro: Eis, dizia ele, o sonho que tive: um pão de cevada rolava sobre o acampamento de Madiã e, chocando-se com a tenda, lançou-a completamente por terra. O companheiro respondeu:</item>
+<item>14. Isso não é outra coisa senão a espada de Gedeão, filho de Joás, o israelita. Deus entregou em suas mãos Madiã e todo o acampamento.</item>
+<item>15. Tendo ouvido a narração e a interpretação desse sonho, Gedeão prostrou-se por terra. Voltou ao acampamento israelita e disse: Levantai-vos, porque o Senhor vos entregou nas mãos o acampamento dos madianitas!</item>
+<item>16. Dividiu os trezentos homens em três grupos, e pôs nas mãos de todos trombetas e ânforas vazias, levando estas dentro uma tocha acesa.</item>
+<item>17. Olhai para mim, disse ele, e fazei como eu. Quando eu chegar aos limites do acampamento, fazei o que eu fizer.</item>
+<item>18. Tocarei a trombeta com aqueles que me acompanham, e então tocareis também as vossas em volta de todo o acampamento, gritando: Pelo Senhor e por Gedeão!</item>
+<item>19. Gedeão com seus cem homens chegou aos limites do acampamento no princípio da segunda vigília, quando se rendiam as sentinelas, e começaram a tocar as trombetas, quebrando ao mesmo tempo as ânforas que tinham na mão.</item>
+<item>20. Então os três batalhões tocaram (também) as trombetas e quebraram as ânforas. Tomando as tochas na mão esquerda e as trombetas na direita para tocar, gritaram: À espada pelo Senhor e por Gedeão!</item>
+<item>21. Cada um ficou em seu lugar, ao redor do acampamento; todo o acampamento se pôs a correr e fugiram, gritando.</item>
+<item>22. Os trezentos homens continuavam a tocar as trombetas, enquanto, por todo o acampamento, o Senhor fez com que os madianitas voltassem a espada uns contra os outros, e o exército fugiu até Bet-Seta, para os lados de Sarera, e até os limites de Abel-Mehula, junto de Tebat.</item>
+<item>23. Juntaram-se então aos israelitas as tribos de Neftali e de Aser e todo o Manassés, e perseguiram os madianitas.</item>
+<item>24. Gedeão enviou mensageiros por todo o monte de Efraim, para dizer: Descei ao encontro dos madianitas e cortai-lhes a passagem das águas até Betbera, e até os vaus do Jordão. Juntaram-se, pois, os homens de Efraim e ocuparam as passagens até Betbera, e igualmente os vaus do Jordão.</item>
+<item>25. Tendo capturado dois chefes madianitas, Oreb e Zeb, mataram Oreb no rochedo de Oreb, e Zeb no lagar de Zeb. E continuaram a perseguir os madianitas, levando as cabeças de Oreb e de Zeb a Gedeão, no outro lado do Jordão.</item>
+ </string-array><string-array name="CapJz8">
+<item>Capítulo 8</item>
+<item>1. Os homens de Efraim disseram a Gedeão: Por que nos trataste assim, não nos chamando a pelejar contigo contra Madiã? E houve entre eles uma violenta discussão.</item>
+<item>2. Gedeão respondeu-lhes: Que fiz eu, ao lado do que vós fizestes? Porventura não valem mais os cachos de Efraim que as vindimas de Abieser?</item>
+<item>3. Foi nas vossas mãos que o Senhor entregou os príncipes de Madiã, Oreb e Zeb. Que pude eu, pois, fazer em comparação do que vós fizestes? E com estas palavras aquietaram-se.</item>
+<item>4. Gedeão chegou ao Jordão e passou-o com seus trezentos homens, continuando a perseguir o inimigo, apesar de sua fadiga.</item>
+<item>5. Chegando a Socot, disse aos seus moradores: Dai, peço-vos, pão aos homens que me acompanham, porque estão muito cansados; estou perseguindo Zebéia e Salmana, reis de Madiã.</item>
+<item>6. Os chefes de Socot responderam-lhe: Tens já talvez em teu poder o punho de Zebéia e de Salmana para que possamos dar pão à tua tropa?</item>
+<item>7. Pois bem, replicou Gedeão, quando o Senhor me houver entregue nas mãos Zebéia e Salmana, eu vos rasgarei a pele com espinhos e abrolhos do deserto!</item>
+<item>8. Dali subiu a Fanuel, onde fez o mesmo pedido, mas obteve a mesma resposta que em Socot.</item>
+<item>9. Gedeão disse-lhes: Quando eu voltar vitorioso, destruirei esta torre.</item>
+<item>10. Zebéia e Salmana estavam então em Carcor com o seu forte exército, cerca de quinze mil homens, que eram o restante de todo o exército dos filhos do oriente, pois haviam já perecido cento e vinte mil combatentes que manejavam a espada.</item>
+<item>11. Gedeão subiu pelo caminho dos nômades, a oriente de Nobe e de Jegba, e feriu o acampamento dos inimigos que se julgavam perfeitamente seguros.</item>
+<item>12. Zebéia e Salmana, reis de Madiã, fugiram, mas foram perseguidos e presos por Gedeão, depois de ter derrotado toda a sua guarnição.</item>
+<item>13. Gedeão, filho de Joás, voltou da batalha pela subida de Hares.</item>
+<item>14. Deteve um jovem entre os habitantes de Socot e fez-lhe perguntas. Este escreveu-lhe uma lista com setenta e sete nomes dos chefes de Socot e dos anciãos.</item>
+<item>15. Gedeão veio ter com os habitantes de Socot e disse-lhes: Eis aqui Zebéia e Salmana a respeito dos quais me insultastes, dizendo: tens já talvez em teu poder o punho de Zebéia e de Salmana, para que possamos dar pão aos teus homens fatigados?</item>
+<item>16. Tomou então os anciãos da cidade e açoitou-os com espinhos e abrolhos do deserto.</item>
+<item>17. Destruiu também a torre de Fanuel e matou os habitantes da cidade.</item>
+<item>18. E disse a Zebéia e a Salmana: Como eram aqueles homens que matastes no Tabor? Eram, responderam-lhe, semelhantes a ti; cada um deles parecia um filho de rei</item>
+<item>19. Eram meus irmãos, filhos de minha mãe! Juro pelo Senhor, se os tivésseis deixado com vida, eu não vos mataria.</item>
+<item>20. E disse a Jeter, seu filho primogênito: Levanta-te e mata-os! Mas o jovem não ousou tirar a espada, porque, sendo ainda muito novo, tinha medo.</item>
+<item>21. Vem tu mesmo, disseram-lhe Zebéia e Salmana, e mata-nos; porque, tal o homem, tal a sua força. Gedeão matou Zebéia e Salmana, e tomou os colares que os camelos traziam ao pescoço.</item>
+<item>22. Os israelitas disseram a Gedeão: Sê o nosso rei, tu e teu filho, e o filho de teu filho, porque tu nos livraste das mãos dos madianitas.</item>
+<item>23. Não, respondeu ele, não reinarei sobre vós, nem meu filho tampouco; é o Senhor quem será o vosso rei.</item>
+<item>24. E ajuntou: Tenho um pedido a vos fazer: que cada um de vós me dê as argolas de vosso despojo. Os inimigos, que eram os ismaelitas, usavam argolas de ouro.</item>
+<item>25. Eles responderam: Nós tas daremos de muito boa vontade. E, estendendo no chão um manto, lançaram nele as argolas de sua presa.</item>
+<item>26. O peso das argolas de ouro que ele tinha pedido era de mil e setecentos siclos de ouro, sem contar os colares, brincos e ornamentos de púrpura que costumavam usar os reis de Madiã, afora ainda os colares que traziam seus camelos no pescoço.</item>
+<item>27. Gedeão fez de tudo isso um efod e o expôs em sua cidade de Efra. Mas todos os israelitas se prostituíram ante esse efod que se tornou, assim, um laço para Gedeão e sua casa.</item>
+<item>28. Os madianitas foram humilhados diante dos israelitas e não puderam mais levantar a cabeça, de sorte que a terra pôde gozar um repouso de quarenta anos no tempo de Gedeão.</item>
+<item>29. Jerobaal, filho de Joás, retirou-se e foi habitar em sua casa.</item>
+<item>30. Teve setenta filhos, saídos todos dele, porque tinha numerosas mulheres.</item>
+<item>31. Sua concubina, que estava em Siquém, deu-lhe também um filho, que foi chamado Abimelec.</item>
+<item>32. Morreu Gedeão, filho de Joás, numa ditosa velhice, e foi sepultado no túmulo de Joás, seu pai, em Efra de Abieser.</item>
+<item>33. Depois de sua morte, os filhos de Israel prostituíram-se de novo com os baal, e tomaram Baal-Berit por seu deus.</item>
+<item>34. Não se lembraram os israelitas do Senhor, seu Deus, que os tinha livrado das mãos de todos os inimigos que os cercavam,</item>
+<item>35. nem testemunharam gratidão alguma pela casa de Jerobaal-Gedeão por todos os benefícios que ele tinha feito a Israel.</item>
+ </string-array><string-array name="CapJz9">
+<item>Capítulo 9</item>
+<item>1. Abimelec, filho de Jerobaal, foi ter com os irmãos de sua mãe em Siquém, e disse-lhes, assim como a toda a família de sua mãe:</item>
+<item>2. Dizei, vo-lo peço, a todos os habitantes de Siquém: o que é melhor para vós: serdes dominados por setenta homens, todos filhos de Jerobaal, ou que um só homem seja vosso rei? Lembrai-vos de que eu sou de vosso sangue e de vossa carne.</item>
+<item>3. Os irmãos de sua mãe falaram dele aos habitantes de Siquém, referindo-lhes suas palavras, e inclinaram o seu coração para Abimelec, porque, diziam eles, é nosso irmão.</item>
+<item>4. E deram-lhe setenta siclos de prata tomados do templo de Baal-Berit, com os quais assalariou homens miseráveis e aventureiros, que o seguiram.</item>
+<item>5. Foi à casa de seu pai em Efra, e matou sobre uma pedra os seus irmãos, filhos de Jerobaal, setenta homens; escapou somente Joatão, filho mais novo de Jerobaal, porque se tinha escondido.</item>
+<item>6. Juntaram-se então todos os siquemitas com todos os de Bet-Melo, e vieram junto do terebinto da estela que havia em Siquém, onde proclamaram rei Abimelec.</item>
+<item>7. Sabendo disso, subiu Joatão ao cimo do monte Garizim e exclamou: Ouvi-me, homens de Siquém, para que Deus vos ouça!</item>
+<item>8. As árvores resolveram um dia eleger um rei para governá-las e disseram à oliveira: reina sobre nós!</item>
+<item>9. Mas ela respondeu: renunciarei, porventura, ao meu óleo que constitui minha glória aos olhos de Deus e dos homens, para colocar-me acima das outras árvores?</item>
+<item>10. E as árvores disseram à figueira: vem tu, e reina sobre nós!</item>
+<item>11. Mas a figueira disse-lhes: poderia eu, porventura, renunciar à doçura de meu delicioso fruto, para colocar-me acima das outras árvores?</item>
+<item>12. E as árvores disseram à videira: vem tu, reina sobre nós!</item>
+<item>13. Mas a videira respondeu: poderia eu renunciar ao meu vinho que faz a alegria de Deus e dos homens, para colocar-me acima das outras árvores?</item>
+<item>14. E todas as árvores disseram ao espinheiro: vem tu, reina sobre nós!</item>
+<item>15. E o espinheiro respondeu: se realmente me quereis escolher para reinar sobre vós, vinde e abrigai-vos debaixo de minha sombra; mas, se não o quereis, saia fogo do espinheiro e devore os cedros do Líbano!</item>
+<item>16. Agora, pois, se com lealdade e boa-fé escolhestes Abimelec para vosso rei, se vos portastes bem com Jerobaal e sua casa, correspondendo aos benefícios que ele vos fez</item>
+<item>17. porque meu pai combateu por vós e livrou-vos dos madianitas arriscando a própria vida;</item>
+<item>18. vós, que agora vos levantastes contra a casa de meu pai, matastes todos os seus setenta filhos sobre uma pedra, e proclamastes rei dos habitantes de Siquém Abimelec, filho de sua escrava, sob o pretexto de que ele é vosso irmão,</item>
+<item>19. se, pois, com lealdade e boa-fé, procedestes bem com Jerobaal e sua casa, então que Abimelec vos faça felizes, e que vós o façais feliz igualmente!</item>
+<item>20. Do contrário, saia fogo de Abimelec, e devore os homens de Siquém com os de Bet-Melo; e saia fogo dos habitantes de Siquém e de Bet-Melo, e devore Abimelec!</item>
+<item>21. Fugiu em seguida Joatão para Bera, onde habitou, longe de Abimelec, seu irmão.</item>
+<item>22. Reinou Abimelec sobre Israel durante três anos.</item>
+<item>23. E Deus suscitou um mau espírito entre ele e os habitantes de Siquém, que os fez se revoltarem.</item>
+<item>24. Isso aconteceu para que fosse vingado o homicídio dos setenta filhos de Jerobaal, e seu sangue caísse sobre Abimelec, seu irmão, que os havia matado, e sobre os siquemitas que tinham sido seus cúmplices.</item>
+<item>25. Os homens de Siquém armaram contra ele emboscadas no alto dos montes, e puseram-se a despojar todos aqueles que passavam por ali; e Abimelec foi informado disso.</item>
+<item>26. Gaal, filho de Obed, foi com seus irmãos a Siquém e ganhou a confiança dos homens do lugar.</item>
+<item>27. Saíram pelos campos, vindimaram as vinhas, pisaram as uvas, celebraram a festa. Foram ao templo do seu deus e ali fizeram um festim, amaldiçoando Abimelec.</item>
+<item>28. Gaal, filho de Obed, disse: Quem é Abimelec, e o que é Siquém, para que lhe estejamos sujeitos? Não é ele filho de Jerobaal, e não é Zebul o seu lugar-tenente? Servi a família de Emor, pai de Siquém. Por que razão serviremos Abimelec?</item>
+<item>29. Oxalá tivesse eu poder sobre esse povo! Eu arrasaria Abimelec e lhe diria: junta o teu exército, e vem!</item>
+<item>30. Zebul, governador da cidade, sabendo o que dissera Gaal, filho de Obed, encolerizou-se,</item>
+<item>31. e mandou secretamente dizer a Abimelec: Gaal, filho de Obed, veio a Siquém com seus irmãos, e anda sublevando a cidade contra ti.</item>
+<item>32. Levanta-te de noite, tu e tua tropa, e põe-te de emboscada no campo;</item>
+<item>33. amanhã cedo, ao nascer do sol, lança-te sobre a cidade; quando Gaal e sua tropa saírem contra ti, far-lhe-ás o que as circunstâncias te permitirem.</item>
+<item>34. Abimelec, pois, partiu durante a noite com toda a sua gente, e pôs emboscadas em quatro grupos junto de Siquém.</item>
+<item>35. Entretanto Gaal, filho de Obed, saiu e instalou-se diante das portas da cidade. Então Abimelec com todos os seus deixou a emboscada.</item>
+<item>36. Vendo aquela tropa, Gaal disse a Zebul: Eis uma multidão que desce das colinas. Tu vês, respondeu Zebul, as sombras das colinas como se fossem homens.</item>
+<item>37. Gaal replicou: Está descendo uma tropa do alto; e eis uma outra que vem pelo caminho do carvalho dos Adivinhos.</item>
+<item>38. Zebul disse-lhe então: Onde está agora a tua arrogância, tu que dizias: quem é Abimelec para que nós o sirvamos? Eis o povo que tu desprezavas! Vai, agora, e combate contra ele!</item>
+<item>39. Saiu Gaal à frente dos siquemitas e combateu contra Abimelec.</item>
+<item>40. Mas foi derrotado por Abimelec e fugiu; muitos homens, que estavam mortalmente feridos, caíram antes de terem atingido o limiar da porta.</item>
+<item>41. Abimelec deteve-se em Ruma; Zebul, porém, lançou Gaal e seus irmãos fora de Siquém.</item>
+<item>42. No dia seguinte, o povo saiu ao campo. Tendo sabido disso, Abimelec</item>
+<item>43. tomou sua tropa, dividiu-a em três grupos e os pôs de emboscada no campo. Ao ver que o povo saía da cidade, atacou-o e derrotou-o,</item>
+<item>44. vindo em seguida com o seu grupo tomar posição à entrada da cidade, enquanto os dois outros grupos perseguiam os que estavam no campo e os massacravam.</item>
+<item>45. Abimelec combateu a cidade durante todo aquele dia e tomou-a. Matou toda a população, arrasou a cidade e semeou-a de sal.</item>
+<item>46. Ao ouvirem isso, todos os habitantes da torre de Siquém retiraram-se para a fortaleza do templo de El-Berit.</item>
+<item>47. E foi noticiado a Abimelec que todos os habitantes da torre de Siquém se tinham retirado para esse lugar;</item>
+<item>48. subiu então Abimelec com sua tropa ao monte Selmon, tomou um machado e cortou um galho de árvore. Pondo-o aos ombros, disse à sua gente: Vistes o que eu fiz? Apressai-vos a fazer o mesmo.</item>
+<item>49. Cortou cada um deles um galho e todos seguiram Abimelec; puseram esses galhos contra a fortaleza e meteram-lhes fogo, sendo a fortaleza, com todos os seus ocupantes, devorada pelas chamas. Desse modo pereceram todos os que habitavam na torre de Siquém, cerca de mil pessoas, tanto homens como mulheres.</item>
+<item>50. Depois disso, Abimelec marchou contra Tebes, que sitiou e tomou de assalto.</item>
+<item>51. Havia no meio da cidade uma torre forte, na qual se tinham refugiado todos os habitantes, homens e mulheres. Fechando bem a porta, subiram ao terraço da torre.</item>
+<item>52. Abimelec, chegando ao pé da torre, aproximou-se da porta para lhe pôr fogo.</item>
+<item>53. Então uma mulher, lançando de cima uma pedra de moinho, feriu-lhe a cabeça, fraturando-lhe o crânio.</item>
+<item>54. Chamou imediatamente seu escudeiro e disse-lhe: Tira a tua espada e acaba de matar-me, para que se não diga que fui morto por uma mulher! Seu escudeiro o feriu, e Abimelec morreu.</item>
+<item>55. Morto Abimelec, todos os israelitas voltaram para suas casas.</item>
+<item>56. Assim Deus fez recair sobre Abimelec o mal que tinha feito a seu pai, matando seus setenta irmãos.</item>
+<item>57. E do mesmo modo Deus fez recair sobre os siquemitas os seus crimes. Assim se cumpriu sobre ele a maldição de Joatão, filho de Jerobaal.</item>
+ </string-array><string-array name="CapJz10">
+<item>Capítulo 10</item>
+<item>1. Depois de Abimelec, Tola, filho de Fua, filho de Dodo, de Issacar, levantou-se para livrar Israel. Habitava em Samir, na montanha de Efraim,</item>
+<item>2. e foi juiz em Israel durante vinte e três anos. Depois disso morreu e foi sepultado em Samir.</item>
+<item>3. A este sucedeu Jair, de Galaad, que foi juiz em Israel durante vinte e dois anos.</item>
+<item>4. Tinha trinta filhos que montavam em trinta jumentinhos, e possuíam trinta cidades que se chamam ainda hoje Havot-Jair, situadas em Galaad.</item>
+<item>5. Jair morreu e foi sepultado em Camon.</item>
+<item>6. Os filhos de Israel fizeram de novo o mal aos olhos do Senhor, servindo os baal e os astarot, os deuses da Síria, de Sidon, de Moab, os deuses dos amonitas e dos filisteus; e abandonaram o culto do Senhor.</item>
+<item>7. A cólera do Senhor inflamou-se contra Israel, e ele entregou-os nas mãos dos filisteus e dos amonitas.</item>
+<item>8. Estes últimos oprimiram e esmagaram os israelitas naquele ano; e a opressão estendeu-se por dezoito anos sobre os israelitas de além do Jordão, na terra dos amorreus, em Galaad.</item>
+<item>9. Os amonitas, tendo passado o Jordão, combateram contra Judá, Benjamim e a tribo de Efraim, e Israel viu-se numa extrema aflição.</item>
+<item>10. Os israelitas clamaram ao Senhor, dizendo: Pecamos contra vós, abandonando o nosso Deus e servindo aos Baal.</item>
+<item>11. O Senhor respondeu-lhes: Porventura não vos tenho eu livrado dos egípcios, dos amorreus, dos amonitas, dos filisteus?</item>
+<item>12. E quando os sidônios, os amalecitas e Maon vos oprimiam e vós clamastes a mim, não vos libertei?</item>
+<item>13. Vós, porém, me abandonastes de novo para servir a outros deuses; por isso não mais vos livrarei.</item>
+<item>14. Ide e invocai os deuses que escolhestes; eles que vos livrem de vossa angústia!</item>
+<item>15. Os israelitas disseram ao Senhor: Pecamos; tratai-nos como melhor vos parecer. Somente, livrai-nos hoje.</item>
+<item>16. Tiraram então do meio deles os deuses estranhos e serviram ao Senhor, que se compadeceu dos males de Israel.</item>
+<item>17. Os amonitas juntaram-se e acamparam em Galaad, enquanto os israelitas faziam o mesmo em Masfa.</item>
+<item>18. O povo e os chefes de Galaad diziam uns para os outros: Quem começará a pelejar contra os amonitas? Esse será o chefe de todo o povo de Galaad.</item>
+ </string-array><string-array name="CapJz11">
+<item>Capítulo 11</item>
+<item>1. Jefté, o galaadita, era. um valente guerreiro, filho de Galaad e duma meretriz.</item>
+<item>2. A mulher de Galaad deu-lhe filhos, e estes, tendo crescido, expulsaram Jefté, dizendo: Tu não herdarás nada na casa de nosso pai, porque és um bastardo.</item>
+<item>3. Jefté afastou-se de seus irmãos e fixou-se na terra de Tob. Alguns homens miseráveis reuniram-se a ele e tomaram parte em suas incursões.</item>
+<item>4. Algum tempo depois, os amonitas entraram em luta contra Israel.</item>
+<item>5. Os habitantes de Galaad, vendo-se assim atacados, foram em busca de Jefté na terra de Tob</item>
+<item>6. e disseram-lhe: Vem: serás o nosso chefe, e combateremos os amonitas.</item>
+<item>7. Jefté, porém, respondeu: Vós, que sois meus inimigos, tendo-me expulsado da casa de meu pai, por que vindes a mim agora que estais em aperto?</item>
+<item>8. Os anciãos de Galaad disseram-lhe: Foi (precisamente) por isso que viemos agora ter contigo, para que venhas conosco e combatas contra os filhos de Amon, e sejas o nosso chefe, o chefe de todo o povo de Galaad.</item>
+<item>9. Jefté disse-lhes: Se vós me conduzirdes para lutar contra os amonitas, e o Senhor mos entregar nas mãos, serei o vosso chefe.</item>
+<item>10. Os anciãos responderam-lhe: O Senhor seja testemunha entre nós de que faremos tudo o que disseste!</item>
+<item>11. E Jefté partiu com os anciãos de Galaad. O povo proclamou-o seu chefe e general, e Jefté repetiu diante do Senhor, em Masfa, tudo o que acabara de dizer.</item>
+<item>12. Jefté enviou mensageiros ao rei dos amonitas para lhe dizer: Que tens tu contra mim para que me venhas combater em minha terra?</item>
+<item>13. O rei respondeu-lhes: Israel, vindo do Egito, tomou a minha terra desde o Arnon até Jaboc e até o Jordão. Devolve-mo agora, pois, pacificamente.</item>
+<item>14. Jefté mandou nova embaixada ao rei dos amonitas,</item>
+<item>15. dizendo-lhe: Assim fala Jefté: Israel não se apoderou nem do território de Moab, nem da terra dos filhos de Amon.</item>
+<item>16. Quando saiu do Egito, Israel marchou pelo deserto até o mar Vermelho, e chegou a Cades.</item>
+<item>17. Mandou então mensageiros ao rei de Edom, pedindo-lhe a permissão de passar pela sua terra; mas o rei de Edom não o consentiu. Fez o mesmo pedido ao rei de Moab, que tampouco lhe deu passagem. Israel deteve-se, pois, em Cades.</item>
+<item>18. Retomou em seguida sua marcha pelo deserto, e contornou as terras de Edom e de Moab; chegando à parte oriental da terra de Moab, acampou na outra banda do Arnon, sem contudo penetrar na terra de Moab, cuja fronteira é o Arnon.</item>
+<item>19. Dali, Israel mandou ainda mensageiros a Seon, rei dos amorreus, em Hesebon pedindo-lhe que os deixasse passar pela sua terra, para que chegassem à deles.</item>
+<item>20. Seon, porém, não teve bastante confiança em Israel para deixá-lo atravessar o seu território; antes, ajuntando todas as suas tropas, acampou em Jasa, e atacou Israel.</item>
+<item>21. O Senhor, Deus de Israel, entregou-o com todo o seu povo nas mãos de Israel, que o derrotou, e conquistou todas as terras dos amorreus que habitavam naquela região;</item>
+<item>22. tomou toda a terra dos amorreus, desde o Arnon até Jaboc, e desde o deserto até o Jordão.</item>
+<item>23. Agora que o Senhor, Deus de Israel, expulsou os amorreus diante de seu povo de Israel, tu pretendes possuir a sua terra?</item>
+<item>24. Porventura não tens a posse do que te deu a conquistar o teu deus Camos? E nós, por que não possuiríamos tudo aquilo que o Senhor, nosso Deus, expulsou diante de nós?</item>
+<item>25. Serias tu melhor do que Balac, filho de Sefor, rei de Moab? Porventura disputou ele com os israelitas, ou combateu contra eles?</item>
+<item>26. Eis já trezentos anos que Israel habita em Hesebon e em suas aldeias, em Aroer e em suas aldeias, e em todas as cidades banhadas pelo Arnon. Por que não lhe tiraste estas terras durante todo esse tempo?</item>
+<item>27. Não sou eu, pois, que te faço dano, mas és tu mesmo que te prejudicas, declarando-me guerra. Que o Senhor, o Juiz, se pronuncie hoje entre os israelitas e os amonitas!</item>
+<item>28. Mas o rei dos amonitas não quis ouvir nada do que Jefté lhe mandara dizer.</item>
+<item>29. O Espírito do Senhor desceu sobre Jefté, e ele, atravessando Galaad e Manassés, passou dali até Masfa de Galaad, de onde marchou contra os amonitas.</item>
+<item>30. Jetfé fez ao Senhor este voto:</item>
+<item>31. Se me entregardes nas mãos os amonitas, aquele que sair das portas de minha casa ao meu encontro, quando eu voltar vitorioso dos filhos de Amon, será consagrado ao Senhor, e eu o oferecerei em holocausto.</item>
+<item>32. Jefté marchou contra os amonitas, e o Senhor lhos entregou.</item>
+<item>33. Ele os derrotou desde Aroer até as proximidades de Menit, e até Abel-Queramim, tomando-lhes vinte aldeias. E os amonitas, com este terrível golpe, foram humilhados perante Israel.</item>
+<item>34. Ora, voltando Jefté para a sua casa em Masfa, eis que sua filha saiu-lhe ao encontro com tamborins e danças. Era a sua única filha, porque, afora ela, não tinha filho nem filha.</item>
+<item>35. Quando a viu, rasgou as suas vestes: Ah, minha filha, exclamou ele, tu me acabrunhas de dor, e estás no número daqueles que causam a minha infelicidade! Fiz ao Senhor um voto que não posso revogar.</item>
+<item>36. Meu pai, disse ela, se fizeste um voto ao Senhor, trata-me segundo o que prometeste, agora que o Senhor te vingou de teus inimigos, os amonitas.</item>
+<item>37. E ajuntou: Concede-me somente isto: Deixa-me que vá sobre as colinas durante dois meses, para chorar a minha virgindade com as minhas amigas.</item>
+<item>38. Vai, disse-lhe ele. E deu-lhe dois meses de liberdade. Ela foi com as suas companheiras, e chorou a sua virgindade sobre as colinas.</item>
+<item>39. Passado o prazo, voltou para seu pai, e ele cumpriu o voto que tinha feito. Ela não tinha conhecido varão.</item>
+<item>40. Daqui veio este costume, em Israel, que todos os anos as jovens israelitas reúnem-se para chorar durante quatro dias a filha de Jefté, o galaadita.</item>
+ </string-array><string-array name="CapJz12">
+<item>Capítulo 12</item>
+<item>1. Os efraimitas, tendo-se sublevado, passaram a Safon e disseram a Jefté: Por que saíste a combater os amonitas, sem nos chamar para irmos contigo? Por isso vamos queimar a tua casa.</item>
+<item>2. Jefté respondeu: Eu e meu povo tivemos graves contendas com os amonitas; chamei-vos e vós não me livrastes de suas mãos.</item>
+<item>3. Vendo que não podia contar convosco, arrisquei a minha vida marchando (sozinho) contra os amonitas, e o Senhor entregou-os nas minhas mãos. Por que, pois, viestes contender comigo?</item>
+<item>4. Jefté reuniu todos os homens de Galaad e combateu contra Efraim. Os habitantes de Galaad derrotaram os de Efraim, que lhes haviam dito: Vós sois fugitivos de Efraim que habitais entre Efraim e Manassés!</item>
+<item>5. Galaad ocupou os vaus do Jordão, e cada vez que um fugitivo de Efraim queria passar, perguntavam-lhe: És tu efraimita? Ele respondia: Não.</item>
+<item>6. Pois bem, diziam eles então, dize: Chibólet. E ele dizia: Sibólet, não podendo pronunciar corretamente. Prendiam-no logo e o degolavam junto aos vaus do Jordão. Naquele dia pereceram quarenta e dois mil homens de Efraim.</item>
+<item>7. Jefté, o galaadita, foi juiz em Israel durante seis anos; depois morreu, e foi sepultado em uma das cidades de Galaad.</item>
+<item>8. Depois de Jefté, foi juiz de Israel Ibsã, de Belém,</item>
+<item>9. o qual teve trinta filhos; casou suas trinta filhas fora de sua família, e mandou vir de fora trinta jovens para os seus filhos. Julgou Israel durante sete anos.</item>
+<item>10. Morreu e foi enterrado em Belém.</item>
+<item>11. Depois dele, Elon, de Zabulon, foi juiz em Israel, e sua judicatura durou dez anos.</item>
+<item>12. Morreu, e foi enterrado em Ajalon, na terra de Zabulon.</item>
+<item>13. Em seguida teve Israel por juiz Abdon, filho de Ilel, de Faraton.</item>
+<item>14. Teve quarenta filhos e trinta netos, que montavam em setenta jumentinhos. Julgou Israel durante oito anos.</item>
+<item>15. Depois disso, Abdon, filho de Ilel, de Faraton, morreu e foi sepultado em Faraton, na terra de Efraim, na montanha dos amalecitas.</item>
+ </string-array><string-array name="CapJz13">
+<item>Capítulo 13</item>
+<item>1. Os israelitas continuaram a fazer o mal aos olhos do Senhor, que os entregou nas mãos dos filisteus durante quarenta anos.</item>
+<item>2. Ora, havia em Sorá um homem da família dos danitas, chamado Manué. Sua mulher, sendo estéril, não tinha ainda gerado filhos.</item>
+<item>3. O anjo do Senhor apareceu a esta mulher e disse-lhe: Tu és estéril, e nunca tiveste filhos; mas conceberás e darás à luz um filho.</item>
+<item>4. Toma, pois, muito cuidado; não bebas doravante nem vinho, nem bebida forte, e não comas coisa alguma impura, porque vais conceber e dar à luz um filho.</item>
+<item>5. A navalha não tocará a sua cabeça, porque esse menino será nazareno de Deus desde o seio de sua mãe, e será ele quem livrará Israel da mão dos filisteus.</item>
+<item>6. A mulher foi ter com o seu marido: Apresentou-se a mim um homem de Deus, disse ela, que tinha o aspecto de um anjo de Deus, em extremo terrível. Não lhe perguntei de onde era, nem ele me deu o seu nome,</item>
+<item>7. mas disse-me: Vais conceber e dar à luz um filho; não bebas, pois, nem vinho nem bebida forte e não comas coisa alguma impura, porque esse menino será nazareno desde o seio de sua mãe até o dia de sua morte.</item>
+<item>8. Então Manué invocou o Senhor, dizendo: Rogo-vos, Senhor, que o homem de Deus que nos enviastes volte novamente e nos ensine o que devemos fazer acerca do menino que há de nascer.</item>
+<item>9. Deus ouviu essa oração, e o anjo de Deus veio de novo visitar a mulher, quando esta se achava no campo; Manué, seu marido, não estava com ela.</item>
+<item>10. Ela correu imediatamente a dar ao seu marido a notícia, dizendo: O homem que vi outro dia apareceu-me de novo.</item>
+<item>11. Manué levantou-se e seguiu a sua mulher até junto do homem: És tu, disse ele, o homem que falou à minha mulher?</item>
+<item>12. Sou eu mesmo, respondeu (o desconhecido). Manué replicou: Quando se cumprir a tua palavra, de que maneira havemos de criar esse menino, e o que teremos de fazer por ele?</item>
+<item>13. O anjo do Senhor respondeu: Abstenha-se tua mulher de tudo o que eu lhe disse:</item>
+<item>14. não prove nada do que venha da videira; não beba nem vinho, nem bebida forte, nada coma que seja impuro e observe tudo o que lhe prescrevi.</item>
+<item>15. Manué disse ao anjo do Senhor: Rogo-te que te detenhas até que te ofereçamos um cabrito que vamos preparar.</item>
+<item>16. Ainda que tu me retivesses, respondeu o anjo do Senhor, eu não comeria de tua mesa; mas se queres fazer um holocausto, oferece-o ao Senhor. Manué ignorava que era o anjo do Senhor.</item>
+<item>17. Qual é o teu nome, perguntou-lhe ele, para que te honremos quando se cumprir tua promessa?</item>
+<item>18. O anjo do Senhor respondeu-lhe: Por que me perguntas o meu nome? Ele é Magnífico.</item>
+<item>19. Tomou, pois, Manué o cabrito com uma oferta e ofereceu-o ao Senhor sobre a rocha. Coisa maravilhosa! Enquanto Manué e sua mulher olhavam</item>
+<item>20. subir para o céu a chama do sacrifício que estava sobre o altar, viu que o anjo do Senhor subia na chama. À vista disso, Manué e sua mulher caíram com o rosto por terra.</item>
+<item>21. E o anjo do Senhor desapareceu diante dos olhos de Manué e sua mulher. Manué compreendeu logo que era o anjo do Senhor,</item>
+<item>22. e disse à sua mulher: Vamos morrer seguramente, porque vimos Deus!</item>
+<item>23. Sua mulher respondeu-lhe: Se o Senhor nos quisesse matar, não teria aceitado de nossas mãos o holocausto e a oferta; não nos teria mostrado tudo o que vimos, nem nos teria dito o que hoje nos revelou.</item>
+<item>24. Ela deu à luz um filho e pôs-lhe o nome de Sansão. O menino cresceu e o Senhor o abençoou.</item>
+<item>25. E o Espírito do Senhor começou a incitá-lo, em Mahanê-Dã, entre Sorea e Estaol.</item>
+ </string-array><string-array name="CapJz14">
+<item>Capítulo 14</item>
+<item>1. Sansão desceu a Tamna e, vendo ali uma mulher das filhas dos filisteus,</item>
+<item>2. voltou, e falou ao seu pai e à sua mãe, dizendo: Vi em Tamna uma filha dos filisteus: pedi-a para mim em casamento.</item>
+<item>3. Seu pai e sua mãe disseram-lhe: Não há porventura ninguém entre as filhas de teus irmãos, e em todo o nosso povo, para que queiras escolher uma mulher entre os filisteus, estes incircuncisos? Sansão, porém, disse ao seu pai: Toma esta para mim, porque me agrada.</item>
+<item>4. Seus pais não sabiam que isso se fazia por disposição do Senhor, e que ele buscava uma ocasião contra os filisteus que, naquele tempo, dominavam sobre Israel.</item>
+<item>5. Sansão desceu com seu pai e sua mãe a Tamna. Quando chegaram às vinhas de Tamna, apareceu de repente um leão, rugindo, que arremeteu contra ele.</item>
+<item>6. O Espírito do Senhor apossou-se de Sansão, e ele despedaçou o leão como se fosse um cabrito, sem ter coisa alguma na mão; e não quis contar isso aos seus pais.</item>
+<item>7. Depois desceu a Tamna e falou à mulher que lhe agradava.</item>
+<item>8. Voltando, alguns dias depois, para a desposar, afastou-se do caminho para ver o cadáver do leão. Mas eis que na boca do leão estava um enxame de abelhas com mel.</item>
+<item>9. Tomou o mel nas mãos e o ia comendo pelo caminho; e tendo alcançado os seus pais, deu-lhes do mel e eles comeram, mas não lhes disse que aquele mel provinha da boca do leão.</item>
+<item>10. Seu pai desceu à casa da mulher, onde Sansão deu um banquete, segundo o costume dos jovens.</item>
+<item>11. Logo que o viram chegar, deram-lhe trinta companheiros para estarem com ele.</item>
+<item>12. Sansão disse-lhes: Vou propor-vos um enigma; se o decifrardes dentro dos sete dias das bodas e descobri-lo, dar-vos-ei trinta túnicas e trinta vestes de festa;</item>
+<item>13. mas, se o não puderdes decifrar, sois vós que me dareis trinta túnicas e outras tantas vestes de festa. Eles responderam-lhe: Propõe o teu enigma, para que o ouçamos.</item>
+<item>14. Ele disse-lhes: Do que come saiu o que se come; do forte saiu doçura. Durante três dias não puderam decifrar o enigma.</item>
+<item>15. Quando chegou o quarto dia, disseram à mulher de Sansão: Persuade o teu marido que nos explique o enigma, se não queres que te queimemos com a casa de teu pai. Será talvez para nos despojar que nos convidastes?</item>
+<item>16. A mulher de Sansão, desfazendo-se em lágrimas junto dele, disse-lhe: Tu me odeias; tu não me amas. Propuseste um enigma aos filhos do meu povo e não mo explicaste! Nem sequer aos meus próprios pais eu o expliquei, respondeu ele, e haveria de explicá-lo a ti?</item>
+<item>17. E ela chorava assim até o sétimo dia das bodas. Ao sétimo dia, enfim, importunado por sua mulher, deu-lhe a chave do enigma, e ela por sua vez (apressou-se) a declará-lo aos seus compatriotas.</item>
+<item>18. Estes, no sétimo dia, antes do pôr-do-sol, disseram a Sansão: Que coisa é mais doce que o mel, que coisa é mais forte que o leão? Se vós não tivésseis lavrado com a minha novilha, respondeu Sansão, não teríeis descoberto o meu enigma.</item>
+<item>19. Apoderou-se então dele o Espírito do Senhor, e desceu a Ascalon. Matou ali trinta homens, tomou os seus despojos, e deu trinta vestes de festas aos que tinham explicado o seu enigma, e voltou enfurecido para a casa paterna.</item>
+<item>20. Sua mulher, porém, foi dada em casamento a um jovem que tinha sido seu companheiro nas bodas.</item>
+ </string-array><string-array name="CapJz15">
+<item>Capítulo 15</item>
+<item>1. Passado algum tempo, estando próxima a ceifa do trigo, Sansão foi ver a sua mulher, levando-lhe um cabrito. Quero, dizia ele, entrar no quarto de minha mulher. O pai dela, porém, impediu-lhe a entrada:</item>
+<item>2. Eu pensei, disse ele a Sansão, que a aborrecias, e por isso dei-a a um teu amigo. Não é, porventura, mais formosa do que ela sua irmã mais nova? Toma-a por mulher em seu lugar.</item>
+<item>3. Desta vez, respondeu Sansão, não se me poderá censurar o mal que farei aos filisteus.</item>
+<item>4. Ele se retirou, apanhou trezentas raposas e, tomando tochas, prendeu as raposas duas a duas pelas caudas e atou entre as duas caudas uma tocha.</item>
+<item>5. Pôs-lhes fogo e soltou-as nas searas dos filisteus. Incendiou assim tanto o trigo que estava enfeixado como o que estava ainda em pé, queimando até mesmo as vinhas e os olivais.</item>
+<item>6. Quem fez isso?, perguntaram os filisteus. Responderam: Foi Sansão, genro do tamneu, porque este tomou sua mulher e a deu a um de seus amigos. Então subiram os filisteus e queimaram a mulher juntamente com o seu pai.</item>
+<item>7. Sansão disse-lhes: Ah, é assim que fazeis? Pois bem:	não descansarei enquanto não me tiver vingado de vós.</item>
+<item>8. E feriu-os vigorosamente, sem compaixão alguma. Depois disso, desceu e habitou na gruta da rocha de Etão.</item>
+<item>9. Então subiram os filisteus e acamparam em Judá, espalhando-se até Lequi.</item>
+<item>10. Os homens de Judá disseram: Por que subistes contra nós? Eles responderam: Subimos para prender Sansão e pagar-lhe o que ele nos fez.</item>
+<item>11. Três mil homens de Judá desceram então à gruta do rochedo de Etão e disseram a Sansão: Não sabes que os filisteus nos dominam? Que é isso que nos fizeste? Eu tratei-os como eles mesmos me trataram a mim, respondeu Sansão.</item>
+<item>12. Eles replicaram: Viemos prender-te para entregar-te aos filisteus. Jurai-me, disse Sansão, que não me haveis de matar.</item>
+<item>13. Não te mataremos, mas entregar-te-emos a eles amarrado. Ligaram-no, pois, com duas cordas novas e tiraram-no da gruta.</item>
+<item>14. Chegando a Lequi, os filisteus acolheram-no com gritos de alegria. Apoderou-se, porém, de Sansão o Espírito do Senhor, e as duas cordas que ligavam seus braços tornaram-se como fios de linho queimado, caindo de suas mãos as amarraduras.</item>
+<item>15. Apanhando uma queixada ainda fresca de jumento, feriu com ela mil homens.</item>
+<item>16. Sansão dizia: Com a queixada de um jumento, eu os destrocei! Com a queixada de um jumento mil homens feri!</item>
+<item>17. Dito isso, lançou ao longe a queixada e deu àquele lugar o nome de Ramat-Lequi.</item>
+<item>18. Sentindo uma sede intensa, clamou ao Senhor: Vós destes, disse ele, ao vosso servo esta grande vitória. Morrerei eu agora de sede e cairei nas mãos dos incircuncisos?</item>
+<item>19. Então Deus fendeu a rocha côncava que está em Lequi, e dela jorrou água. Sansão, tendo bebido dessa água, recobrou ânimo e recuperou as forças. Daí o nome que traz essa fonte: En-Hacoré. Ainda hoje ela existe em Lequi.</item>
+<item>20. Sansão foi juiz em Israel durante vinte anos no tempo dos filisteus.</item>
+ </string-array><string-array name="CapJz16">
+<item>Capítulo 16</item>
+<item>1. Sansão foi a Gaza, onde viu uma mulher meretriz, e foi procurá-la.</item>
+<item>2. E a notícia correu pela cidade: Sansão está aqui. Puseram-se de emboscada nos arredores durante toda a noite, junto às portas da cidade, e ficaram quietos toda a noite, dizendo: Ao romper do dia, matá-lo-emos.</item>
+<item>3. Sansão dormiu até a meia-noite. E levantando-se pela meia-noite tomou os batentes da porta de Gaza, com os seus postes, arrancou-os juntamente com o ferrolho, pô-los sobre os ombros e levou-os até o alto da montanha que está defronte de Hebron.</item>
+<item>4. Depois disto, enamorou-se de uma mulher que habitava no vale de Sorec, chamada Dalila.</item>
+<item>5. Os príncipes dos filisteus foram ter com ela e disseram-lhe: Procura seduzi-lo e vê se descobres de onde lhe vem sua força e como o poderemos vencer, a fim de o amarrarmos para dominá-lo. Se fizeres isto, dar-te-emos cada um de nós mil e cem moedas de prata.</item>
+<item>6. Dalila disse a Sansão: Dize-me, de onde vem tua força? E de que modo se precisaria ligar-te para que fosses dominado?</item>
+<item>7. Sansão respondeu-lhe: Se me amarrassem com sete cordas de nervos ainda frescas e úmidas, eu me tornaria tão fraco como qualquer homem.</item>
+<item>8. Os príncipes dos filisteus trouxeram a Dalila sete cordas de nervos bem frescas e úmidas, com as quais ela o ligou.</item>
+<item>9. Ora, estando eles de emboscada no quarto, ela gritou: Sansão, os filisteus vêm contra ti! E ele rompeu as cordas com se rompe um cordão de estopa, mal se lhe chega o fogo. Assim, permaneceu oculto o segredo de sua força.</item>
+<item>10. Dalila disse-lhe: Tu zombaste de mim, mentindo-me. Dize-me agora com que se precisaria ligar-te.</item>
+<item>11. Se me amarrassem com cordas novas, disse ele, que ainda não tenham servido, eu me tornaria tão fraco como qualquer homem.</item>
+<item>12. Dalila tomou, pois, cordas novas, amarrou-o com elas e gritou: Sansão, os filisteus vêm contra ti! Ora, estavam eles de emboscada no quarto, mas Sansão rompeu como se fossem um fio as cordas que lhe amarravam os braços.</item>
+<item>13. Até ao presente, disse-lhe Dalila, só tens zombado de mim e só me tens dito mentiras. Dize-me com que será preciso amarrar-te. Bastará, respondeu Sansão, que teças as sete tranças de minha cabeça com a urdidura do teu tear.</item>
+<item>14. Ela fixou-as com o torno do tear, e gritou: Sansão, os filisteus vêm contra ti! Ele, despertando do sono, arrancou o torno do tear com os liços.</item>
+<item>15. Dalila disse-lhe: Como podes dizer que me amas, se o teu coração não está comigo? Eis já três vezes que me enganas, e não me queres dizer onde reside a tua força.</item>
+<item>16. Ela o importunava cada dia com suas perguntas, instando com ele e molestando-o de tal sorte, que ele sentiu com isso uma impaciência mortal.</item>
+<item>17. E Sansão acabou por confiar-lhe o seu segredo: Sobre minha cabeça, disse ele, nunca passou a navalha, porque sou nazareno de Deus desde o seio de minha mãe. Se me for rapada a cabeça, a minha força me abandonará e serei então fraco como qualquer homem.</item>
+<item>18. Dalila sentiu que ele lhe tinha aberto todo o seu coração; e mandou dizer aos príncipes dos filisteus: Subi agora; porque ele me abriu todo o seu coração. E os príncipes dos filisteus foram ter com ela, levando o dinheiro em suas mãos.</item>
+<item>19. Dalila fez que seu marido adormecesse nos seus joelhos, e chamando um homem, mandou-lhe que rapasse as sete tranças de sua cabeça. Ela começou a dominá-lo, pois sua força o deixou.</item>
+<item>20. E disse: Sansão, os filisteus vêm contra ti! Despertando ele do sono, disse consigo mesmo: Desembaraçar-me-ei deles como das outras vezes e me livrarei. Ignorava Sansão que o Senhor se tinha retirado dele.</item>
+<item>21. E os filisteus, tomando-o, furaram-lhe os olhos e levaram-no a Gaza ligado com uma dupla cadeia de bronze, e ali meteram-no na prisão, fazendo-o girar a mó.</item>
+<item>22. Entretanto, os seus cabelos recomeçavam a crescer.</item>
+<item>23. Ora, os príncipes dos filisteus reuniram-se para oferecer um grande sacrifício a Dagon, seu deus, e celebrar uma festa. Nosso deus, diziam eles, entregou-nos Sansão nosso inimigo.</item>
+<item>24. Também o povo, vendo isso, louvava o seu deus, dizendo: O nosso deus entregou-nos o nosso inimigo, aquele que devastava nossa terra e matava tantos dos nossos.</item>
+<item>25. E estando eles de coração alegre, exclamaram: Mandai vir Sansão para nos divertir! Tiraram-no da prisão, e Sansão teve que dançar diante deles. Tendo sido colocado entre as colunas,</item>
+<item>26. Sansão disse ao jovem que o conduzia pela mão: Deixa que eu toque as colunas que sustêm o templo, e que me apóie a elas.</item>
+<item>27. Ora, o templo estava repleto de homens e mulheres, e estavam ali todos os príncipes dos filisteus; havia cerca de três mil pessoas, homens e mulheres, que do teto olhavam o prisioneiro dançar.</item>
+<item>28. Sansão, porém, invocando o Senhor, disse: Senhor Javé, rogo-vos que vos lembreis de mim. Dai-me, ó Deus, ainda esta vez, força para vingar-me dos filisteus pela perda de meus olhos.</item>
+<item>29. Abraçando então as duas colunas centrais sobre as quais repousava todo o edifício, pegou numa com a mão direita e noutra com a mão esquerda, e gritou:</item>
+<item>30. Morra eu com os filisteus! Dizendo isso, sacudiu com todas as suas forças o edifício, que ruiu sobre os príncipes e sobre todo o povo reunido. Desse modo, matou pela sua própria morte muito mais homens do que os que matara em toda a sua vida.</item>
+<item>31. Então desceram a Gaza os seus irmãos e toda a sua família paterna, tomaram-no, e tendo voltado, sepultaram-no no túmulo de seu pai, entre Sorea e Estaol. Sansão fora juiz em Israel durante vinte anos.</item>
+ </string-array><string-array name="CapJz17">
+<item>Capítulo 17</item>
+<item>1. Havia na montanha de Efraim um homem chamado Micas.</item>
+<item>2. Ele disse (um dia) à sua mãe: Os mil e cem siclos de prata que te roubaram e pelos quais lançaste uma maldição aos meus ouvidos, esse dinheiro está em meu poder; fui eu que os roubei. Sua mãe respondeu: Abençoado seja o meu filho pelo Senhor!</item>
+<item>3. Devolveu, pois, os mil e cem siclos de prata à sua mãe, que lhe disse: Da minha mão eu os consagro ao Senhor a favor de meu filho, para que se faça deles um ídolo fundido. Toma: ei-los aqui.</item>
+<item>4. Micas entregou o dinheiro à sua mãe e ela tomou duzentos siclos de prata que mandou entregar ao fundidor. Fez o ourives com essa prata um ídolo fundido, que foi colocado na casa de Micas.</item>
+<item>5. E Micas teve, assim, uma capela; mandou fazer um efod e uns terafim e consagrou um de seus filhos para servir-lhe de sacerdote.</item>
+<item>6. Naquele tempo não havia rei em Israel, e cada um fazia o que lhe parecia melhor.</item>
+<item>7. Ora, aconteceu que um adolescente de Belém de Judá, da tribo de Judá (o qual era levita, e morava ali),</item>
+<item>8. partiu da cidade de Belém de Judá para procurar uma morada. Seguindo o seu caminho, chegou à montanha de Efraim, à casa de Micas.</item>
+<item>9. De onde vens?, perguntou-lhe este. De Belém de Judá, respondeu o levita, e viajo em busca de um lugar onde me fixar.</item>
+<item>10. Micas disse-lhe: Fica comigo. Serás para mim um pai e um sacerdote; dar-te-ei dez siclos de prata por ano, vestes suficientes e alimento.</item>
+<item>11. O jovem levita condescendeu em habitar na casa daquele homem, que o tratou como um de seus filhos.</item>
+<item>12. Micas pô-lo em suas funções e o jovem serviu-lhe de sacerdote, residindo em sua própria casa.</item>
+<item>13. Agora, disse Micas, estou seguro de que o Senhor me abençoará, tendo eu esse levita por sacerdote.</item>
+ </string-array><string-array name="CapJz18">
+<item>Capítulo 18</item>
+<item>1. Naquele tempo não havia rei em Israel. Por essa mesma época a tribo de Dá buscava uma possessão para habitar nela, porque até então nada tinha recebido entre as tribos de Israel.</item>
+<item>2. Os danitas enviaram cinco dos seus, cinco homens valorosos escolhidos dentre todas as suas famílias de Sorea e de Estaol, para explorarem cuidadosamente a terra: Ide, disseram-lhes, e examinai bem a terra. Foram e chegaram à montanha de Efraim, e entraram na casa de Micas, onde passaram a noite.</item>
+<item>3. Perto da casa de Micas ouviram a voz do jovem levita e, aproximando-se dele, disseram-lhe: Quem te trouxe aqui? Que fazes aqui? Por que te encontras neste lugar?</item>
+<item>4. Respondeu-lhes o jovem: Micas fez-me isto e isso; deu-me um salário e eu sirvo-lhe, de sacerdote.</item>
+<item>5. Consulta então, replicaram-lhe, o teu deus a fim de saber se nossa viagem será bem sucedida.</item>
+<item>6. O sacerdote respondeu: Ide em paz: vossa viagem está sob o olhar de Deus.</item>
+<item>7. Os cinco homens puseram-se a caminho e foram até Lais. Viram ali um povo que habitava seguro, pacífico e tranqüilo, segundo o costume dos sidônios. Não havia naquele terra nenhum rei que dominasse sobre os seus habitantes, ou que os molestasse em coisa alguma. Viviam longe dos sidônios e não tinham relações com ninguém.</item>
+<item>8. Voltando para seus irmãos em Sorea e Estaol, estes disseram: Que pudestes fazer?</item>
+<item>9. Eles responderam: Vamos, subamos contra eles. Vimos a sua terra que é excelente. Por que ficais aí sem nada dizer? Não demoreis a pôr-vos em marcha para tomar posse dessa terra.</item>
+<item>10. Quando ali entrardes, encontrareis um povo que vive em segurança e uma terra espaçosa que Deus vos entregará nas mãos, uma região onde nada falta daquilo que a terra produz.</item>
+<item>11. Seiscentos homens da família de Dá partiram, pois, de Sorea e de Estaol, munidos com armas de guerra</item>
+<item>12. e acamparam em Cariatiarim, em Judá. Por isso deu-se àquele lugar o nome de Mahanê-Dã, o qual assim se chama ainda hoje, e está situado ao ocidente de Cariatiarim.</item>
+<item>13. Dali passaram às montanhas de Efraim e chegaram à casa de Micas.</item>
+<item>14. E os cinco homens que tinham sido enviados a explorar a terra de Lais disseram aos seus irmãos: Sabeis que há nessa casa um efod, uns terafim e um ídolo fundido? Considerai agora o que tendes a fazer.</item>
+<item>15. Dirigiram-se para lá e entraram na casa do jovem levita, em casa de Micas, para saudá-lo e informar-se de como ia passando.</item>
+<item>16. Entretanto, os seiscentos danitas, armados como estavam, ficaram à porta.</item>
+<item>17. Os cinco exploradores penetraram (sozinhos) na capela e tomaram o ídolo com o efod e os terafim, enquanto o sacerdote se achava com os seiscentos homens armados à entrada da porta.</item>
+<item>18. Tiraram, pois, da casa de Micas, o ídolo, o efod e os terafim. O sacerdote disse-lhes: Que fazeis vós?</item>
+<item>19. Cala-te, responderam-lhe, põe a mão na boca e vem conosco; tu nos servirás de pai e de sacerdote. O que é melhor para ti: ser sacerdote na casa de um particular, ou numa tribo e numa família de Israel?</item>
+<item>20. Alegrou-se o coração do sacerdote, e ele, tomando o efod, os terafim e o ídolo, foi com a tropa.</item>
+<item>21. Puseram-se de novo a caminho, precedidos das crianças, do gado e das bagagens.</item>
+<item>22. Estando eles já longe da casa de Micas, os vizinhos deste ajuntaram-se e perseguiram os danitas.</item>
+<item>23. Interrogados, os filhos de Dã voltaram-se e disseram a Micas: Que queres tu, e por que trazes toda essa gente?</item>
+<item>24. Ele respondeu: Tirastes os meus deuses que fiz para mim, tomastes o sacerdote e partistes. Que me resta agora? E como podeis perguntar o que quero?</item>
+<item>25. Os danitas replicaram: Nem mais uma palavra diante de nós! Não suceda que alguns se impacientem contra vós e percais a vida, tu e tua família!</item>
+<item>26. E os danitas continuaram o seu caminho. Micas, vendo que aqueles homens eram mais fortes que ele, voltou para a sua casa.</item>
+<item>27. Desse modo, tomaram os danitas a obra que Micas tinha feito, juntamente com o seu sacerdote. Atacaram então Lais, um povo pacífico e seguro, passaram-no ao fio da espada e queimaram a cidade.</item>
+<item>28. Não houve quem a salvasse, porque estava longe de Sidon e não tinham relações com ninguém. Essa cidade estava situada no vale pertencente a Bet-Roob. Os danitas reedificaram a cidade e habitaram-na,</item>
+<item>29. chamando-a cidade de Dã, nome de seu pai, que tinha nascido de Israel; a cidade chamava-se primitivamente Lais.</item>
+<item>30. E erigiram em seguida o ídolo. Jonatã, filho de Gersã filho de Moisés, e seus descendentes foram sacerdotes na tribo de Dã até o dia de sua deportação.</item>
+<item>31. O ídolo de Micas foi conservado entre eles durante todo o tempo que o santuário de Deus ficou em Silo.</item>
+ </string-array><string-array name="CapJz19">
+<item>Capítulo 19</item>
+<item>1. Naquele tempo, como não havia rei em Israel, aconteceu que um levita, vindo fixar-se no fundo das montanhas de Efraim, tomou ali por concubina uma jovem. de Belém de Judá.</item>
+<item>2. Esta foi-lhe infiel, deixou-o e foi para junto de seu pai em Belém de Judá, onde ficou quatro meses.</item>
+<item>3. Seu marido foi ter com ela para falar-lhe ao coração e reconduzi-la à sua casa, levando consigo um servo e dois jumentos. Ela o introduziu em casa de seu pai. Quando o pai da mulher o viu, saiu a recebê-lo alegremente.</item>
+<item>4. Retido pelo sogro, pai da jovem, ficou o levita com ele durante três dias; comeram, beberam e passaram a noite.</item>
+<item>5. Na manhã do quarto dia, quando se levantaram e se dispunham a partir, o pai da jovem disse ao genro: Restaura primeiro as tuas forças com um pouco de pão, e depois disto partireis.</item>
+<item>6. Sentaram-se ambos, comeram e beberam. em seguida o pai da jovem disse ao genro: Peço-te que passes aqui ainda esta noite, e alegre-se o teu coração.</item>
+<item>7. A instâncias do sogro, o homem que já se tinha levantado para partir, tornou a recostar-se e passou ali ainda aquela noite.</item>
+<item>8. Chegada a manhã, preparando-se ele para se pôr a caminho, disse-lhe o pai da jovem: Peço-te que restaures as tuas forças. Deixai a vossa partida para o declinar do dia. E comeram ambos juntos.</item>
+<item>9. Levantou-ser então o homem e dispunha-se a partir com a sua concubina e o seu servo. O sogro, porém, pai da jovem, disse-lhe de novo: Olha que o dia declina e a noite se aproxima. Passai a noite aqui. Sim, o dia se vai acabando, passa aqui a noite tranqüilamente. Amanhã vos levantareis cedo e partireis, a fim de voltardes para a vossa casa.</item>
+<item>10. O levita, porém, não consentiu. Partiu e chegou a Jebus, que é Jerusalém, com a sua concubina e seus dois jumentos selados.</item>
+<item>11. Quando chegaram, o dia ia declinando, e o criado disse a seu amo: Vem tomemos o caminho da cidade dos jebuseus para ali passarmos a noite.</item>
+<item>12. Não, respondeu-lhe o amo, não entraremos numa cidade estrangeira, onde não há israelitas. Iremos até Gabaa.</item>
+<item>13. Vamos, ajuntou ele, procuremos atingir um desses lugares, e nos alojaremos em Gabaa ou em Rama.</item>
+<item>14. Prosseguiram, pois, o seu caminho, e o sol se punha, quando se encontravam perto de Gabaa de Benjamim.</item>
+<item>15. Dirigiram-se para lá, a fim de passarem a noite. Tendo entrado na cidade, parou o levita na praça, e ninguém lhe ofereceu hospitalidade.</item>
+<item>16. Nisto apareceu um homem idoso que voltava do seu trabalho no campo, ao anoitecer. Era também da montanha de Efraim e habitava como forasteiro em Gabaa, cujos habitantes eram benjaminitas.</item>
+<item>17. O velho, levantando os olhos, viu o levita na praça da cidade: Aonde vais?, disse-lhe ele, e de onde vens?</item>
+<item>18. Nós partimos, respondeu o levita, de Belém de Judá e vamos até ao fundo da montanha de Efraim, onde nasci. Acabo de deixar Belém de Judá para voltar à minha casa, mas ninguém me quer acolher,</item>
+<item>19. embora tenhamos palha e feno para os nossos jumentos, pão e vinho para mim, tua serva e o jovem, teu servo; nada nos falta.</item>
+<item>20. O velho respondeu: A paz seja contigo. Dar-te-ei tudo o que for necessário; somente não passarás a noite na praça.</item>
+<item>21. Fê-lo entrar em sua casa, e deu de comer aos jumentos. Os viajantes lavaram os pés, e foi-lhes servida a refeição.</item>
+<item>22. Enquanto restauravam as forças, vieram os habitantes da cidade, gente péssima, e, cercando a casa do velho, bateram violentamente à porta: Faze sair, gritaram eles ao velho, dono da casa, faze sair o homem que entrou em tua casa para que nós o conheçamos!</item>
+<item>23. O velho saiu e foi ter com eles, dizendo: Não queirais, irmãos, cometer semelhante maldade, pois esse homem é hóspede de minha casa. Não pratiqueis tal infâmia.</item>
+<item>24. Eis aqui a minha filha virgem, e a concubina desse homem. Eu vo-las trarei, e vós podereis violá-las e fazer delas o que quiserdes; somente vos peço que não cometais contra esse homem uma ação tão infame.</item>
+<item>25. Eles, porém, não o quiseram ouvir. Então o levita, vendo isso, trouxe-lhes sua concubina; eles a conheceram e abusaram dela durante a noite até pela manhã, e despediram-na ao amanhecer.</item>
+<item>26. Ao romper do dia, veio a mulher e caiu à porta da casa onde estava, o marido e ali ficou até que o dia clareasse.</item>
+<item>27. Chegada a manhã, levantou-se o marido e, ao abrir a porta para continuar o seu caminho, eis que sua concubina jazia diante da porta, com as mãos estendidas sobre a soleira.</item>
+<item>28. Levanta-te, disse-lhe ele, vamo-nos. Mas a mulher não lhe respondeu... tomou-a então, pô-la sobre o jumento e tomou o caminho de volta para a sua casa.</item>
+<item>29. Chegando à sua casa, tomou um cutelo, dividiu o cadáver de sua concubina, membro por membro, em doze partes, e enviou-as por todo o território de Israel.</item>
+<item>30. Todos os que testemunharam aquilo, disseram: Jamais se fez ou se viu tal coisa, desde que Israel subiu do Egito até este dia. Ponderai bem isto, deliberei e pronunciai-vos!</item>
+ </string-array><string-array name="CapJz20">
+<item>Capítulo 20</item>
+<item>1. Movimentaram-se, pois, todos os israelitas como um só homem, desde Dã até Bersabéia, e até a terra de Galaad. E a assembléia reuniu-se diante do Senhor em Masfa.</item>
+<item>2. os chefes de todo o povo e todas as tribos de Israel apresentaram-se diante da assembléia do povo de Deus: havia quatrocentos mil homens de pé, armados com a espada.</item>
+<item>3. E os filhos de Benjamim souberam que os israelitas tinham subido a Masfa. Os israelitas disseram: Dizei-nos de que modo se cometeu esse crime?</item>
+<item>4. O levita, marido da mulher que foi morta, tomou a palavra: Eu cheguei a Gabaa de Benjamiml, disse ele, com minha concubina para ali passar a noite.</item>
+<item>5. Os homens de Gabaa, porém, amotinaram-se contra mim e cercaram de noite a casa, querendo matar-me; violentaram a minha concubina, e ela morreu.</item>
+<item>6. Tomei-a então e cortei-a em pedaços, que mandei distribuir por todo o território da herança de Israel, porque cometeram uma atrocidade e uma infâmia em Israel.</item>
+<item>7. Vós todos, ó israelitas que aqui estais, dai o vosso parecer e tomai uma decisão.</item>
+<item>8. Levantou-se então todo o povo como um só homem, dizendo: Ninguém dentre nós irá à sua tenda, e ninguém voltará à sua casa.</item>
+<item>9. Eis o que agora vamos fazer a Gabaa: lancemos a sorte contra ela!</item>
+<item>10. Tomemos dentre todas as tribos de Israel dez homens de cada cem, cem de cada mil, e mil de cada dez mil, que irão procurar víveres para o abastecimento do povo. É preciso, quando eles voltarem, tratarmos a Gabaa de Benjamim como ela merece pela infâmia que cometeu em Israel.</item>
+<item>11. Assim se coligou contra a cidade todo o Israel, como se fora um só homem.</item>
+<item>12. Mandaram mensageiros a todas as famílias de Benjamim, para que lhe dissessem: Que maldade é essa que se cometeu no meio de vós?</item>
+<item>13. Entregai-nos sem demora os celerados de Gabaa, para que os matemos e tiremos o mal do meio de Israel. Mas os benjaminitas não quiseram dar ouvidos aos seus irmãos israelitas.</item>
+<item>14. Juntaram-se em Gabaa de todas as suas cidades para combater os israelitas.</item>
+<item>15. Contaram-se naquele dia os benjaminitas que acorreram de todas as cidades: vinte e seis mil homens, armados de espada, sem contar os habitantes de Gabaa, que eram setecentos homens de escol.</item>
+<item>16. Entre todo esse povo havia setecentos homens de escol que não se serviam da mão direita, e todos capazes de atirar pedras com a funda num cabelo, sem errar o alvo.</item>
+<item>17. O número de israelitas recenseados, excluindo Benjamim, era de quatrocentos mil homens armados de espada, todos aptos para o combate.</item>
+<item>18. Os israelitas subiram a Betel para consultar o Senhor; perguntaram.: Quem de nós subirá primeiro para começar a luta contra os benjaminitas? O Senhor respondeu-lhes: Judá será o primeiro a subir.</item>
+<item>19. Partiram os israelitas no dia seguinte pela manhã e acamparam perto de Gabaa.</item>
+<item>20. Começaram o combate contra os filhos de Benjamim, e puseram-se em ordem de batalha perto da cidade.</item>
+<item>21. Saindo os benjaminitas infligiram a Israel naquele dia uma perda de vinte e dois mil homens, que juncavam o solo.</item>
+<item>22. A multidão dos filhos de Israel, recobrando nova coragem, pôs-se outra vez em ordem de batalha no mesmo lugar onde estiveram na véspera.</item>
+<item>23. Até a tarde estiveram os filhos de Israel chorando diante do Senhor, e o consultaram, dizendo: Devo continuar ainda a combater contra os filhos de Benjamim, meu irmão? O Senhor respondeu: Marchai contra ele.</item>
+<item>24. Os israelitas avançaram segunda vez contra os benjaminitas,</item>
+<item>25. que saíram de Gabaa ao seu encontro e lançaram-nos de novo por terra, matando dezoito mil israelitas, todos homens que manejavam a espada.</item>
+<item>26. Então todo o povo dos israelitas subiu a Betel, e ali, sentados, lamentavam-se diante do Senhor, jejuando naquele dia até a tarde; e ofereceram holocaustos e sacrifícios pacíficos diante do Senhor.</item>
+<item>27. E consultaram-no. Naquele tempo a arca da aliança de Deus estava lá, com Finéias, filho de Eleazar, filho de Aarão, que se conservava junto dela.</item>
+<item>28. Disseram, pois: Devo continuar ou devo cessar a guerra contra Benjamim, meu irmão? O Senhor respondeu: lde, porque amanhã eu os entregarei nas vossas mãos.</item>
+<item>29. Israel pôs emboscadas em volta de Gabaa e,</item>
+<item>30. ao terceiro dia, recomeçou o combate contra os benjaminitas na mesma ordem de batalha que antes.</item>
+<item>31. Saindo contra eles, os benjaminitas deixaram-se atrair para longe da cidade, e puseram-se, como das outras vezes, a ferir e a matar alguns homens de Israel, uns trinta aproximadamente, nos caminhos que sobem para Betel e para Gabaa através do campo.</item>
+<item>32. Os filhos de Benjamim disseram entre si: Ei-los batidos diante de nós como dantes. Os filhos de Israel, porém, diziam: Fujamos e atraiamo-los para longe da cidade por esses caminhos.</item>
+<item>33. Então, saindo todos os israelitas dos seus postos, ordenaram-se em batalha em Baal-Tamar, enquanto os homens de emboscada deixavam os seus esconderijos na planície da Gabaa.</item>
+<item>34. Surgiram assim diante de Gabaa dez mil homens de escol do exército de Israel. A batalha foi rude: mas os benjaminitas não supunham que a derrota ia atingi-los.</item>
+<item>35. O Senhor destruiu Benjamim à vista dos filhos de Israel, os quais mataram naquele dia vinte e cinco mil e cem benjaminitas, todos homens de armas.</item>
+<item>36. OS filhos de Benjamim foram derrotados. Os israelitas tinham-lhes cedido terreno para fugir, porque confiavam na emboscada que tinham posto junto de Gabaa.</item>
+<item>37. Saindo, pois, os homens dessa emboscada, cercaram a cidade e passaram tudo ao fio da espada.</item>
+<item>38. Ora, os homens de Israel tinham combinado com os da emboscada que fizessem subir da cidade como sinal uma nuvem de fumo.</item>
+<item>39. Os homens de Israel simularam a fuga no combate, e Benjamim pôs-se a ferir e a matar cerca de trinta homens, dizendo: Sem dúvida, estão derrotados diante de nós como no primeiro combate.</item>
+<item>40. Mas quando a nuvem de fumo começou a subir da cidade, os benjaminitas olharam para trás e viram o incêndio de Gabaa subir até o céu.</item>
+<item>41. Os homens de Israel deram volta e os benjaminitas ficaram pasmados ante o desastre que vinha sobre eles.</item>
+<item>42. Voltaram as costas diante dos israelitas e tomaram o caminho do deserto; o exército, porém, os perseguiu de perto, e os das cidades foram massacrados cada um em seu próprio lugar.</item>
+<item>43. Cercaram os benjaminitas, perseguiram-nos e esmagaram-nos em todas as suas paragens até defronte de Gabaa, para as bandas do levante.</item>
+<item>44. Dessa sorte, caíram dezoito mil valentes guerreiros benjaminitas,</item>
+<item>45. enquanto o resto se pôs a fugir para o deserto até o rochedo de Remon. Nessa fuga foram ainda mortos cinco mil homens pelos caminhos; e perseguindo-os de perto até Gedeão, mataram ainda dois mil.</item>
+<item>46. Naquele dia foram mortos vinte e cinco mil homens de Benjamim, guerreiros valentes que manejavam a espada.</item>
+<item>47. Seiscentos homens tinham chegado, em sua fuga para o deserto, ao rochedo de Remon, onde ficaram quatro meses.</item>
+<item>48. (Entrementes), os israelitas tinham-se voltado contra os filhos de Benjamim e passaram ao fio da espada tudo o que lhes caía nas mãos nas cidades, desde os homens até os animais. Incendiaram também todas as cidades que encontraram.</item>
+ </string-array><string-array name="CapJz21">
+<item>Capítulo 21</item>
+<item>1. Os filhos de Israel tinham jurado em Masfa, dizendo: Ninguém dentre nós dará sua filha em casamento a um benjaminita.</item>
+<item>2. Dirigiu-se o povo a Betel, onde ficou até a tarde em presença do Senhor, e levantaram a voz com grandes lamentações:</item>
+<item>3. Por que, diziam eles, ó Senhor, Deus de Israel, aconteceu essa desgraça que nos falte hoje uma tribo de Israel?</item>
+<item>4. No dia seguinte pela manhã, o povo levantou naquele lugar um altar, sobre o qual ofereceu holocaustos e sacrifícios pacíficos.</item>
+<item>5. E disseram: Haverá alguém dentre todas as tribos de Israel que não tenha comparecido à assembléia em presença do Eterno? Com efeito, fora pronunciado a seguinte juramento solene contra aquele que não subisse a Masfa junto do Senhor: Será punido de morte.</item>
+<item>6. Os filhos de Israel tiveram pena de Benjamim, seu irmão: Assim, diziam eles, foi hoje uma tribo cortada de Israel?</item>
+<item>7. Aonde vamos buscar mulheres para os que restam, pois que juramos pelo Senhor não lhes dar nossas filhas em casamento?</item>
+<item>8. Por isso perguntavam se não havia alguma tribo de Israel que não tivesse subido para o Senhor em Masfa. Ora, ninguém de Jabes em Galaad tinha vindo ao acampamento ou comparecido à assembléia.</item>
+<item>9. Fez-se o recenseamento do povo e não se encontrou, com efeito, homem algum de Jabes em Galaad.</item>
+<item>10. Então a assembléia enviou para lá doze mil guerreiros valentes com a ordem seguinte: Ide e passai ao fio da espada todos os habitantes de Jabes em Galaad com as mulheres e as crianças.</item>
+<item>11. Eis como deveis fazer: votareis ao interdito todo homem, bem como toda mulher que se houver deitado com homem.</item>
+<item>12. Encontraram entre os habitantes de Jabes em Galaad quatrocentas moças virgens, que não tinham conhecido varão, e levaram-nas ao acampamento de Silo, na terra de Canaã.</item>
+<item>13. Toda a assembléia enviou mensagens de paz aos benjaminitas que tinham se refugiado no rochedo de Remon.</item>
+<item>14. Voltaram eles para as suas casas, e foram-lhes dadas por mulheres as filhas de Jabes em Galaad que tinham sido poupadas, mas não chegaram para todos.</item>
+<item>15. O povo teve pena de Benjamim, porque o Senhor tinha feito uma brecha nas tribos de Israel.</item>
+<item>16. Os anciãos da assembléia disseram: Que faremos para dar mulheres aos que restam, pois todas as mulheres de Benjamim foram exterminadas?</item>
+<item>17. E ajuntaram: Fique para Benjamim a herança dos que sobreviveram, para que não seja cortada uma tribo de Israel.</item>
+<item>18. Mas não podemos dar-lhes nossas filhas em casamento, pois os filhos de Israel lançaram a maldição a todo aquele que desse a sua filha por mulher a um benjaminita.</item>
+<item>19. E disseram: Eis que se celebra a festa anual do Senhor em Silo (Silo está situada ao norte de Betel, ao oriente do caminho que vai de Betel a Siquém, e ao sul de Lebona).</item>
+<item>20. Depois deram este conselho aos filhos de Benjamim: Ide e escondei-vos nas vinhas.</item>
+<item>21. Quando virdes as filhas de Silo saírem para dançar em coro, saí de repente das vinhas e cada um tome uma para mulher entre as filhas de Silo; depois disso voltai para a terra de Benjamim.</item>
+<item>22. Quando seus pais ou seus irmãos vierem queixar-se junto de nós, responder-lhes-emos: Deixai-as vir conosco, pois durante a guerra não pudemos tomar uma mulher para cada um. Aliás, não sois vós quem lhas destes, e nem tendes culpa nisso.</item>
+<item>23. Assim fizeram os benjaminitas: tomaram entre as dançarinas mulheres segundo o seu número; tomaram-nas e voltaram para a sua casa. Depois construíram cidades e habitaram nelas.</item>
+<item>24. Voltaram também os israelitas, cada um para a sua tribo e sua família, e para a terra de sua herança.</item>
+<item>25. Naquele tempo não havia rei em Israel, e cada um fazia o que lhe parecia melhor.</item>
+
+ </string-array>
+</resources>

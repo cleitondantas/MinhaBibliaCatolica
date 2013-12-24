@@ -1,0 +1,703 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<string-array name="CapJs1">
+<item>Capítulo 1</item>
+<item>1. Após a morte de Moisés, servo do Senhor, o Senhor disse a Josué, filho de Nun, assistente de Moisés:</item>
+<item>2. Meu servo Moisés morreu. Vamos, agora! Passa o Jordão, tu e todo o povo, e entra na terra que dou aos filhos de Israel.</item>
+<item>3. Todo lugar que pisar a planta de vossos pés, eu vo-lo dou, como prometi a Moisés.</item>
+<item>4. O vosso território se estenderá desde esse deserto e desde o Líbano até o grande rio Eufrates - todo o país dos hiteus - e até o mar Grande para o ocidente.</item>
+<item>5. Enquanto viveres, ninguém te poderá resistir; estarei contigo como estive com Moisés; não te deixarei nem te abandonarei.</item>
+<item>6. Sê firme e corajoso, porque tu hás de introduzir esse povo na posse da terra que jurei a seus pais dar-lhes.</item>
+<item>7. Tem ânimo, pois, e sê corajoso para cuidadosamente observares toda a lei que Moisés, meu servo, te prescreveu. Não te afastes dela nem para a direita nem para a esquerda, para que sejas feliz em todas as tuas empresas.</item>
+<item>8. Traze sempre na boca (as palavras) deste livro da lei; medita-o dia e noite, cuidando de fazer tudo o que nele está escrito; assim prosperarás em teus caminhos e serás bem-sucedido.</item>
+<item>9. Isto é uma ordem: sê firme e corajoso. Não te atemorizes, não tenhas medo, porque o Senhor está contigo em qualquer parte para onde fores.</item>
+<item>10. Eis que Josué ordenou aos oficiais do povo:</item>
+<item>11. Percorrei o acampamento e proclamai ao povo o seguinte: preparai provisões. Dentro de três dias atravessareis o Jordão e ireis conquistar a terra que o Senhor vos dá.</item>
+<item>12. Josué dirigiu-se também aos rubenitas, aos gaditas e à meia tribo de Manassés nestes termos:</item>
+<item>13. Lembrai-vos do que vos prescreveu Moisés, servo do Senhor, quando vos dizia: o Senhor, vosso Deus, vos deu descanso e toda esta terra.</item>
+<item>14. Vossas mulheres, filhos e animais ficarão na terra que Moisés vos deu além do Jordão, mas vós, todos os homens fortes e valentes, passareis armados à frente de vossos irmãos, e os ajudareis,</item>
+<item>15. até que o Senhor tenha dado a vossos irmãos o descanso, como a vós, e que também eles entrem na posse da terra que o Senhor vosso Deus lhes dá. Depois voltareis para a terra que vos pertence, aquela que Moisés, servo do Senhor, vos deu além do Jordão, para o levante.</item>
+<item>16. Eles responderam a Josué: Faremos tudo o que nos ordenaste, e iremos aonde quer que nos enviares.</item>
+<item>17. Obedecer-te-emos em todas as coisas, assim como obedecemos Moisés. Somente desejamos que o Senhor esteja contigo, como esteve com Moisés!</item>
+<item>18. Todo aquele que for rebelde às tuas ordens e não obedecer ao que lhe mandares, será morto. Mas sê forte e corajoso!</item>
+ </string-array><string-array name="CapJs2">
+<item>Capítulo 2</item>
+<item>1. Josué, filho de Nun, despachou de Setim secretamente dois espiões: Ide, disse-lhes ele, e examinai a terra e a cidade de Jericó. Em caminho, entraram em casa de uma prostituta chamada Raab, onde se alojaram.</item>
+<item>2. E foi avisado ao rei de Jericó: Entraram aqui de noite alguns israelitas para explorar a terra.</item>
+<item>3. O rei mandou dizer a Raab: Faze sair esses homens que foram ter contigo e entraram em tua casa; porque vieram espionar a terra.</item>
+<item>4. Mas a mulher ocultou os dois homens e respondeu: Vieram realmente uns homens à minha casa, mas eu não sabia de onde eram.</item>
+<item>5. Pela tarde, quando se iam fechar as portas da cidade, eles partiram. Ignoro para onde foram. Persegui-os vós depressa e os alcançareis.</item>
+<item>6. Ora, ela os fizera subir ao terraço de sua casa e os ocultara sob palhas de linho que ali havia.</item>
+<item>7. Os homens enviados foram atrás deles pelo caminho, que conduz ao vau do Jordão, e as portas da cidade foram fechadas após a partida da patrulha.</item>
+<item>8. Antes que se deitassem, Raab subiu ao terraço junto dos espiões e disse-lhes:</item>
+<item>9. Eu sei que o Senhor vos entregou esta terra; o terror de vós apoderou-se de nós, e todos os habitantes da terra estão desanimados por vossa causa.</item>
+<item>10. Ouvimos dizer como o Senhor secou as águas do mar Vermelho diante de vós, quando saístes do Egito, e como, além do Jordão, tratastes os dois reis dos amorreus, Seon e Og, os quais votastes ao interdito.</item>
+<item>11. Quando ouvimos isso, nosso coração desfaleceu e ninguém mais tem coragem de vos resistir, porque o Senhor, vosso Deus, é o Deus nas alturas dos céus e aqui embaixo na terra.</item>
+<item>12. Agora, vo-lo peço, jurai-me pelo Senhor, que, assim como usei de bondade para convosco, do mesmo modo poupareis a casa de meu pai.</item>
+<item>13. Dai-me um sinal seguro de que salvareis meu pai, minha mãe, meus irmãos, minhas irmãs e todos os que lhe pertencem e livrareis as nossas vidas da morte.</item>
+<item>14. Eles responderam-lhe: a custa de nossa vida salvaremos a vossa, contanto que não nos atraiçoeis. Quando o Senhor nos entregar esta terra, fiéis (à nossa promessa) tratar-te-emos com bondade.</item>
+<item>15. Então, servindo-se de uma corda, ela desceu-os pela janela, pois a casa em que morava estava sobre o muro da cidade.</item>
+<item>16. Ide para o monte, disse-lhes ela, para que não vos encontrem os vossos perseguidores. Ocultai-vos ali durante três dias, até que eles voltem; depois retomareis o vosso caminho.</item>
+<item>17. Os homens disseram-lhe: Eis como havemos de cumprir o juramento a que nos obrigastes:</item>
+<item>18. quando tivermos entrado na terra, porás este cordão vermelho na janela por onde nos fizeste descer; reúne em torno de ti, em tua casa, teu pai, tua mãe, teus irmãos, e toda a família de teu pai.</item>
+<item>19. Se alguém ultrapassar a porta de tua casa e sair para fora, este será responsável pelo que acontecer, e nós seremos inocentes. Mas se alguém puser a mão sobre quem quer que seja que se encontrar contigo em tua casa, é sobre nós que isto cairá.</item>
+<item>20. Se divulgares, porém, o que combinamos contigo, estaremos desobrigados do juramento que nos fizeste fazer.</item>
+<item>21. Seja como dissestes, respondeu ela. Depois os despediu, e eles partiram. E ela pendurou o cordão vermelho na janela.</item>
+<item>22. Eles foram para o monte, onde permaneceram durante três dias, até que voltassem os que os perseguiam. Estes, tendo buscado por todo o caminho os espiões, não os encontraram.</item>
+<item>23. Os dois homens desceram então do monte e, voltando, passaram o Jordão. Foram para junto de Josué, filho de Nun, e contaram-lhe tudo o que se tinha passado.</item>
+<item>24. O Senhor, disseram-lhe eles, entregou toda essa terra nas nossas mãos, pois todos os seus habitantes tremem diante de nós.</item>
+ </string-array><string-array name="CapJs3">
+<item>Capítulo 3</item>
+<item>1. Levantando-se bem cedo, Josué desfez o acampamento e partiu de Setim com todos os filhos de Israel. Chegados ao Jordão, aí se detiveram antes de atravessá-lo.</item>
+<item>2. Passados três dias, os oficiais atravessaram pelo meio do acampamento,</item>
+<item>3. dando ao povo esta ordem: Quando virdes a arca da aliança do Senhor, vosso Deus, levada pelos sacerdotes, filhos de Levi, deixareis vosso acampamento e vos poreis em marcha, seguindo-a.</item>
+<item>4. Haja entre vós e ela uma distância de dois mil côvados aproximadamente. Guardai-vos de vos aproximar dela. Isso para que possais conhecer o caminho por onde deveis ir, porque nunca passastes por ele.</item>
+<item>5. Josué disse ao povo: Santificai-vos, porque amanhã o Senhor operará no meio de vós coisas maravilhosas.</item>
+<item>6. Depois falou aos sacerdotes: Tomai a arca da aliança e ide, adiante do povo. Eles tomaram a arca da aliança e caminharam à testa do povo.</item>
+<item>7. O Senhor disse a Josué: Hoje começarei a exaltar-te diante de todo o Israel, para que saibam que, assim como estive com Moisés, assim estarei contigo.</item>
+<item>8. Eis o que ordenarás aos sacerdotes que levam a arca da aliança: quando chegardes ao Jordão, deter-vos-eis junto às águas do rio.</item>
+<item>9. Então Josué disse aos israelitas: Aproximai-vos e ouvi as palavras do Senhor, vosso Deus.</item>
+<item>10. Por isso, prosseguiu ele, sabereis que o Deus vivo está no meio de vós, e que ele expulsará de diante de vós os cananeus, os hiteus, os heveus, os ferezeus, os gergeseus, os amorreus e os jebuseus.</item>
+<item>11. Eis que a arca da aliança do Senhor de toda a terra vai atravessar diante de vós o Jordão.</item>
+<item>12. Tomai doze homens, um de cada tribo de Israel.</item>
+<item>13. Logo que os sacerdotes que levam a arca de Javé, o Senhor de toda a terra, tiverem tocado com a planta dos seus pés as águas do Jordão, estas serão cortadas, e as águas que vêm de cima pararão, amontoando-se.</item>
+<item>14. O povo dobrou suas tendas e dispôs-se a passar o Jordão, tendo diante de si os sacerdotes que marchavam na frente do povo levando a arca.</item>
+<item>15. No momento em que os portadores da arca chegaram ao rio e os sacerdotes mergulharam os seus pés na beira do rio - o Jordão estava transbordante e inundava suas margens durante todo o tempo da ceifa -,</item>
+<item>16. as águas que vinham de cima detiveram-se e amontoaram-se em uma grande extensão, até perto de Adom, localidade situada nas proximidades de Sartã; e as águas que desciam para o mar da planície, o mar Salgado, foram completamente separadas. O povo atravessou defronte de Jericó.</item>
+<item>17. Os sacerdotes, que levavam a arca da aliança do Senhor, conservaram-se de pé sobre o leito seco do Jordão, enquanto que todo o Israel passava a pé enxuto. E ali permaneceram até que todos passassem para a outra margem.</item>
+ </string-array><string-array name="CapJs4">
+<item>Capítulo 4</item>
+<item>1. Tendo todo o povo atravessado o Jordão, o Senhor disse a Josué:</item>
+<item>2. Escolhei doze homens dentre o povo, um por tribo, e ordenai-lhes:</item>
+<item>3. tomai daqui, do meio do Jordão, deste lugar onde os pés dos sacerdotes estiveram parados, doze pedras que levareis convosco e as colocareis no lugar onde haveis de passar a noite.</item>
+<item>4. Josué convocou os doze homens escolhidos, um por tribo, entre os filhos de Israel.</item>
+<item>5. E disse-lhes: Ide adiante da arca do Senhor, vosso Deus, no meio do Jordão, e cada um de vós, segundo o número das tribos de Israel, carregue uma pedra no seu ombro.</item>
+<item>6. Isso ficará como um memorial entre vós. Quando vossos filhos vos perguntarem um dia: que significam essas pedras?</item>
+<item>7. Responder-lhes-eis: as águas do Jordão foram cortadas diante da arca da aliança do Senhor; quando ela atravessou o Jordão, as águas foram cortadas, e essas pedras são para os israelitas um monumento eterno em memória desse acontecimento.</item>
+<item>8. Fizeram os filhos de Israel como Josué lhes tinha ordenado: tomaram do meio do leito do Jordão doze pedras, como o Senhor tinha dito a Josué, segundo o número das tribos de Israel. Levaram-nas consigo e depositaram-nas no. lugar onde deviam acampar.</item>
+<item>9. Pôs também Josué outras doze pedras no leito do Jordão, no lugar onde estiveram parados os pés dos sacerdotes que levavam a arca da aliança. E elas estão ali ainda hoje.</item>
+<item>10. Os sacerdotes que levavam a arca permaneceram de pé no meio do leito do Jordão até que se cumpriu tudo o que o Senhor tinha ordenado que Josué dissesse ao povo, segundo as ordens que lhe dera Moisés. O povo apressou-se em atravessar o rio.</item>
+<item>11. Logo que todos passaram, a arca do Senhor e os sacerdotes puseram-se de novo à frente do povo.</item>
+<item>12. Os rubenitas, os gaditas e a meia tribo de Manassés tinham passado o rio armados, diante dos israelitas, segundo a ordem de Moisés.</item>
+<item>13. Em número de aproximadamente quarenta mil homens, equipados para o combate, desfilaram diante do Senhor, rumo à planície de Jericó.</item>
+<item>14. Naquele dia o Senhor exaltou Josué aos olhos de todo o Israel. E todos tiveram para com ele o mesmo respeito que por Moisés, durante toda a sua vida.</item>
+<item>15. O Senhor disse a Josué:</item>
+<item>16. Ordena aos sacerdotes, que levam a arca do testemunho, que saiam do Jordão.</item>
+<item>17. Josué ordenou-lhes: Saí do Jordão.</item>
+<item>18. E os sacerdotes, que levavam a arca da aliança do Senhor, tendo deixado o leito do rio, ao pisarem seus pés a terra firme, as águas do Jordão retomaram seu lugar e correram caudalosas como antes.</item>
+<item>19. Ora, o povo saiu do Jordão no décimo dia do primeiro mês, e acampou em Gálgala, na extremidade oriental de Jericó.</item>
+<item>20. Josué levantou ali as doze pedras tomadas do Jordão.</item>
+<item>21. E disse aos filhos de Israel: Quando vossos filhos perguntarem um dia a seus pais: que significam essas pedras?</item>
+<item>22. Responder-lhes-eis nestes termos: Israel atravessou o Jordão a pé enxuto,</item>
+<item>23. porque o Senhor, vosso Deus, secou diante de vós o leito do Jordão, até que passásseis, do mesmo modo que antes tinha feito ao mar Vermelho, o qual secou diante de nós até que passássemos.</item>
+<item>24. Isto, para que todos os povos da terra saibam que a mão do Senhor é poderosa, e para que conserveis sempre o temor do Senhor, vosso Deus.</item>
+ </string-array><string-array name="CapJs5">
+<item>Capítulo 5</item>
+<item>1. Quando todos os reis dos amorreus, a ocidente do Jordão, e todos os reis dos cananeus, para as bandas do mar, souberam que o Senhor tinha secado as águas do Jordão diante dos israelitas, até que passassem, seu coração desfaleceu e perderam toda a coragem diante dos israelitas.</item>
+<item>2. Então o Senhor disse a Josué: Faze facas de pedras, e circuncida de novo os israelitas.</item>
+<item>3. Josué fez as facas de pedra e circuncidou os israelitas na colina de Aralot.</item>
+<item>4. A causa dessa circuncisão é a seguinte: todos os varões dentre o povo que tinham saído do Egito - todos os homens de guerra - tinham morrido em caminho, no deserto, depois que haviam partido do Egito.</item>
+<item>5. Ora, todos eles tinham sido circuncidados. A multidão, porém, nascida no deserto durante a viagem depois do êxodo, não o tinha sido.</item>
+<item>6. Os israelitas tinham marchado pelo deserto durante quarenta anos, até o desaparecimento completo dessa massa de homens de guerra escapados do Egito, mas infiéis à voz do Senhor. O Senhor havia-lhes jurado que não veriam a terra prometida a seus pais, terra que mana leite e mel.</item>
+<item>7. Seus filhos foram postos em seu lugar. Foi essa a geração que Josué circuncidou. Eles tinham o seu prepúcio, porque não tinham sido circuncidados durante sua viagem.</item>
+<item>8. Depois que foram todos circuncidados, permaneceram acampados até sararem.</item>
+<item>9. O Senhor disse a Josué: Hoje tirei de cima de vós o opróbrio do Egito. E deu-se àquele lugar o nome de Gálgala, nome que subsiste ainda.</item>
+<item>10. Os israelitas acamparam em Gálgala, e celebraram a Páscoa no décimo quarto dia do mês, pela tarde, na planície de Jericó.</item>
+<item>11. No dia seguinte à Páscoa comeram os produtos da região, pães sem fermento e trigo tostado.</item>
+<item>12. E o maná cessou (de cair) no dia seguinte àquele em que comeram os produtos da terra. Os israelitas não tiveram mais o maná. Naquele ano alimentaram-se da colheita da terra de Canaã.</item>
+<item>13. Josué encontrava-se nas proximidades de Jericó. Levantando os olhos, viu diante de si um homem de pé, com uma espada desembainhada na mão. Josué foi contra ele: És dos nossos, disse ele, ou dos nossos inimigos?</item>
+<item>14. Ele respondeu: Não; venho como chefe do exército do Senhor.</item>
+<item>15. Josué prostrou-se com o rosto por terra, e disse-lhe: Que ordena o meu Senhor a seu servo?</item>
+<item>16. E o chefe do exército do Senhor respondeu: Tira o calçado de teus pés, porque o lugar em que te encontras é santo. Assim fez Josué.</item>
+ </string-array><string-array name="CapJs6">
+<item>Capítulo 6</item>
+<item>1. Jericó, cidade murada, tinha se fechado diante dos israelitas, e ninguém saía dela nem podia entrar.</item>
+<item>2. O Senhor disse a Josué: Vê, entreguei-te Jericó, seu rei e seus valentes guerreiros.</item>
+<item>3. Dai volta à cidade, vós todos, homens de guerra; contornai toda a cidade uma vez. Assim farás durante seis dias.</item>
+<item>4. Sete sacerdotes, tocando sete trombetas, irão adiante da arca. No sétimo dia dareis sete vezes volta à cidade, tocando os sacerdotes a trombeta.</item>
+<item>5. Quando o som da trombeta for mais forte e ouvirdes a sua voz, todo o povo soltará um grande clamor e a muralha da cidade desabará. Então o povo tomará (de assalto) a cidade, cada um no lugar que lhe ficar defronte.</item>
+<item>6. Josué, filho de Nun, convocou os sacerdotes e disse-lhes: Levai a arca da aliança, e sete sacerdotes estejam diante dela tocando as trombetas.</item>
+<item>7. E disse em seguida ao povo: Avante! Dai volta à cidade, marchando os guerreiros diante da arca do Senhor.</item>
+<item>8. Logo que Josué acabou de falar, os sete sacerdotes, levando as sete trombetas, retumbantes, puseram-se em marcha diante do Senhor, tocando os seus instrumentos; e a arca da aliança do Senhor os seguiu.</item>
+<item>9. Marcharam os guerreiros diante dos sacerdotes que tocavam a trombeta, e à retaguarda seguia a arca; e durante toda a marcha ouvia-se o retinir das trombetas.</item>
+<item>10. Ora, Josué havia dado essa ordem ao povo: não griteis, nem façais ouvir a vossa voz, nem saia de vossa boca palavra alguma, até o dia em que eu vos disser: Gritai! Então clamareis com força.</item>
+<item>11. A arca do Senhor deu uma volta à cidade, e retornaram ao acampamento para ali passar a noite.</item>
+<item>12. Josué levantou-se muito cedo e os sacerdotes levaram a arca do Senhor.</item>
+<item>13. Os sete sacerdotes, levando as sete trombetas retumbantes, marchavam diante da arca do Senhor, tocando a trombeta durante a marcha. Os guerreiros precediam-nos, e à retaguarda seguia a arca do Senhor. E ouvia-se o retinir da trombeta durante a marcha.</item>
+<item>14. Deram volta à cidade uma vez, no segundo dia, e voltaram ao acampamento. O mesmo fizeram durante seis dias.</item>
+<item>15. Mas, ao sétimo dia, levantando-se de madrugada, deram volta à cidade sete vezes, como nos dias precedentes: esse foi o único dia em que fizeram sete vezes a volta.</item>
+<item>16. Quando os sacerdotes tocaram as trombetas na sétima volta, Josué disse ao povo: Gritai, porque o Senhor vos entregou a cidade.</item>
+<item>17. A cidade será votada ao Senhor por interdito, como tudo o que nela se encontra; exceção feita somente a Raab, a prostituta, que terá a sua vida salva com todos os que se encontrarem em sua casa, porque ocultou os espiões que tínhamos enviado.</item>
+<item>18. Mas guardai-vos (de tocar) no que é votado ao interdito. Se tomardes algo do que foi anatematizado, atraireis o interdito sobre o acampamento de Israel, o que seria uma catástrofe.</item>
+<item>19. Toda a prata, todo o ouro e todos os objetos de bronze e de ferro serão consagrados ao Senhor e farão parte do seu tesouro.</item>
+<item>20. O povo clamou e os sacerdotes tocaram as trombetas. E logo que o povo ouviu o som das trombetas, levantou um grande clamor. A muralha desabou. A multidão subiu à cidade, sem nada diante de si.</item>
+<item>21. Tomaram a cidade e votaram-na ao interdito, passando a fio de espada tudo o que nela se encontrava, homens, mulheres, crianças, velhos e até mesmo os bois, as ovelhas e os jumentos.</item>
+<item>22. Josué disse então aos dois homens que tinham explorado a terra: Entrai na casa da prostituta e fazei-a sair de lá com tudo o que lhe pertence.</item>
+<item>23. Os espiões entraram na casa e fizeram sair Raab, seu pai, sua mãe, seus irmãos e tudo o que lhe pertencia, toda a sua parentela, e puseram-nos em segurança fora do acampamento de Israel.</item>
+<item>24. Queimaram a cidade com tudo o que ela continha, exceto prata, ouro e todos os objetos de bronze e de ferro que foram recolhidos aos tesouros da casa do Senhor.</item>
+<item>25. Josué conservou a vida de Raab, a prostituta, bem como a da família de seu pai e a de todos os seus, de sorte que ela habitou no meio de Israel até este dia, porque ela havia ocultado os mensageiros enviados a explorar Jericó.</item>
+<item>26. Então proferiu Josué este juramento: Maldito seja diante do Senhor quem tentar reconstruir esta cidade de Jericó! Será ao preço do seu primogênito que lhe lançará os primeiros fundamentos, e será à custa do último de seus filhos, que lhe porá as portas!</item>
+<item>27. O Senhor estava com Josué, e o seu renome divulgou-se por toda a terra.</item>
+ </string-array><string-array name="CapJs7">
+<item>Capítulo 7</item>
+<item>1. Os israelitas cometeram uma infidelidade a respeito do interdito. Acã, filho de Carmi, filho de Zabdi, filho de Zara, da tribo de Judá, reteve para si algumas coisas condenadas, e a cólera do Senhor inflamou-se contra os israelitas.</item>
+<item>2. Josué enviou de Jericó homens a Hai, situada junto de Bet-Aven, ao oriente de Betel: Subi, disse-lhes ele, e explorai a terra. Eles subiram e exploraram Hai.</item>
+<item>3. Voltando para junto de Josué, disseram-lhe: É inútil o povo todo subir, mas vão só dois ou três mil homens e apoderem-se da cidade. Não se fatigue todo o povo, porque a população da cidade é muito reduzida.</item>
+<item>4. Três mil homens aproximadamente se puseram a caminho, mas foram batidos pela gente de Hai,</item>
+<item>5. caindo mortos trinta e seis homens; os inimigos perseguiram-nos desde a porta da cidade até Sabarim, ainda quando fugiam pela encosta. O povo ficou consternado com isso e perdeu toda a coragem.</item>
+<item>6. Josué rasgou suas vestes e prostrou-se com a face por terra até a tarde diante da arca do Senhor, tanto ele como os anciãos de Israel, e cobriram de pó as suas cabeças.</item>
+<item>7. Ah, Senhor Javé, clamou Josué, por que fizestes este povo passar o Jordão, para nos entregardes nas mãos dos amorreus que nos destruirão? Oxalá tivéssemos ficado do outro lado do rio!</item>
+<item>8. Que direi eu, Senhor, vendo Israel voltar as costas aos seus inimigos?</item>
+<item>9. Os cananeus e todos os habitantes da terra vão sabê-lo, e nos cercarão e farão desaparecer o nosso nome da face da terra. E que fareis vós ao vosso grande nome?</item>
+<item>10. Então o Senhor disse a Josué: Levanta-te. Por que estás assim prostrado com a face por terra?</item>
+<item>11. Israel pecou, a ponto de violar a aliança que eu lhe tinha prescrito, e a ponto de tomar as coisas votadas ao interdito, roubá-las, ocultá-las, escondê-las entre as bagagens.</item>
+<item>12. Eis por que os israelitas não puderam resistir aos seus inimigos, mas voltaram-lhes as costas, pois caíram sob o interdito. Se não tirardes o interdito do meio de vós, não estarei mais convosco de ora em diante.</item>
+<item>13. Vai santificar o povo; dize-lhe: purificai-vos para amanhã, porque eis o que diz o Senhor, Deus de Israel: o interdito está no meio de ti, Israel. Não poderás resistir aos teus inimigos, enquanto não tiveres tirado o interdito que está no meio de vós.</item>
+<item>14. Vireis amanhã, tribo por tribo; a tribo que for designada pelo Senhor apresentar-se-á família por família; e a família marcada se apresentará por suas casas; e a casa indicada pelo Senhor se apresentará por pessoas.</item>
+<item>15. Aquele que for designado como possuidor do interdito será queimado, ele e tudo o que lhe pertence, porque violou o pacto do Senhor e cometeu uma infâmia em Israel.</item>
+<item>16. No dia seguinte pela manhã, Josué mandou vir o povo, tribo por tribo, e a sorte caiu sobre a tribo de Judá.</item>
+<item>17. Em seguida, aproximando-se as famílias de Judá, a sorte indicou a família de Zara. Mandou que se aproximasse a família de Zara por casas, e a sorte caiu sobre a de Zabdi,</item>
+<item>18. a qual se apresentou por pessoas; a sorte caiu sobre Acã, filho de Carmi, filho de Zabdi, filho de Zara, da tribo de Judá.</item>
+<item>19. Josué disse-lhe: Meu filho, dá glória e homenagem ao Senhor, Deus de Israel; confessa-me o que fizeste, sem nada ocultar.</item>
+<item>20. Acã respondeu a Josué: Sim, fui eu que pequei contra o Senhor, Deus de Israel. Eis o que fiz:</item>
+<item>21. vi no meio dos despojos um belo manto de Senaar, duzentos siclos de prata e uma barra de ouro de cinqüenta siclos e, cobiçando, tomei-os. Tudo isso se acha escondido na terra no meio de minha tenda e a prata debaixo (do manto).</item>
+<item>22. Josué mandou alguns homens que investigassem a tenda, e estes viram que os objetos estavam lá ocultos, e a prata debaixo.</item>
+<item>23. Tomaram-nos e trouxeram-nos a Josué e a todos os israelitas e puseram-nos diante do Senhor.</item>
+<item>24. Então Josué, em presença de todo o Israel, pegando em Acã, filho de Zara, com a prata, o manto, a barra de ouro, os filhos e as filhas de Acã, seus bois, seus jumentos, suas ovelhas, sua tenda e tudo o que lhe pertencia, levou-os ao vale de Acor.</item>
+<item>25. Chegando ali, Josué disse: Por que nos confundiste? O Senhor te confunda hoje! Todos os israelitas o apedrejaram. E foram queimados no fogo depois de terem sido apedrejados.</item>
+<item>26. E juntaram sobre Acã um grande monte de pedras, o qual subsiste ainda hoje. Com isso aplacou-se o furor do Senhor. É por esse motivo que o lugar traz ainda agora o nome de vale de Acor.</item>
+ </string-array><string-array name="CapJs8">
+<item>Capítulo 8</item>
+<item>1. O Senhor disse em seguida a Josué: Não temas, nem tenhas cuidados. Toma contigo todos os guerreiros e sobe contra Hai. Eis que te entrego o rei de Hai, seu povo, sua cidade e sua terra.</item>
+<item>2. Tratarás Hai e seu rei como fizeste com Jericó e seu rei; mas os despojos e os rebanhos reparti-los-eis entre vós. Põe uma emboscada por detrás da cidade.</item>
+<item>3. Josué pôs-se a caminho com todos os guerreiros contra Hai. Escolheu trinta mil homens valentes e fê-los partir durante a noite.</item>
+<item>4. Deu-lhes esta ordem: Atenção! Ponde-vos em emboscada atrás da cidade, mas a pouca distância, e estai preparados.</item>
+<item>5. Eu e todo o povo que está comigo nos aproximaremos de Hai, e quando saírem ao nosso encontro como da primeira vez, nós fugiremos.</item>
+<item>6. Atraí-los-emos, em nossa perseguição, longe da cidade, pois dirão: ei-los que fogem diante de nós como da primeira vez.</item>
+<item>7. Durante essa retirada, saireis de vossa emboscada e tomareis a cidade, que vos entregará o Senhor, vosso Deus.</item>
+<item>8. Depois que a tiverdes tomado, pôr-lhe-eis fogo segundo a palavra do Senhor. Estas são as minhas ordens.</item>
+<item>9. Josué fê-los partir e eles se postaram em emboscada entre Betel e Hai, ao ocidente. Josué ficou aquela noite no meio do povo.</item>
+<item>10. Josué levantou-se bem cedo e passou em revista a sua gente. À frente de sua tropa, subiu contra Hai com os anciãos de Israel.</item>
+<item>11. Todos os guerreiros de que dispunha tinham também subido às proximidades. Chegados defronte da cidade, acamparam ao norte, tendo o vale entre eles e Hai.</item>
+<item>12. Josué tomou cerca de cinco mil homens e os pôs de emboscada entre Betel e Hai, ao ocidente.</item>
+<item>13. Tendo o povo instalado todo o seu acampamento ao norte da cidade, e a emboscada ao ocidente, Josué avançou durante a noite pelo meio do vale.</item>
+<item>14. Logo que o rei de Hai viu aquilo, saiu apressadamente da cidade com a sua gente, ao amanhecer, e veio ao encontro de Israel. O rei, seguido de todo o seu povo, saiu para um lugar combinado do lado da planície, ignorando que uma emboscada estava armada contra ele atrás da cidade.</item>
+<item>15. Josué e todo o Israel, fingindo bater em retirada, fugiram para os lados do deserto.</item>
+<item>16. Então, com grandes clamores, toda a população da cidade precipitando-se ao encalço de Josué, juntou-se para persegui-los, e, afastou-se da cidade.</item>
+<item>17. Não ficou um homem sequer em Hai que não saísse em perseguição de Israel. Até deixaram escancarada a cidade.</item>
+<item>18. O Senhor disse então a Josué: Levanta a lança que tens na mão contra Hai, porque eu ta entrego. E Josué levantou a sua lança contra a cidade.</item>
+<item>19. Apenas tinha ele erguido a mão, levantaram-se subitamente os que estavam de emboscada e precipitaram-se sobre a cidade, ocupando-a e metendo-lhe fogo.</item>
+<item>20. Os habitantes de Hai, voltando-se, viram que se elevava da cidade uma grande fumaça para o céu, e não puderam fugir para lado algum, porque o povo que dava mostras de fugir para o deserto voltou-se contra eles.</item>
+<item>21. Josué e todo o Israel, vendo que os da emboscada tinham tomado a cidade e que dela subia fumaça, voltaram e feriram os habitantes de Hai.</item>
+<item>22. E, tendo os outros saído da cidade ao seu encontro, viram-se os inimigos cercados de um lado e de outro pelos israelitas, e foram feridos, de modo que não ficou sobrevivente algum, e não houve sequer um fugitivo.</item>
+<item>23. O rei de Hai foi capturado vivo e conduzido a Josué.</item>
+<item>24. Terminado o massacre dos habitantes de Hai, tanto no campo como no deserto, aonde tinham vindo em perseguição dos israelitas, depois que todos foram passados ao fio da espada, os vencedores voltaram à cidade e mataram toda a população.</item>
+<item>25. O total dos que morreram naquele dia, entre homens e mulheres, foi de doze mil, todos da cidade de Hai.</item>
+<item>26. Josué não retirou a mão que ele tinha levantado com a sua lança, até que foram mortos todos os habitantes de Hai.</item>
+<item>27. Os israelitas só tomaram os rebanhos e o espólio da cidade, conforme o Senhor tinha ordenado a Josué.</item>
+<item>28. Josué pôs fogo à cidade de Hai e fez dela para sempre um montão de cinzas, que subsiste ainda hoje.</item>
+<item>29. Mandou enforcar o rei de Hai em uma árvore, e deixou-o ali até a tarde. Ao pôr-do-sol, ordenou que se retirasse da árvore o cadáver e fosse lançado à entrada da cidade, pondo sobre ele um grande monte de pedras, que ali permanece até o dia de hoje.</item>
+<item>30. Então Josué construiu um altar ao Senhor, Deus de Israel, no monte Ebal,</item>
+<item>31. segundo a ordem que Moisés, servo do Senhor, tinha dado aos filhos de Israel, como está escrito no livro da Lei de Moisés. Construiu-o de pedras brutas ainda não tocadas pelo ferro. Ofereceram sobre ele holocaustos ao Senhor e sacrifícios de ação de graças.</item>
+<item>32. Josué gravou em pedras uma cópia da lei que Moisés tinha escrito diante dos israelitas.</item>
+<item>33. Todo o Israel, seus anciãos, seus oficiais e seus juízes conservaram-se de pé ao redor da arca, diante dos sacerdotes, dos levitas, que levavam a arca da aliança do Senhor. Ali estavam tanto os estrangeiros como os israelitas, metade deles do lado do monte Garizim, e metade do lado do monte Erbal, segundo a ordem antes dada por Moisés, servo do Senhor, para abençoar o povo de Israel.</item>
+<item>34. Depois disso, Josué leu todo o texto da lei, a bênção e a maldição, assim como estão escritas no livro da lei.</item>
+<item>35. De tudo o que Moisés havia prescrito não se omitiu uma palavra sequer nessa leitura feita por Josué diante de toda a assembléia de Israel, mulheres, crianças e estrangeiros que ali se achavam misturados.</item>
+ </string-array><string-array name="CapJs9">
+<item>Capítulo 9</item>
+<item>1. À notícia de tais acontecimentos, todos os reis de além do Jordão, da montanha e da planície, do litoral do mar Grande defronte do Líbano, os hiteus, os amorreus, os cananeus, os ferezeus,</item>
+<item>2. os heveus e os jebuseus coligaram-se para combater Josué e Israel.</item>
+<item>3. Mas os habitantes de Gabaon, sabendo o que Josué tinha feito a Jericó e a Hai, usaram de astúcia.</item>
+<item>4. Puseram-se a caminho, munidos de provisões, seus jumentos carregados de sacos velhos, e odres de vinho rotos e recosidos.</item>
+<item>5. Levavam nos pés calçado muito velho e remendado, vestiam-se de roupas muito usadas, e o pão de suas provisões estava seco e estragado.</item>
+<item>6. Foram assim ter com Josué no acampamento de Gálgala, e disseram-lhe, bem como a todo o Israel: Viemos de uma terra longínqua; fazei aliança conosco.</item>
+<item>7. Os israelitas responderam: Talvez habiteis perto de nós; como, pois, poderíamos fazer aliança convosco?</item>
+<item>8. Mas eles disseram a Josué: Somos teus servos. Josué disse-lhes: Quem sois vós? De onde vindes? Eles responderam-lhe:</item>
+<item>9. Teus servos vêm de uma terra muito distante por causa do nome do Senhor, teu Deus; pois ouvimos falar dele e de tudo o que fez no Egito,</item>
+<item>10. e de como tratou os dois reis dos amorreus além do Jordão, Seon, rei de Hesebon e Og, rei de Basã, que moravam em Astarot.</item>
+<item>11. Por isso, nossos anciãos e todos os habitantes de nossa terra nos disseram: tomai convosco provisões para o caminho, ide ao seu encontro e dizei-lhes: somos vossos servos; fazei aliança conosco.</item>
+<item>12. Vede o nosso pão. Nós o tínhamos tomado quente quando partimos de nossas casas para vir ter convosco: ei-lo como está agora seco e mofado.</item>
+<item>13. Estes odres de vinho que tínhamos enchido novos, agora estão rotos e descosidos; nossas vestes e nossos calçados estão gastos por causa da longa viagem que fizemos.</item>
+<item>14. Os israelitas, sem ter consultado o Senhor, aceitaram as suas provisões.</item>
+<item>15. Josué concedeu-lhes a paz e fez com eles uma aliança que lhes assegurava a vida, e os principais da assembléia confirmaram-na com juramento.</item>
+<item>16. Três dias depois desse tratado, souberam que aquela gente era vizinha e habitava no meio deles.</item>
+<item>17. Então os israelitas puseram-se a caminho e ao terceiro dia chegaram às suas cidades, cujos nomes são estes: Gabaon, Cafira, Berot e Cariatiarim.</item>
+<item>18. Eles não os feriram por causa do juramento que lhes tinham feito os principais da assembléia em nome do Senhor, Deus de Israel. E toda a assembléia começou a murmurar contra eles.</item>
+<item>19. Eles responderam: Fizemos-lhes um juramento em nome do Senhor, Deus de Israel, e não podemos tocar neles.</item>
+<item>20. Eis, porém, como havemos de tratá-los: deixá-los-emos vivos, para que não se excite contra nós a ira do Senhor, se faltarmos ao juramento.</item>
+<item>21. Ficarão vivos, declararam os chefes, mas serão empregados em cortar lenha e carregar água para toda a assembléia. Inteirado da decisão dos chefes,</item>
+<item>22. Josué convocou-os e interpelou-os: Por que nos enganastes dizendo que éreis de uma terra longínqua, quando habitáveis no meio de nós?</item>
+<item>23. Agora malditos sejais: vossa servidão não cessará jamais e continuareis a cortar lenha e a carregar água para a casa do meu Deus.</item>
+<item>24. Eles responderam a Josué: A nós, teus servos, chegou a notícia de que o Senhor teu Deus havia ordenado a Moisés, seu servo, que vos desse toda a terra e exterminasse todos os seus habitantes diante de vós. Tivemos, pois, muito medo à vossa aproximação e, temendo por nossas vidas, tomamos esse expediente.</item>
+<item>25. Agora, eis-nos em tuas mãos; trata-nos como te parecer justo e bom.</item>
+<item>26. Fez Josué como tinha dito, e livrou-os das mãos dos filhos de Israel, que os não mataram.</item>
+<item>27. Determinou naquele dia que fossem empregados no serviço da comunidade e do altar, cortando lenha e carregando água para o lugar que o Senhor escolhesse, funções que exercem ainda hoje.</item>
+ </string-array><string-array name="CapJs10">
+<item>Capítulo 10</item>
+<item>1. Sabendo Adonisedec, rei de Jerusalém, que Josué se tinha apoderado de Hai e a havia votado ao interdito, que fizera a Hai e ao seu rei como tinha feito a Jericó e a seu rei, e que os gabaonitas tinham feito paz com Israel e habitavam com ele,</item>
+<item>2. teve grande medo. Gabaon era, com efeito, uma grande cidade, uma cidade real, maior que Hai, e toda a sua população muito guerreira.</item>
+<item>3. Adonisedec, rei de Jerusalém, mandou dizer a Oão, rei de Hebron, a Farão, rei de Jerimot, a Jafia, rei de Laquis, e a Dabir, rei de Eglon:</item>
+<item>4. Vinde comigo e ajudai-me a ferir Gabaon, porque fez paz com Josué e os israelitas.</item>
+<item>5. Unidos assim os cinco reis dos amorreus, o rei de Jerusalém, o rei de Hebron, o rei de Jerimot, o rei de Laquis e o rei de Eglon, saíram com todos os seus exércitos e acamparam diante de Gabaon, sitiando-a.</item>
+<item>6. Os habitantes de Gabaon enviaram então a seguinte mensagem a Josué, que estava acampado em Gálgala: Não abandones os teus servos; vem ao nosso encontro sem demora, traze-nos socorro e livra-nos, porque todos os reis dos amorreus da montanha se coligaram contra nós.</item>
+<item>7. Josué subiu de Gálgala com todos os seus guerreiros e todos os seus valentes.</item>
+<item>8. O Senhor disse-lhe: Não os temas, porque os entreguei em tuas mãos; nenhum deles te poderá resistir.</item>
+<item>9. Josué, tendo passado toda a noite a subir de Gálgala, caiu de repente sobre eles.</item>
+<item>10. O Senhor semeou no meio deles o terror diante de Israel, e este infligiu-lhes uma terrível derrota diante de Gabaon, e perseguiu-os pelo caminho que sobe a Betoron, batendo-os até Azeca e Maceda.</item>
+<item>11. Enquanto fugiam diante de Israel, na descida de Betoron, o Senhor mandou sobre eles do céu uma tempestade de granizo até Azeca; e foram mais numerosos os que morreram sob essa chuva de pedras do que os que pereceram pela espada dos israelitas.</item>
+<item>12. Josué falou ao Senhor no dia em que ele entregou os amorreus nas mãos dos filhos de Israel, e disse em presença dos israelitas: Sol, detém-te sobre Gabaon, e tu, ó lua, sobre o vale de Ajalon.</item>
+<item>13. E o sol parou, e a lua não se moveu até que o povo se vingou de seus inimigos. Isto acha-se escrito no Livro do Justo. O sol parou no meio do céu, e não se apressou a pôr-se pelo espaço de quase um dia inteiro.</item>
+<item>14. Não houve, nem antes nem depois, um dia como aquele, em que o Senhor tenha obedecido à voz de um homem, porque o Senhor combatia por Israel.</item>
+<item>15. Depois disso, Josué com toda a sua tropa voltou para o acampamento de Gálgala.</item>
+<item>16. Ora, os cinco reis tinham fugido, e tinham se escondido numa caverna, em Maceda.</item>
+<item>17. E noticiaram-no a Josué: Foram encontrados os cinco reis escondidos numa caverna, em Maceda.</item>
+<item>18. Josué respondeu: Rolai grandes pedras para a entrada da caverna, e ponde homens junto a ela em guarda.</item>
+<item>19. Vós, porém, não vos detenhais, mas persegui vossos inimigos; não os deixeis entrar em suas cidades, porque o Senhor, vosso Deus, os entregou em vossas mãos.</item>
+<item>20. Tendo Josué e os israelitas acabado de massacrá-los, até o extermínio - apenas uns poucos puderam escapar e recolher-se às suas cidades fortes -,</item>
+<item>21. todo o povo voltou tranqüilamente ao acampamento, junto de Josué, em Maceda, e ninguém se atreveu a abrir a boca contra os filhos de Israel.</item>
+<item>22. Josué disse então: Abri a entrada da caverna, e trazei-me os cinco reis que lá estão. Assim o fizeram.</item>
+<item>23. Foram tirados da caverna os cinco reis, o rei de Jerusalém, o rei de Hebron, o rei de Jerimot, o rei de Laquis e o rei de Eglon.</item>
+<item>24. Quando foram conduzidos a Josué, ele chamou todos os homens de Israel e disse aos chefes dos guerreiros que o tinham acompanhado: Aproximai-vos e ponde o pé sobre o pescoço destes reis. Tendo-se eles aproximado e posto o pé sobre o pescoço deles,</item>
+<item>25. disse-lhes de novo: Não temais, nem tremais. Tende coragem e sede fortes, porque é assim que fará o Senhor a todos os inimigos que haveis de combater.</item>
+<item>26. Dizendo isso, Josué feriu-os de morte e suspendeu-os em cinco árvores, onde estiveram até a tarde.</item>
+<item>27. Ao pôr-do-sol, mandou que fossem descidos das árvores e lançados na caverna onde se tinham refugiado, e puseram à entrada grandes pedras, que ali se encontram ainda hoje.</item>
+<item>28. No mesmo dia apoderou-se Josué de Maceda, e passou-a ao fio da espada juntamente com seu rei; votou ao interdito a cidade com todo ser vivo que nela havia, sem nada poupar. E fez ao rei de Maceda como tinha feito ao rei de Jericó.</item>
+<item>29. Passou em seguida com todo o Israel a Libna, e atacaram-na.</item>
+<item>30. O Senhor entregou-a com seu rei nas mãos de Israel, que passou ao fio da espada a cidade com todo ser vivo que nela havia, não deixando escapar nenhum. E fez ao seu rei como tinha feito ao rei de Jericó.</item>
+<item>31. De Libna passou Josué com todo o Israel a Laquis, onde levantou o seu acampamento, sitiando-a.</item>
+<item>32. O Senhor lha entregou, e Israel apoderou-se dela no segundo dia, passando-a ao fio da espada com todo ser vivo, como tinha feito a Libna.</item>
+<item>33. Então, Horão, rei de Gaser, veio em socorro de Laquis, mas Josué o derrotou com todo o seu povo até o extermínio completo.</item>
+<item>34. De Laquis, passou Josué com todo o seu povo a Eglon; levantaram ali o seu acampamento, e atacaram-na.</item>
+<item>35. Tomaram-na no mesmo dia, e passaram-na ao fio da espada, votando ao interdito todo ser vivo, como tinha feito a Laquis.</item>
+<item>36. Subiu em seguida com todo o Israel de Eglon a Hebron, e atacaram-na.</item>
+<item>37. Tomaram Hebron e passaram ao fio da espada a cidade com seu rei, seus arrabaldes e todo ser vivo, sem nada deixar escapar, como tinham feito a Eglon. A cidade foi votada ao interdito com todo ser vivo.</item>
+<item>38. Dali Josué, com todo o Israel, voltou-se contra Dabir e atacou-a;</item>
+<item>39. apoderou-se dela, juntamente com seu rei, e passou-os ao fio da espada. Votou ao interdito toda alma viva que nela se achava, sem nada poupar, e fez a Dabir e ao seu rei como tinha feito a Hebron e a Libna com seus reis.</item>
+<item>40. Josué feriu toda a terra: a montanha, o Negeb, a planície, as colinas com todos os seus reis, sem poupar ninguém, votando ao interdito tudo o que respirava, segundo a ordem do Senhor, Deus de Israel.</item>
+<item>41. Tudo foi assim ferido por Josué, de Cades-Barne a Gaza, toda a terra de Gosen até Gabaon.</item>
+<item>42. Josué apoderou-se, de uma só vez, desse país e de seus reis, porque o Senhor, Deus de Israel, combatia por ele.</item>
+<item>43. Depois voltou Josué com todo o Israel para o acampamento de Gálgala.</item>
+ </string-array><string-array name="CapJs11">
+<item>Capítulo 11</item>
+<item>1. Jabin, rei de Asor, tendo notícias de todos esses acontecimentos, enviou mensageiro a Jobab, rei de Madon, ao rei de Semeron, ao rei de Acsaf,</item>
+<item>2. aos reis do norte da montanha e da planície, ao sul de Ceneret, na planície e nos planaltos de Dor, ao ocidente,</item>
+<item>3. aos cananeus do oriente e do ocidente, aos amorreus, aos hiteus, aos ferezeus, aos jebuseus na montanha, aos heveus ao pé do Hermon na terra de Masfa.</item>
+<item>4. Entraram então em campanha com todos os seus exércitos, povo numeroso como a areia na praia do mar, com sua cavalaria e grande número de carros.</item>
+<item>5. Todos esses reis juntaram-se e vieram acampar juntos, perto das águas de Merom, para combater Israel.</item>
+<item>6. O Senhor disse a Josué: Não os temas, porque amanhã, a esta mesma hora, eu os lançarei, ofegantes, diante de Israel. Cortarás os jarretes dos seus cavalos e queimarás os seus carros.</item>
+<item>7. Josué atacou-os repentinamente, com todos os seus guerreiros, junto às águas de Merom, e precipitou-se contra eles.</item>
+<item>8. O Senhor entregou-os nas mãos de Israel, que os bateu e os perseguiu até Sidon, a Grande, até as águas de Maserefot e até o vale de Masfa, para o oriente. E feriu-os até que não ficou um só.</item>
+<item>9. Josué tratou-os como o Senhor lhe tinha dito: jarretou seus cavalos e incendiou seus carros.</item>
+<item>10. Voltando, nessa mesma época, Josué tomou Asor e matou à espada seu rei, porque Asor era antigamente a capital de todos esses reinos.</item>
+<item>11. Passaram ao fio da espada toda alma viva nessa cidade e votaram-na ao interdito. Nada ficou de tudo o que tinha vida, e incendiou-se Asor.</item>
+<item>12. Tomou também Josué todas as cidades desses reis (coligados) e passou-as ao fio da espada, votando-as ao interdito, como Moisés, servo do Senhor, tinha ordenado.</item>
+<item>13. Entretanto, Israel não incendiou nenhuma das cidades situadas nas colinas, exceto unicamente Asor, que Josué queimou.</item>
+<item>14. Os filhos de Israel apossaram-se de todos os despojos dessas cidades e dos rebanhos. Quanto aos homens, porém, massacraram-nos todos com a espada, até exterminá-los completamente, sem deixar ninguém com vida.</item>
+<item>15. Como o Senhor tinha ordenado a Moisés, seu servo, assim Moisés ordenou a Josué; e este tudo executou, sem nada omitir do que o Senhor tinha prescrito a Moisés.</item>
+<item>16. Conquistou, assim, Josué toda a terra, a montanha, o Negeb, o território de Gosen, a campina e a planície, o planalto de Israel e suas campinas,</item>
+<item>17. desde a montanha nua que sobe para Seir até Baal-Gad, no vale do Líbano ao pé do Hermon. Tomou todos os seus reis, feriu-os e matou-os.</item>
+<item>18. Durante muito tempo combateu Josué contra esses reis.</item>
+<item>19. Não houve cidade que se rendesse pacificamente aos israelitas, exceto os heveus de Gabaon. Foi necessário que se tomasse tudo à força,</item>
+<item>20. porque era o desígnio do Senhor que se endurecesse o coração desses povos e que combatessem Israel; desse modo Israel pôde votá-los ao interdito sem piedade, e exterminá-los, como o Senhor tinha ordenado a Moisés.</item>
+<item>21. Naquele tempo Josué marchou contra os enacim da montanha e os exterminou em Hebron, em Dabir, em Anab, e em toda a montanha de Judá e de Israel. E votou-os ao interdito com suas cidades.</item>
+<item>22. Não ficou um só enacim na terra dos filhos de Israel; só ficaram alguns em Gaza, em Get e em Azot.</item>
+<item>23. Conquistou, pois, Josué toda a terra, como o Senhor tinha dito a Moisés, e deu-a em herança a Israel, repartindo-a segundo suas tribos. E a terra repousou da guerra.</item>
+ </string-array><string-array name="CapJs12">
+<item>Capítulo 12</item>
+<item>1. Estes são os reis que os israelitas derrotaram, e cujos territórios ocuparam além do Jordão, para o nascente, desde a torrente de Arnon até o monte Hermon, com a planície ao oriente:</item>
+<item>2. Seon, rei dos amorreus, em Hesebon. Seu domínio estendia-se desde Aroer, à margem da torrente do Arnon, e desde o meio da torrente, sobre a metade de Galaad, até a torrente do Jaboc, fronteira dos amonitas;</item>
+<item>3. e desde a planície até o mar de Ceneret, ao oriente, e até o mar da Planície, o mar Salgado, para o lado oriental, pelo caminho que vai a Betsimot; e do lado meridional até o pé das encostas do monte Fasga.</item>
+<item>4. Em seguida a terra de Og, rei de Basã, um dos sobreviventes dos refains, em Astarot e Edrai,</item>
+<item>5. que reinava sobre a montanha de Hermon, sobre Saleca, sobre todo o Basã até a fronteira dos gessureus e dos macateus, e até o meio de Galaad, limite de Seon, rei de Hesebon.</item>
+<item>6. Moisés, servo do Senhor, e os filhos de Israel derrotaram-nos; e Moisés, servo do Senhor, deu sua terra aos rubenitas, aos gaditas e à meia tribo de Manassés.</item>
+<item>7. Estes são os reis da terra que Josué e os israelitas derrotaram aquém do Jordão, para o ocidente, desde Baal-Gal, no vale do Líbano, até a montanha nua que sobe para Seir. Josué deu essa terra em possessão às tribos de Israel, dividindo-a segundo suas famílias,</item>
+<item>8. tanto na montanha como nas planícies, e sobre as colinas, no deserto e no Negeb, toda a terra dos hiteus, dos amorreus, dos cananeus, dos ferezeus, dos heveus e dos jebuseus.</item>
+<item>9. -24 Foram eles: o rei de Jericó, o rei de Hai, perto de Betel; o rei de Jerusalém, o rei de Hebron, o rei de Jerimot, o rei de Laquis, o rei de Eglon, o rei de Gaser, o rei de Dabir, o rei de Gader, o rei de Herma, o rei de Hered, o rei de Libna, o rei de Odolão, o rei de Maceda, o rei de Betel, o rei de Tafna, o rei de Ofer, o rei de Afec, o rei de Lasaron, o rei de Madon, o rei de Asor, o rei de Semeron, o rei de Acsaf, o rei de Tanac, o rei de Magedo, o rei de Cades, o rei de Jacanã, no Carmelo; o rei de Dor, sobre os altos de Dor; o rei de Gojim, em Gálgala; o rei de Tersa. Ao todo trinta e um reis.</item>
+ </string-array><string-array name="CapJs13">
+<item>Capítulo 13</item>
+<item>1. Josué estava velho, avançado em anos, e o Senhor disse-lhe: Tu estás velho, de muita idade, e resta ainda um grandíssimo espaço de terra a conquistar.</item>
+<item>2. Eis o que resta: todas as províncias dos filisteus, toda a terra dos jessureus,</item>
+<item>3. desde o Chihor que corre defronte do Egito, até os limites de Acaron para o norte, região considerada como cananéia; os cinco príncipes dos filisteus: o de Gaza, o de Azot, o de Ascalon, o de Get e o de Acaron;</item>
+<item>4. os heveus, ao meio-dia; toda a terra dos cananeus, e Maara dos sidônios, até Afec e a fronteira dos amorreus;</item>
+<item>5. a terra dos gebalitas, e todo o Líbano, para o oriente, desde Baal-Gad ao pé do monte Hermon até a entrada de Hamat;</item>
+<item>6. todos os habitantes da montanha, desde o Líbano até as águas de Maserefot, todos os sidônios. Eu os expulsarei diante dos israelitas. Reparte, pois, essa terra por sorte em herança a Israel, como prescrevi.</item>
+<item>7. E agora divide essa terra entre as nove tribos e a meia tribo de Manassés.</item>
+<item>8. Os rubenitas, os gaditas e a outra metade da tribo de Manassés tinham recebido de Moisés sua parte além do Jordão ao oriente, assim como Moisés, servo do Senhor, lhes tinha marcado:</item>
+<item>9. desde Aroer, que está situada na margem da torrente do Arnon, e desde a cidade que está no meio do vale e toda a planície de Medaba, até Dibon;</item>
+<item>10. todas as cidades de Seon, rei dos amorreus, que reinava em Hesebon, até a fronteira dos amonitas;</item>
+<item>11. Galaad, o território dos jessureus e dos macateus, toda a montanha do Hermon e todo o Basã até Saleca;</item>
+<item>12. todo o reino de Og, em Basã, que reinava em Astarot e Edrai, último resto da descendência dos refains. Moisés bateu-os e expulsou-os.</item>
+<item>13. Os filhos de Israel, porém, não expulsaram os jessureus, nem os macateus, e assim esses povos ficaram habitando até o dia de hoje entre nós.</item>
+<item>14. A tribo de Levi foi a única que não recebeu herança de Moisés; porque os sacrifícios oferecidos pelo fogo ao Senhor, Deus de Israel, são a sua herança, como ele lho havia dito.</item>
+<item>15. Moisés havia, pois, dado aos rubenitas a sua parte, segundo as suas famílias.</item>
+<item>16. Seu território partia de Aroer, situada na margem da torrente de Arnon, e da cidade que está no meio da torrente, e compreendia toda a planície junto de Medaba,</item>
+<item>17. Hesebon e todas as suas cidades na planície, Dibon, Bamot-Baal, Bet-Baal-Maon,</item>
+<item>18. Jassa, Cedimot, Mefaat,</item>
+<item>19. Cariataim, Sabama, Sarat-Asar na montanha do vale,</item>
+<item>20. Bet-Fogor, as encostas do Fasga, Bet-Jesimot,</item>
+<item>21. todas as cidades da planície, todo o reino de Seon, rei dos amorreus, de Hesebon, que Moisés havia derrotado com os príncipes de Madiã, Evi, Recém, Sur, Hur e Rebé, tributários de Seon naquela terra.</item>
+<item>22. Entre os que foram mortos pela espada dos israelitas figura também o adivinho Balaão, filho de Beor.</item>
+<item>23. O rio Jordão ficou sendo o limite do território dos rubenitas. Tais são as cidades e aldeias que couberam aos rubenitas, segundo suas famílias.</item>
+<item>24. Moisés deu também aos gaditas uma parte segundo suas famílias.</item>
+<item>25. Seu território foi o seguinte: Jaser, todas as cidades de Galaad, a metade da terra dos amonitas até Aroer, defronte de Raba,</item>
+<item>26. desde Hesebon até Rabot-Masfé e Betonim, e desde Manaim até a fronteira de Dabir;</item>
+<item>27. e, no vale, Bet-Harão, Bet-Nemra, Socot e Safon, restos do reino de Seon, rei de Hesebon; o Jordão e seu território até os confins do mar de Ceneret, além do Jordão, para o oriente.</item>
+<item>28. Tal foi, em cidades e em aldeias, a parte dos gaditas segundo suas famílias.</item>
+<item>29. Moisés dera também à meia tribo de Manassés, aos seus filhos, segundo as suas famílias, a sua parte.</item>
+<item>30. O seu território compreendia Manaim, todo o Basã, todo o reino de Og, rei de Basã, e todas as aldeias de Jair em Basã: sessenta localidades.</item>
+<item>31. A metade de Galaad, Astarot e Edrai, cidades do reino de Og em Basã, foram dadas aos filhos de Maquir, filho de Manassés, isto é, à metade dos filhos de Maquir, segundo suas famílias.</item>
+<item>32. Tais são as partes que Moisés distribuiu nas planícies de Moab, além do Jordão, para o oriente, defronte de Jericó.</item>
+<item>33. À tribo de Levi, porém, não deu herança alguma, porque o Senhor, Deus de Israel, é a sua herança, como ele lho tinha dito.</item>
+ </string-array><string-array name="CapJs14">
+<item>Capítulo 14</item>
+<item>1. Eis as partes que os filhos de Israel receberam em herança na terra de Canaã, que lhes deram o sacerdote Eleazar, Josué, filho de Nun, e os chefes de família das tribos de Israel.</item>
+<item>2. A repartição fez-se por sorte pelas nove tribos e meia, como o Senhor havia prescrito, por meio de Moisés;</item>
+<item>3. porque às outras duas tribos e meia, Moisés tinha dado sua parte além do Jordão; mas não deu parte alguma aos levitas.</item>
+<item>4. Os filhos de José formavam, com efeito, duas tribos: Manassés e Efraim. Aos levitas não deram herança na terra, mas apenas cidades para habitarem e os arredores dessas cidades para os seus rebanhos e os seus bens.</item>
+<item>5. Como o Senhor tinha ordenado a Moisés, assim fizeram os israelitas, e dividiram a terra.</item>
+<item>6. Os filhos de Judá vieram ter com Josué, em Gálgala; e Caleb, filho de Jefoné, o cenezeu, disse-lhe: Sabes o que o Senhor disse de mim e de ti a Moisés, homem de Deus, em Cades-Barne.</item>
+<item>7. Eu tinha quarenta anos quando Moisés, servo do Senhor, me enviou de Cades-Barne a explorar a terra, e eu lhe fiz um relatório perfeitamente sincero.</item>
+<item>8. Meus irmãos que tinham ido comigo desanimaram o povo, mas eu segui fielmente o Senhor, meu Deus.</item>
+<item>9. Naquele dia, Moisés fez este juramento: a terra que pisaste será a tua parte e a de teus filhos para sempre, porque seguiste fielmente o Senhor, meu Deus.</item>
+<item>10. Pois bem: eis que o Senhor conservou-me a vida, como prometeu. Quarenta e cinco anos são passados desde que o Senhor assim falou a Moisés, durante a marcha de Israel pelo deserto; tenho hoje oitenta e cinco anos,</item>
+<item>11. e acho-me ainda robusto como no dia em que Moisés me enviou, e sinto-me tão forte como naquele tempo, tanto para a guerra como para qualquer outra missão.</item>
+<item>12. Dá-me, pois, este monte que o Senhor me prometeu naquele tempo; porque naquele dia ouviste que se encontram enacim neste lugar, e também grandes fortalezas. Se o Senhor estiver comigo, conseguirei despojá-los, como ele disse.</item>
+<item>13. Josué abençoou Caleb, filho de Jefoné, e deu-lhe Hebron como herança.</item>
+<item>14. Eis por que Hebron pertence até o dia de hoje a Caleb, filho de Jefoné, o cenezeu, porque ele seguiu fielmente o Senhor, Deus de Israel.</item>
+<item>15. (Hebron chamava-se outrora Cariat-Arbé; Arbé foi o maior homem entre os enacim.) E a terra ficou, a partir de então, tranqüila e sem guerra.</item>
+ </string-array><string-array name="CapJs15">
+<item>Capítulo 15</item>
+<item>1. A parte que tocou por sorte à tribo de Judá, segundo suas famílias, estendia-se para o limite de Edom até o deserto de Sin, na extremidade meridional da terra.</item>
+<item>2. Sua fronteira, ao sul, partia da extremidade do mar Salgado, do braço que ele estende para o meio-dia,</item>
+<item>3. e prolongava-se para o sul da subida de Acrabim, passava em Sin e subia para o sul de Cades-Barne, passava em Esron, subindo para Adar e dando volta a Carcaa;</item>
+<item>4. passando dali para Asmon, continuava até a torrente do Egito e terminava no mar. Esta a fronteira sul.</item>
+<item>5. A fronteira oriental era o mar Salgado, até a embocadura do Jordão. A fronteira setentrional partia do braço do mar, na embocadura do Jordão,</item>
+<item>6. e subia a Bet-Agla, passava ao norte de Bet-Araba e ia até a pedra de Boen, filho de Rubem;</item>
+<item>7. depois subia para Debera, desde o vale de Acor para o norte, olhando para os lados de Gálgala, que está defronte da subida de Adomim, ao sul da torrente. Passava junto das águas de En-Semes e terminava em En-Rogel.</item>
+<item>8. Daí subia para o vale de Ben Enom até a vertente meridional de Jebus, que é Jerusalém. Em seguida, elevava-se até o cimo do monte que está fronteiro ao vale de Enom, para o ocidente, e na extremidade do vale dos refains para o norte.</item>
+<item>9. Do cimo do monte, estendia-se até a fonte das águas de Neftoa, dirigia-se para as cidades da montanha de Efron, e depois continuava para Baala, que é Cariatiarim.</item>
+<item>10. De Baala, a fronteira dava volta para o ocidente até o monte Seir e passava pela vertente setentrional do monte Jarim que é Queslon; descia a Betsames, passava por Tama,</item>
+<item>11. e dirigia-se para o norte até a vertente de Acaron; estendia-se para Secrona, passava pelo monte Baala, e ia até Jebneel, terminando no mar.</item>
+<item>12. Era o mar Grande que fazia o limite da fronteira ocidental. Tais foram, por todos os lados, as fronteiras dos filhos de Judá, segundo suas famílias.</item>
+<item>13. A Caleb, filho de Jefoné, foi dada uma parte no meio dos filhos de Judá, como o Senhor tinha prescrito a Josué: a cidade de Arbé, pai de Enac, isto é, Hebron.</item>
+<item>14. Caleb expulsou dela os três filhos de Enac: Sesai, Aimã e Tolmai.</item>
+<item>15. Dali, marchou contra os habitantes de Dabir, que antes se chamava Cariat-Sefer.</item>
+<item>16. Eu darei minha filha Axa, disse Caleb, por mulher, àquele que assaltar e tomar Cariat-Sefer.</item>
+<item>17. Otoniel, filho de Cenez, irmão de Caleb, conquistou essa cidade, e Caleb deu-lhe por mulher sua filha Axa.</item>
+<item>18. Chegando Axa à casa de Otoniel, ele incitou-a a que pedisse ao seu pai um campo. Ao descer do jumento, Caleb disse-lhe: Que tens?</item>
+<item>19. Ela respondeu: Dá-me um presente. Deste-me uma terra árida: dá-me agora fontes. E ele deu-lhe as fontes superiores e as fontes inferiores.</item>
+<item>20. Tal foi a parte da tribo de Judá, segundo suas famílias.</item>
+<item>21. As cidades situadas na extremidade da tribo dos filhos de Judá, para os lados da fronteira de Edom, no Negeb, eram: Cabseel, Eder, Jagur,</item>
+<item>22. Cina, Dimona, Adada,</item>
+<item>23. Cades, Asor, Jetnão,</item>
+<item>24. Zif, Telem, Balot,</item>
+<item>25. Asor; Hadata, Cariot-Hesron, que é Asor;</item>
+<item>26. Amão, Sarna, Molada,</item>
+<item>27. Asergada, Hassemon, Betfelet,</item>
+<item>28. Hasersual, Bersabéia, Baziotia,</item>
+<item>29. Baala, Jim, Esem,</item>
+<item>30. Eltolad, Cesil, Harma,</item>
+<item>31. Siceleg, Medemena, Sensena,</item>
+<item>32. Lebaot, Selim, Aen e Remon; ao todo vinte e nove cidades com suas aldeias.</item>
+<item>33. Na planície: Estaol, Sarea, Asena,</item>
+<item>34. Zanoé, Aenganim, Tafua, Enaim,</item>
+<item>35. Jerimot, Odolão, Soco, Azeca,</item>
+<item>36. Saraim, Aditaim, Gedera e Gederotaim; quatorze cidades com suas aldeias.</item>
+<item>37. Sanã, Hadassa, Magdal-Gad,</item>
+<item>38. Deleã, Masefa, Jectel,</item>
+<item>39. Laquis, Bascat, Eglon,</item>
+<item>40. Quebon, Leemã, Cetlis,</item>
+<item>41. Giderot, Bet-Dagon, Naama e Maceda; dezesseis cidades com suas aldeias.</item>
+<item>42. Labana, Eter, Asã,</item>
+<item>43. Jefta, Esna, Nesib,</item>
+<item>44. Ceila, Aczib e Maresa; nove cidades com suas aldeias.</item>
+<item>45. Acaron com seus arrabaldes e suas aldeias,</item>
+<item>46. desde Acaron ao ocidente, todas as cidades vizinhas de Azot e suas aldeias,</item>
+<item>47. Azot com seus arrabaldes e suas aldeias, Gaza com seus arrabaldes e suas aldeias até a torrente do Egito e o mar Grande que é o seu limite.</item>
+<item>48. Na montanha: Samir, Jeter, Socot,</item>
+<item>49. Dana, Cariat-Sena, que é Dabir;</item>
+<item>50. Anab, Istemo, Anim,</item>
+<item>51. Gosen, Olon e Giló; onze cidades com suas aldeias.</item>
+<item>52. Arab, Duma, Esaã,</item>
+<item>53. Janum, Bet-Tafua, Afeca,</item>
+<item>54. Atmata, Cariat-Arbé, que é Hebron; e Sior; nove cidades com suas aldeias.</item>
+<item>55. Maon, Carmelo, Zif, Jota,</item>
+<item>56. Jezrael, Jucadão, Zanoé,</item>
+<item>57. Acain, Gabaa e Tamna; dez cidades com suas aldeias.</item>
+<item>58. Halhul, Bessur, Gedor,</item>
+<item>59. Maret, Bet-Anot e Eltecon; seis cidades com suas aldeias.</item>
+<item>60. Cariat-Baal, que é Cariatiarim e Areba; duas cidades com suas aldeias.</item>
+<item>61. No deserto: Bet-Araba, Medin Sacaca,</item>
+<item>62. Nebsã, Ir-Hamelac En-Gadi; seis cidades com suas aldeias.</item>
+<item>63. Os filhos de Judá não chegaram a expulsar os jebuseus que habitavam em Jerusalém, de sorte que os jebuseus continuam ainda habitando Jerusalém com os filhos de Judá.</item>
+ </string-array>
+ 
+ 
+ <string-array name="CapJs16">
+<item>Capítulo 16</item>
+<item>1. A parte que tocou por sorte aos filhos de José começava desde o Jordão, defronte de Jericó (as águas de Jericó), ao oriente, e passava pelo deserto que vai de Jericó ao monte Betel.</item>
+<item>2. Continuava de Betel a Luz, passava ao longo da fronteira dos arqueus, em Atarot,</item>
+<item>3. descia pelo ocidente, ao longo da fronteira dos jefletitas até a fronteira de Betoron inferior, e até Gazer, terminando no mar.</item>
+<item>4. Tal foi a parte que coube aos filhos de José: Manassés e Efraim.</item>
+<item>5. Este é o território dos filhos de Efraim, segundo suas famílias. O limite de sua herança, para o oriente, foi Atarot-Adar até Betoron superior.</item>
+<item>6. Para o ocidente, a fronteira tocava o norte de Macmetat e voltava para Tamat-Selo, ao oriente, e a ultrapassava, indo para o oriente de Janoé.</item>
+<item>7. Descia em seguida de Janoé a Atarot e a Naarata, atingia Jericó e terminava no Jordão.</item>
+<item>8. De Tafua estendia-se para o ocidente até a torrente de Caná, terminando no mar. Esta foi a parte dos filhos de Efraim, segundo suas famílias.</item>
+<item>9. Tiveram também cidades situadas no meio da parte dos filhos de Manassés, todas com suas aldeias.</item>
+<item>10. Os filhos de Efraim não expulsaram, entretanto, os cananeus de Gazer, de sorte que os cananeus continuam até agora a habitar no meio de Efraim, mas sujeitos a trabalhos forçados.</item>
+ </string-array><string-array name="CapJs17">
+<item>Capítulo 17</item>
+<item>1. Tirou-se a sorte também para a tribo de Manassés, porque era o primogênito de José. Maquir, primogênito de Manassés e pai de Galaad, que foi um homem guerreiro. tinha recebido Galaad e Basã.</item>
+<item>2. Houve também uma parte para os outros filhos de Manassés, segundo suas famílias: para os filhos de Abiezer, os filhos de Sequem, os de Hefer e os de Semida. Estes são os filhos varões de Manassés, filho de José, segundo suas famílias.</item>
+<item>3. Salfaad, filho de Hefer, filho de Galaad, filho de Maquir, filho de Manassés, não teve filhos, mas somente filhas, cujos nomes são: Maala, Noa, Hegla, Melca e Tersa.</item>
+<item>4. Elas foram ter com o sacerdote Eleazar, com Josué, filho de Nun, e com os príncipes: O Senhor, disseram elas, ordenou a Moisés que nos desse uma parte entre nossos irmãos. E foi-lhes dada uma herança entre os irmãos de seu pai, segundo a ordem do Senhor.</item>
+<item>5. Tocaram a Manassés dez partes, além da terra de Galaad e de Basã, situada além do Jordão,</item>
+<item>6. porque as filhas de Manassés receberam uma herança entre os filhos da mesma tribo, sendo que a terra de Galaad foi para os outros filhos de Manassés.</item>
+<item>7. A fronteira de Manassés partia de Asser e ia até Macmetat, defronte de Siquém, e depois seguia pela direita, na direção dos habitantes de En-Tafua.</item>
+<item>8. A terra de Tafua tinha caído por sorte a Manassés, mas Tafua, junto à fronteira de Manassés, pertencia aos efraimitas.</item>
+<item>9. A fronteira descia à torrente de Caná, para o meio-dia da torrente; as cidades dessa região, que pertenciam a Efraim, encontravam-se no meio das cidades de Manassés. A fronteira de Manassés passava pelo norte da torrente e terminava no mar.</item>
+<item>10. Assim a parte meridional pertencia a Efraim, a parte setentrional a Manassés, servindo o mar de fronteira. Limitavam ao norte com a tribo de Aser, e ao nascente com a tribo de Issacar.</item>
+<item>11. Nos territórios de Issacar e de Aser, obteve Manassés Betsã e seus arrabaldes, Jeblaã e seus arrabaldes, os habitantes de Dor e seus arrabaldes, os habitantes de Endor e seus arrabaldes, os habitantes de Tenac e seus arrabaldes, os habitantes de Magedo e seus arrabaldes: são as três colinas.</item>
+<item>12. Os filhos de Manassés não puderam tomar posse dessas cidades, pois os cananeus estavam resolvidos a permanecer nelas.</item>
+<item>13. Quando se tornaram mais fortes, submeteram os cananeus a um tributo, mas não os expulsaram.</item>
+<item>14. Os filhos de José disseram a Josué: Por que nos deste a posse de uma só herança, de uma só parte, sendo nós um povo tão numeroso e tendo-nos o Senhor abençoado até aqui?</item>
+<item>15. Josué disse-lhes: Se sois tão numerosos, subi à floresta, desbravai-a e tomai uma parte da terra dos ferezeus e dos refains, já que a montanha de Efraim é pequena demais para vós.</item>
+<item>16. Os filhos de José, porém, responderam: A montanha não nos basta; e todos os cananeus que habitam na planície possuem carros de ferro, tanto os de Betsã e seus arrabaldes como os que estão no vale de Jesrael.</item>
+<item>17. Então Josué disse à casa de José, a Efraim e a Manassés: Tu és um povo numeroso e forte; não terás só uma parte,</item>
+<item>18. mas terás a montanha, cuja floresta tu desbravarás e os seus arredores serão teus. Expulsarás os cananeus, apesar de seus carros de ferro e de seu poder.</item>
+ </string-array><string-array name="CapJs18">
+<item>Capítulo 18</item>
+<item>1. Toda a assembléia dos filhos de Israel se reuniu em Silo, onde levantaram a tenda de reunião; a terra estava-lhes sujeita.</item>
+<item>2. Havia sete tribos entre os israelitas que ainda não tinham recebido sua parte.</item>
+<item>3. Josué disse aos israelitas: Até quando tardareis a tomar posse da terra que vos deu o Senhor, Deus de vossos pais?</item>
+<item>4. Escolhei de cada tribo três homens para que eu os envie a percorrer a terra: eles farão a sua descrição em vista da repartição, e voltarão para junto de mim.</item>
+<item>5. Dividi-la-ão em sete partes: Judá permanecerá nos seus limites do lado do meio-dia, e a casa de José nos seus, da banda do norte.</item>
+<item>6. Traçareis, pois, a planta da terra, repartindo-a em sete partes, e me trareis aqui essa planta, para que eu, diante do Senhor, nosso Deus, vos lance as sortes.</item>
+<item>7. Não haverá parte alguma para os levitas entre vós, porque sua herança é o sacerdócio do Senhor. Quanto a Gad, Rubem e a meia tribo de Manassés, já receberam a sua parte na Transjordânia, ao oriente, a qual lhes deu Moisés, servo do Senhor.</item>
+<item>8. Então os homens se levantaram e partiram. E Josué deu ordem aos que partiram para demarcar a terra: Ide, disse ele, percorrei a terra, traçai a sua planta e voltai a mim; eu vos lançarei as sortes aqui em Silo, diante do Senhor.</item>
+<item>9. Partiram, pois, percorreram a terra e fizeram a sua descrição em um livro, repartindo-a em sete porções, segundo as cidades. Depois voltaram para junto de Josué no acampamento de Silo.</item>
+<item>10. Então Josué lançou-lhes a sorte diante do Senhor, e repartiu a terra entre os israelitas, segundo suas divisões.</item>
+<item>11. A sorte caiu primeiro sobre a tribo dos benjaminitas, segundo suas famílias, aos quais coube o território situado entre os juditas e os filhos de José.</item>
+<item>12. Sua fronteira, ao norte, partia do Jordão, subia atrás de Jericó, pelo norte e, indo pela montanha para o ocidente, terminava no deserto de Betaven.</item>
+<item>13. Dali, passava ao meio-dia sobre a vertente de Luz, que é Betel; depois descia a Atarot-Adar, perto da montanha que está ao sul de Betoron inferior.</item>
+<item>14. Estendia-se em seguida e, dando volta ao lado ocidental para o sul, desde a montanha que está perto de Betoron, ao sul, terminava em Cariat-Baal, que é Cariatiarim, cidade dos juditas. Tal era a região ocidental.</item>
+<item>15. A região meridional partia da extremidade de Cariatiarim, estendia-se para o ocidente e terminava na fonte das águas de Neftoa.</item>
+<item>16. Descia depois à extremidade da montanha que está defronte ao vale do filho de Enom, no vale dos refains, ao norte. Descia em seguida pelo vale de Enom para a vertente meridional dos jebuseus e para En-Rogel,</item>
+<item>17. estendendo-se ao norte até En-Semer; dali chegava até Gelilot, defronte da subida de Adomim, e descia até a pedra de Boen, filho de Rubem.</item>
+<item>18. Passava então pela vertente setentrional, em frente de Arabá, e descia a Arabá.</item>
+<item>19. Depois passava sobre a vertente setentrional de Bet-Hagla, e terminava no braço do mar Salgado que está ao norte, na extremidade meridional do Jordão. Tal era a fronteira do sul.</item>
+<item>20. O Jordão constituía a fronteira oriental. Esta foi a parte dos benjaminitas, segundo suas famílias, e tais foram as suas fronteiras em toda a volta.</item>
+<item>21. As cidades da tribo dos benjaminitas, segundo suas famílias, foram: Jericó, Bet-Hagla, Emec-Casis,</item>
+<item>22. Bet-Arabá, Samaraim, Betel,</item>
+<item>23. Avim, Afara, Ofera,</item>
+<item>24. Quefar-Emona, Ofni e Gabéia; doze cidades com suas aldeias.</item>
+<item>25. Gabaon, Rama, Berot,</item>
+<item>26. Mesfé, Cafara, Amosa,</item>
+<item>27. Recém, Jarefel, Tarela,</item>
+<item>28. Sela, Elef, Jebus, que é Jerusalém, Gabaat e Cariat; quatorze cidades com suas aldeias.Esta foi a parte dos benjaminitas segundo suas famílias.</item>
+ </string-array><string-array name="CapJs19">
+<item>Capítulo 19</item>
+<item>1. A segunda sorte caiu a Simeão, à tribo dos filhos de Simeão, segundo as suas famílias. Sua parte estava situada no meio da de Judá.</item>
+<item>2. Tiveram por herança: Bersabéia (Sabéia), Molada,</item>
+<item>3. Haser-Sual, Bala, Asen,</item>
+<item>4. Eltolad, Betul, Harma,</item>
+<item>5. Siceleg, Bet-Marcabot, Hasersura,</item>
+<item>6. Bet-Labaot e Saroen: treze cidades com suas aldeias.</item>
+<item>7.  Ain, Remon, Atar e Asã: quatro cidades com suas aldeias,</item>
+<item>8. assim como todos os lugarejos dos arredores dessas cidades até Baalat-Beer, que é Rama do sul. Esta foi a parte dos filhos de Simeão, segundo suas famílias.</item>
+<item>9. Esta parte foi tomada da porção dos filhos de Judá, que era grande demais para eles e, por isso, os filhos de Simeão receberam a sua parte no meio de seu território.</item>
+<item>10. A terceira sorte coube aos filhos de Zabulon, segundo suas famílias, e a fronteira de sua parte estendia-se até Sarid.</item>
+<item>11. Subia para o ocidente, até Merala e chegava até Debaset, tocando a torrente que corre defronte de Jeconão.</item>
+<item>12. De Sarid voltava ao oriente para o nascente, até o limite de Celeset-Tabor, passava por Daberet e subia a Jaflé.</item>
+<item>13. Dali passava pelo lado oriental, para o levante, até Get-Hefer e até Tacasin, e chegava a Remon, prolongando-se até Noa.</item>
+<item>14. Dava volta em seguida pelo norte para Hanaton e terminava no vale de Jeftael.</item>
+<item>15. Havia ainda Catet, Naalol, Semeron, Jedala e Belém; doze cidades com suas aldeias.</item>
+<item>16. Tal foi a parte de Zabulon, segundo suas famílias, e tais são as suas cidades e suas aldeias.</item>
+<item>17. A quarta sorte coube a Issacar, aos filhos de Issacar segundo suas famílias.</item>
+<item>18. Sua fronteira era Jezrael, Casalot, Suném,</item>
+<item>19. Hafaraim, Seon, Anaarat,</item>
+<item>20. Rabot, Cesion, Abés,</item>
+<item>21. Ramet, En-Ganim, En-Hada e Bet-Feses.</item>
+<item>22. A fronteira tocava em Tabor, Seesima e Bet-Sames indo terminar no Jordão: dezesseis cidades com suas aldeias.</item>
+<item>23. Tal foi a parte da tribo dos filhos de Issacar segundo suas famílias, e tais são suas cidades e suas aldeias.</item>
+<item>24. A quinta sorte coube à tribo dos filhos de Aser, segundo suas famílias.</item>
+<item>25. Sua fronteira era Halcat, Cali, Beten, Axaf,</item>
+<item>26. Elmelec, Amaad e Messal; chegava pelo ocidente até o Carmelo e até Sior-Labanat.</item>
+<item>27. Voltava em seguida pelo oriente para Bet-Dagon, tocava em Zabulon e no vale de Jeftael, ao norte de Bet-Emec e de Neiel, e estendia-se pela esquerda até Cabul,</item>
+<item>28. Abrã, Roob, Amon e Caná, até Sidônia, a Grande.</item>
+<item>29. Voltava depois para Ramah até a fortaleza de Tiro, e ia para Hosa, terminando no mar, pelo distrito de Acziba.</item>
+<item>30. Havia, além disso, Ama, Afec e Roob: vinte e duas cidades com suas aldeias.</item>
+<item>31. Esta foi a parte da tribo dos filhos de Aser, segundo suas famílias, e tais são suas cidades e suas aldeias.</item>
+<item>32. A sexta sorte caiu aos filhos de Neftali, segundo suas famílias.</item>
+<item>33. Sua fronteira partia de Helef, desde o carvalhal de Saananim, indo para Adami-Neceb e Jebnael, até Lecum, terminando no Jordão.</item>
+<item>34. Voltava depois pelo ocidente até Azanot-Tabor e atingia Hucuca. Ao sul, tocava em Zabulon, ao ocidente em Aser, ao oriente em Judá, perto do Jordão.</item>
+<item>35. Suas fortalezas eram: Assedim, Ser, Emat, Recat, Ceneret,</item>
+<item>36. Edema, Arama, Asor,</item>
+<item>37. Cedes, Edrai, En-Hasor,</item>
+<item>38. Jeron, Magdalel, Horem, Bet-Anat e Bet-Sames: dezenove cidades com suas aldeias.</item>
+<item>39. Esta foi a parte da tribo dos filhos de Neftali, segundo suas famílias e tais são suas cidades e suas aldeias.</item>
+<item>40. A sétima sorte caiu à tribo dos filhos de Dã, segundo suas famílias.</item>
+<item>41. Sua fronteira compreendia Saraa, Estaol, Hir-Semes,</item>
+<item>42. Selebin, Ajalon, Jetela,</item>
+<item>43. Elon, Temna, Acron,</item>
+<item>44. Eltece, Gebeton, Balaat,</item>
+<item>45. Jud, Bene-Barac, Get-Remon,</item>
+<item>46. Me-Jarcon e Arecon com a terra fronteira a Jope.</item>
+<item>47. O território dos danitas estendia-se para além dos seus limites, porque, tendo combatido Lesém, tomaram-na e passaram-na ao fio da espada. Entrando em sua posse, habitaram-na e deram-lhe o nome de Dã, seu pai.</item>
+<item>48. Tal foi a parte da tribo dos filhos de Dã, segundo suas famílias, e tais são as suas cidades e suas aldeias.</item>
+<item>49. Acabada a repartição da terra segundo seus limites, os israelitas deram a Josué, filho de Nun, uma parte no meio deles.</item>
+<item>50. Por ordem do Senhor, deram-lhe a cidade que ele pediu, Tamnat-Saré, na montanha de Efraim. Josué reedificou a cidade e habitou nela.</item>
+<item>51. Estas são as partes que o sacerdote Eleazar, Josué, filho de Nun, e os chefes de família das tribos dos israelitas repartiram por sorte em Silo, diante do Senhor, à entrada da tenda de reunião. E assim acabaram a divisão da terra.</item>
+ </string-array><string-array name="CapJs20">
+<item>Capítulo 20</item>
+<item>1. O Senhor disse a Josué: Dirás aos israelitas:</item>
+<item>2. separai para vós as cidades de refúgio das quais vos falei por meio de Moisés,</item>
+<item>3. para que nelas se possa refugiar o homicida que tiver matado alguém inadvertidamente, sem querer: elas vos servirão de refúgio contra o vingador do sangue.</item>
+<item>4. O homicida dirigir-se-á a uma dessas cidades e, parando à entrada da porta, exporá o seu caso aos anciãos da cidade; deste modo o recolherão entre eles na cidade e lhe darão lugar em que habite no meio deles.</item>
+<item>5. Se o vingador do sangue o perseguir, não lhe entregarão o homicida, porque matou inadvertidamente o seu próximo, sem que antes o odiasse.</item>
+<item>6. Habitará nessa cidade até que compareça em juízo diante da assembléia, e até que morra o sumo sacerdote que estiver em exercício naquele tempo. Então voltará o homicida para a sua casa, na cidade de onde tinha fugido.</item>
+<item>7. Designaram Cedes na Galiléia, na montanha de Neftali, Siquém, na montanha de Efraim, e Cariat-Arbé, que é Hebron, na montanha de Judá.</item>
+<item>8. Além do Jordão de Jericó, ao oriente, designaram Bosor, da tribo de Rubem, na planície do deserto; Ramot em Galaad, da tribo de Gad, e Gaulon em Basã, da tribo de Manassés.</item>
+<item>9. Tais foram as cidades designadas a todos os filhos de Israel, e ao estrangeiro que habitar entre eles, a fim de que aquele que tivesse matado alguém, inadvertidamente, se refugiasse nelas, e não morresse pela mão do vingador do sangue antes de ter comparecido diante da assembléia.</item>
+ </string-array><string-array name="CapJs21">
+<item>Capítulo 21</item>
+<item>1. Os chefes de família dos levitas vieram ter com o sacerdote Eleazar, com Josué, filho de Nun, e com os chefes de família das tribos israelitas,</item>
+<item>2. e disseram-lhes em Silo, na terra de Canaã: O Senhor ordenou por Moisés que se nos dessem cidades para habitarmos, e juntamente seus arredores para nossos animais.</item>
+<item>3. E os israelitas deram, pois, de suas possessões, as seguintes cidades com seus arrabaldes aos levitas, segundo a ordem do Senhor:</item>
+<item>4. A sorte foi lançada para as famílias dos caatitas; e os levitas, filhos do sacerdote Aarão, obtiveram por sorte treze cidades das tribos de Judá, de Simeão e de Benjamim;</item>
+<item>5. os outros filhos de Caat obtiveram por sorte dez cidades das famílias das tribos de Efraim, de Dã e da meia tribo de Manassés.</item>
+<item>6. Tocaram por sorte aos filhos de Gérson treze cidades das famílias das tribos de Issacar, de Aser, de Neftali e da meia tribo de Manassés em Basã.</item>
+<item>7. Os filhos de Merari, segundo suas famílias, obtiveram doze cidades das tribos de Rubem, de Gad e de Zabulon.</item>
+<item>8. Os israelitas deram aos levitas essas cidades com seus arrabaldes, repartindo-as por sorte, como o Senhor tinha ordenado por Moisés.</item>
+<item>9. Da tribo dos juditas e da tribo dos filhos de Simeão, deram as cidades cujos nomes seguem.</item>
+<item>10. Elas.foram dadas aos filhos de Aarão dentre as famílias dos caatitas, filhos de Levi, a quem caiu a primeira sorte.</item>
+<item>11. Foi-lhes dada na montanha de Judá a cidade de Arbé, pai de Enac, que é Hebron, com seus arrabaldes.</item>
+<item>12. Os campos, porém, e as aldeias dessa cidade foram dados como propriedade a Caleb, filho de Jefoné.</item>
+<item>13. Aos filhos do sacerdote Aarão deram Hebron e seus arrabaldes, a cidade de refúgio para o homicida, assim como Libna com seus arredores,</item>
+<item>14. Jeter com seus arredores, Estemo e seus arredores,</item>
+<item>15. Holon e seus arredores, Dabir e seus arredores,</item>
+<item>16. Ain e seus arredores, Jeta e seus arredores, Betsames e seus arredores; nove cidades dessas duas tribos.</item>
+<item>17. Da tribo de Benjamim deram-lhes Gabaon e seus arredores,</item>
+<item>18. Gabaa e seus arredores, Anatot e seus arredores, Almon e seus arredores; quatro cidades.</item>
+<item>19. Total das cidades dos sacerdotes, filhos de Aarão: treze cidades com seus arredores.</item>
+<item>20. Os levitas das outras famílias dos filhos de Caat receberam por sorte cidades da tribo de Efraim.</item>
+<item>21. Deram-lhes Siquém, cidade de refúgio para o homicida, e seus arredores, na montanha de Efraim, Geser e seus arredores,</item>
+<item>22. Gibsaim e seus arredores, Betoron e seus arredores; quatro cidades.</item>
+<item>23. Da tribo de Dã, foram-lhes dadas Elteco e seus arredores,</item>
+<item>24. Gabaton e seus arredores, Ajalon e seus arredores, Get-Remon e seus arredores; quatro cidades.</item>
+<item>25. Da meia tribo de Manassés: Tanac e seus arredores, Get-Remon e seus arredores; duas cidades.</item>
+<item>26. Total: dez cidades com seus arredores para as famílias dos outros filhos de Caat.</item>
+<item>27. Aos filhos de Gérson, uma das famílias de Levi, foram dadas da meia tribo de Manassés: Gaulon, cidade de refúgio para o homicida, em Basã, com seus arredores, e Bosra com seus arredores; duas cidades.</item>
+<item>28. Da tribo de Issacar, Cesion e seus arredores, Daberet e seus arredores,</item>
+<item>29. Jaramote seus arredores, En-Gamin e seus, arredores; quatro cidades.</item>
+<item>30. Da tribo de Aser, Masal e seus arredores, Abdon e seus arredores,</item>
+<item>31. Helcat e seus arredores, Roob e seus arredores; quatro cidades.</item>
+<item>32. Da tribo de Neftali, Cedes na Galiléia, cidade de refúgio para o homicida, e seus arredores, Hamat-Dor e seus arredores. Cartã e seus arredores; três cidades.</item>
+<item>33. Total das cidades dos gersonitas segundo suas famílias: treze cidades com seus arredores.</item>
+<item>34. Às famílias dos filhos de Merari, o resto dos levitas, deram, da tribo de Zabulon, Jecnão e seus arredores, Carta e seus arredores,</item>
+<item>35. Damna e seus arredores, Naalol e seus arredores; quatro cidades;</item>
+<item>36. da tribo de Rubem, Basor e seus arredores, Jassa e seus arredores,</item>
+<item>37. Cedemot e seus arredores, Mefaat e seus arredores; quatro cidades.</item>
+<item>38. Da tribo de Gad: a cidade de refúgio para o homicida, Ramot em Galaad e seus arredores, Manaim e seus arredores,</item>
+<item>39. Hesebon e seus arredores, Jaser e seus arredores; ao todo, quatro cidades.</item>
+<item>40. Total das cidades dadas por sorte aos filhos de Merari segundo suas famílias, que formavam o resto dos levitas: doze cidades.</item>
+<item>41. Total das cidades dos levitas no meio das possessões dos israelitas: quarenta e oito cidades com seus arredores.</item>
+<item>42. Cada uma dessas cidades tinha os seus arrabaldes ao redor: assim foi com todas as cidades.</item>
+<item>43. Foi assim que o Senhor deu a Israel toda a terra que ele tinha jurado dar a seus pais. Eles possuíram-na e estabeleceram-se nela.</item>
+<item>44. E o Senhor deu-lhes repouso em todo o derredor de sua terra, como tinha jurado a seus pais; nenhum dos seus inimigos pôde resistir-lhes, pois o Senhor entregou-os todos nas suas mãos.</item>
+<item>45. Não falhou nenhuma de todas as boas palavras que o Senhor tinha dito a Israel. Todas se cumpriram.</item>
+ </string-array><string-array name="CapJs22">
+<item>Capítulo 22</item>
+<item>1. Josué convocou os rubenitas, os gaditas e a meia tribo de Manassés:</item>
+<item>2. Observastes, disse-lhes ele, tudo o que vos ordenou Moisés, servo do Senhor, e obedecestes a todos os mandamentos que vos dei.</item>
+<item>3. Durante todo esse tempo, até o dia de hoje, não abandonastes vossos irmãos, observando fielmente o mandamento do Senhor, vosso Deus.</item>
+<item>4. Agora que o Senhor, vosso Deus, deu aos vossos irmãos o descanso que ele havia prometido, retomai o caminho de vossas tendas na terra que vos pertence, e que Moisés, servo do Senhor, vos deu além do Jordão.</item>
+<item>5. Tende muito cuidado, no entanto, de pôr em prática os mandamentos e as leis que vos prescreveu Moisés, servo do Senhor: amar o Senhor, vosso Deus, andar em todos os seus caminhos, guardar os seus mandamentos e unir-vos a ele, servindo de todo o vosso coração e de toda a vossa alma.</item>
+<item>6. Josué abençoou-os e os despediu, e eles voltaram para as suas tendas.</item>
+<item>7. Ora, Moisés tinha dado a uma meia tribo de Manassés uma parte em Basã; por isso Josué deu à outra meia tribo uma parte entre seus irmãos ao ocidente, aquém do Jordão. Despedindo-os para as suas tendas, Josué deu-lhes esta bênção:</item>
+<item>8. Voltais para vossas tendas com grandes riquezas - numerosos rebanhos, prata e ouro, bronze e ferro, e vestidos em grande quantidade - e reparti com vossos irmãos os despojos de vossos inimigos.</item>
+<item>9. Os filhos de Rubem, de Gad e da meia tribo de Manassés separaram-se dos israelitas em Silo, na terra de Canaã, e retomaram o caminho da terra de Galaad, terra cuja propriedade tinha recebido por mandamento do Senhor, transmitido a Moisés.</item>
+<item>10. E, tendo chegado aos distritos do Jordão, que pertencem à terra de Canaã, os filhos de Rubem, de Gad, da meia tribo de Manassés levantaram, ali junto ao Jordão, um enorme altar, que se podia ver de longe.</item>
+<item>11. Os israelitas, tendo ouvido que os filhos de Rubem, de Gad e da meia tribo de Manassés tinham levantado um altar defronte da terra de Canaã, na região do Jordão do lado dos israelitas,</item>
+<item>12. reuniram-se todos em Silo para irem combater contra eles.</item>
+<item>13. Enviaram aos filhos de Rubem, de Gad e da meia tribo de Manassés, na terra de Galaad, o sacerdote Finéias, filho de Eleazar,</item>
+<item>14. juntamente com dez príncipes, chefes de casas patriarcais, um chefe por tribo, sendo todos chefes de casas patriarcais entre os milhares de Israel.</item>
+<item>15. Estes, chegando junto aos filhos de Rubem, de Gad e da meia tribo de Manassés, na terra de Galaad, disseram-lhes:</item>
+<item>16. Eis a mensagem da assembléia do Senhor: que infidelidade é essa que cometeis contra o Deus de Israel, desviando-vos hoje do Senhor e levantando um altar, o que é presentemente um ato de revolta contra ele?</item>
+<item>17. Porventura não nos basta o pecado de Fogor, do qual ainda hoje não estamos purificados, apesar do castigo que feriu a assembléia do Senhor? E vós vos desviais hoje do Senhor!</item>
+<item>18. Se vos revoltais hoje contra o Senhor, amanhã sua cólera se inflamará contra toda a assembléia de Israel.</item>
+<item>19. Se julgais que a terra de vossa herança é impura, passai para a terra que é a propriedade do Senhor, onde se acha sua morada, e instalai-vos no meio de nós; mas não vos revolteis contra o Senhor, nem contra nós, construindo outro altar além do altar do Senhor, nosso Deus.</item>
+<item>20. Não houve uma explosão de cólera do Senhor contra toda a assembléia de Israel quando Acã, filho de Zaré, pecou contra o que estava votado ao interdito? E não foi só ele que pereceu por causa de seu crime.</item>
+<item>21. Os filhos de Rubem, de Gad e da meia tribo de Manassés responderam aos chefes dos milhares de Israel:</item>
+<item>22. Deus todo-poderoso, o Senhor Deus todo-poderoso, o Senhor sabe, e Israel o saiba: se foi por espírito de revolta e por infidelidade para com o Senhor, que ele não nos poupe neste dia!...</item>
+<item>23. Se foi para desviar-nos do Senhor que levantamos um altar, e se foi para oferecermos sobre ele holocaustos, oblações e sacrifícios de ações de graças, o Senhor mesmo nos peça conta disso!</item>
+<item>24. Se o fizemos, foi antes por temor de que vossos filhos digam um dia aos nossos: Que tendes vós em comum com o Senhor, o Deus de Israel?</item>
+<item>25. O Senhor pôs o rio Jordão como fronteira entre nós e vós, ó filhos de Rubem e de Gad: não tendes parte com o Senhor. E desse modo vossos filhos poderiam afastar os nossos do culto do Senhor.</item>
+<item>26. Por isso combinamos entre nós: construamos um altar, não para holocaustos e sacrifícios,</item>
+<item>27. mas para que seja um testemunho entre nós e vós, entre os nossos filhos e os vossos, de que prestamos culto ao Senhor em sua presença, oferecendo-lhe nossos holocaustos, nossos sacrifícios e nossas ações de graças, e para que os vossos filhos não digam amanhã aos nossos: vós não tendes parte com o Senhor.</item>
+<item>28. Se, pois, amanhã eles nos falassem assim, a nós ou aos nossos descendentes, poderíamos responder-lhes: vede a forma do altar do Senhor que nossos pais construíram, não para holocaustos e sacrifícios, mas para servir de testemunho entre nós e vós.</item>
+<item>29. Longe de nós o pensamento de querer revoltar-nos contra o Senhor, desviando-nos hoje dele por termos construído um altar para holocaustos, oblações e sacrifícios, fora do altar que está diante da morada do Senhor, nosso Deus!</item>
+<item>30. Tendo ouvido as palavras dos filhos de Rubem, de Gad e da meia tribo de Manassés, o sacerdote Finéias e os príncipes da assembléia, chefes dos milhares de Israel que o acompanhavam, deram-se por satisfeitos.</item>
+<item>31. Então o sacerdote Finéias, filho de Eleazar, disse aos filhos de Rubem, de Gad e de Manassés: Reconhecemos hoje que o Senhor está no meio de nós, visto que não cometestes esse pecado contra ele, e salvastes assim os israelitas da mão do Senhor!</item>
+<item>32. O sacerdote Finéias, filho de Eleazar, deixando os filhos de Rubem e de Gad, voltou com os príncipes da terra de Galaad para a terra de Canaã, para junto dos israelitas, e fez-lhes um relatório de tudo.</item>
+<item>33. Alegraram-se com isso, bendisseram a Deus e não pensaram mais em sair contra eles para devastar a terra habitada pelos filhos de Rubem e de Gad.</item>
+<item>34. Por isso os filhos de Rubem e de Gad chamaram ao altar que tinham construído Ed, porque, disseram eles, ele é testemunho entre nós de que o Senhor é o verdadeiro Deus.</item>
+ </string-array><string-array name="CapJs23">
+<item>Capítulo 23</item>
+<item>1. O Senhor tinha dado, desde há muito tempo, tranqüilidade a Israel e o livrara de todos os inimigos dos arredores. Josué, sendo já velho e avançado em idade,</item>
+<item>2. convocou todo o Israel, seus anciãos, seus chefes, seus juízes e seus oficiais, e disse-lhes: Eis que estou velho, de idade muito avançada,</item>
+<item>3. e vistes tudo o que o Senhor, vosso Deus, fez a todas essas nações diante de vós; porque é o Senhor, vosso Deus, quem combateu por vós.</item>
+<item>4. Vede: reparti entre vós, por sorte, todos esses povos que restam a combater; é a herança de vossas tribos, assim como aqueles que exterminei desde o Jordão até o mar Grande do ocidente.</item>
+<item>5. O Senhor as expulsará, e as despojará em vosso proveito, e sua terra tornar-se-á vossa propriedade, como vos prometeu o Senhor, vosso Deus.</item>
+<item>6. Esforçai-vos, pois, em pôr em prática tudo o que está escrito no livro da lei de Moisés, e não vos desvieis dela nem para a direita nem para esquerda.</item>
+<item>7. Não vos mistureis com esses povos que ficaram habitando entre vós. Não invoqueis o nome de seus deuses, e não jureis por eles; guardai-vos de prestar-lhes culto e adorá-los,</item>
+<item>8. mas permanecei unidos ao Senhor, vosso Deus, como o fizestes até hoje.</item>
+<item>9. O Senhor despojou em vosso favor grandes e poderosas nações; até o presente ninguém vos pôde resistir.</item>
+<item>10. Um só dentre vós punha em fuga mil inimigos, porque o Senhor, vosso Deus, combatia por vós, como ele vos tinha prometido.</item>
+<item>11. Tende, pois, grande cuidado em amar o Senhor, vosso Deus.</item>
+<item>12. Se vos desviardes e vos unirdes aos restos dessas nações que habitam entre vós, misturando-vos a elas e contraindo com elas matrimônios,</item>
+<item>13. sabei que o Senhor, vosso Deus, não continuará a despojá-las em vosso proveito. Elas se converterão para vós em laços e ciladas, azorrague sobre os vossos rins e espinhos nos vossos olhos, até que tenhais desaparecido desta terra fértil que vos deu o Senhor, vosso Deus.</item>
+<item>14. Eis que me vou hoje pelo caminho de toda a terra. Reconhecei de todo o vosso coração e de toda a vossa alma, que de todas as boas palavras que pronunciou em vosso favor o Senhor, vosso Deus, nem uma só ficou sem efeito: todas se cumpriram, e não falhou uma sequer.</item>
+<item>15. Ora, assim como se realizaram todas as boas promessas que o Senhor, vosso Deus, vos fez, assim também mandará sobre vós todos os males de que vos ameaçou, até que vos extermine de sobre esta terra fértil que ele vos deu;</item>
+<item>16. se violardes a aliança que o Senhor, vosso Deus, fez convosco, indo servir outros deuses e prostrar-vos diante deles, o furor do Senhor se inflamará contra vós e sereis depressa tirados desta excelente terra que vos deu.</item>
+ </string-array><string-array name="CapJs24">
+<item>Capítulo 24</item>
+<item>1. Josué convocou a Siquém todas as tribos de Israel, seus anciãos, seus chefes, seus juízes e seus oficiais. Eles apresentaram-se diante de Deus,</item>
+<item>2. e Josué disse a todo o povo: Eis o que diz o Senhor, Deus de Israel: outrora, vossos ancestrais, Taré, pai de Abraão e de Nacor, habitavam além do rio e serviam a deuses estrangeiros.</item>
+<item>3. Tomei vosso pai Abraão do outro lado do Jordão e conduzi-o à terra de Canaã. Multipliquei sua descendência e dei-lhe Isaac,</item>
+<item>4. ao qual dei Jacó e Esaú, e dei a este último a montanha de Seir; Jacó, porém, e seus filhos desceram ao Egito.</item>
+<item>5. Depois mandei Moisés e Aarão e feri o Egito com tudo o que fiz no meio dele; e em seguida vos tirei de lá.</item>
+<item>6. Fiz sair vossos pais do Egito e, quando chegastes ao mar, os egípcios perseguiram vossos pais com carros e cavaleiros até o mar Vermelho.</item>
+<item>7. Os israelitas clamaram ao Senhor, o qual pôs trevas entre vós e os egípcios, e fez vir o mar sobre eles, cobrindo-os. Vistes com os vossos olhos o que fiz aos egípcios, e depois disso habitastes muito tempo no deserto.</item>
+<item>8. Conduzi-vos em seguida à terra dos amorreus, que habitavam além do Jordão. Eles combateram contra vós, mas eu os entreguei em vossas mãos; tomastes posse de sua terra e eu os exterminei diante de vós.</item>
+<item>9. Balac, filho de Sefor, rei de Moab, combateu contra Israel. Mandou chamar Balaão, filho de Beor, para vos amaldiçoar.</item>
+<item>10. Mas eu não quis ouvir Balaão, e ele teve de vos abençoar; e tirei-vos da mão de Balac.</item>
+<item>11. Passastes o Jordão e chegastes a Jericó. Combateram contra vós os homens dessa cidade, bem como os amorreus, os ferezeus, os cananeus, os hiteus, os gergeseus, os heveus e os jebuseus, e eu os entreguei todos nas vossas mãos.</item>
+<item>12. Mandei adiante de vós vespas que expulsaram os dois reis dos amorreus, não com a vossa espada, nem com o vosso arco.</item>
+<item>13. Desse modo, dei-vos uma terra que não lavrastes, cidades que não construístes, onde agora habitais, vinhas e oliveiras que não plantastes, das quais comeis agora os frutos.</item>
+<item>14. Agora, pois, temei o Senhor e servi-o com toda a retidão e fidelidade. Tirai os deuses que serviram vossos pais além do rio e no Egito, e servi o Senhor.</item>
+<item>15. Porém se vos desagrada servir o Senhor, escolhei hoje a quem quereis servir: se aos deuses, a quem serviram os vossos pais além do rio, se aos deuses dos amorreus, em cuja terra habitais. Porque, quanto a mim, eu e minha casa serviremos o Senhor.</item>
+<item>16. O povo respondeu: Longe de nós abandonarmos o Senhor para servir outros deuses.</item>
+<item>17. O Senhor é o nosso Deus, ele que nos tirou, a nós e a nossos pais, da terra do Egito, da casa da servidão; e que operou à nossa vista maravilhosos prodígios e guardou-nos ao longo de todo o caminho que percorremos, entre todos os povos pelos quais passamos.</item>
+<item>18. O Senhor expulsou diante de nós todas essas nações, assim como os amorreus que habitam na terra. Nós também, nós serviremos o Senhor, porque ele é o nosso Deus.</item>
+<item>19. Josué disse ao povo: Vós não podereis servir o Senhor, porque ele é um Deus santo, um Deus zeloso que não perdoará as vossas rebeliões e os vossos pecados.</item>
+<item>20. Se abandonardes o Senhor para servir outros deuses, ele se voltará contra vós e vos fará mal, e vos consumirá, depois de vos ter feito bem.</item>
+<item>21. Não, clamou o povo, porque é o Senhor que nós queremos servir!</item>
+<item>22. Josué disse-lhes: Sois testemunhas contra vós mesmos de que escolhestes o Senhor para prestar-lhe culto. Somos testemunhas!, responderam eles.</item>
+<item>23. Agora, pois, tirai os deuses estranhos que estão no meio de vós e inclinai os vossos corações para o Senhor, Deus de Israel.</item>
+<item>24. Nós serviremos o Senhor, nosso Deus, respondeu o povo a Josué, e obedeceremos à sua voz.</item>
+<item>25. Desse modo, Josué fez um pacto naquele dia com o povo e deu-lhe, em Siquém, leis e prescrições.</item>
+<item>26. Josué escreveu tudo isso no livro da lei de Deus, tomou em seguida uma pedra muito grande e erigiu-a ali, debaixo do carvalho que estava no santuário do Senhor.</item>
+<item>27. E disse a todo o povo: Esta pedra servirá de testemunho contra nós, porque ela ouviu todas as palavras que o Senhor nos disse; ela servirá de testemunho contra vós, para que não abandoneis o vosso Deus.</item>
+<item>28. Então Josué despediu o povo, cada um para a sua propriedade.</item>
+<item>29. E aconteceu depois disso que Josué, filho de Nun, servo do Senhor, morreu com a idade de cento e dez anos.</item>
+<item>30. Sepultaram-no na terra de sua possessão, em Tamnat-Saré, na montanha de Efraim, ao norte do monte Gaas.</item>
+<item>31. Durante todo o tempo da vida de Josué, Israel serviu o Senhor, bem como enquanto viveram depois dele os anciãos que conheciam tudo o que o Senhor tinha feito em favor de Israel.</item>
+<item>32. Sepultaram também em Siquém os ossos de José que os israelitas tinham trazido do Egito; depuseram-nos na porção da terra que Jacó havia comprado aos filhos de Hemor, pai de Siquém, por cem peças de prata, e que se tornou propriedade dos filhos de José.</item>
+<item>33. Eleazar, filho de Aarão, morreu também. Enterraram-no em Gabaa, cidade de Finéias, seu filho, que lhe tinha sido dada na montanha de Efraim.</item>
+
+
+
+ </string-array>
+</resources>

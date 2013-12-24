@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="br.com.cybertronyk.minhabibliacatolicav2"
+    android:installLocation="auto"
+    android:versionCode="6"
+    android:versionName="1.8" >
+
+    <uses-sdk
+        android:minSdkVersion="7"
+        android:targetSdkVersion="15" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/ThemeHoloWite" >
+        <activity
+            android:name="br.com.cybertronyk.minhabibliacatolicav2.MainActivity"
+            android:label="@string/app_name"
+            android:noHistory="true" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="br.com.cybertronyk.minhabibliacatolicav2.BlocoNota"
+            android:label="@string/anotacoes"
+            android:noHistory="true" >
+        </activity>
+        <activity
+            android:name="br.com.cybertronyk.minhabibliacatolicav2.Anotacoes"
+            android:label="@string/anotacoes"
+            android:noHistory="true" >
+        </activity>
+        <activity
+            android:name="br.com.cybertronyk.minhabibliacatolicav2.Favoritos"
+            android:label="@string/favoritos"
+            android:noHistory="true" >
+        </activity>
+        <activity
+            android:name="br.com.cybertronyk.minhabibliacatolicav2.SettingsActivity"
+            android:label="@string/title_activity_settings"
+            android:noHistory="true" >
+        </activity>
+        <activity
+            android:name="br.com.cybertronyk.minhabibliacatolicav2.HelpActivity"
+            android:label="@string/help"
+            android:noHistory="true" >
+        </activity>
+        <activity
+            android:name="br.com.cybertronyk.minhabibliacatolicav2.Oracoes"
+            android:label="@string/title_activity_oracoes"
+            android:noHistory="true" >
+        </activity>
+        <activity
+            android:name="br.com.cybertronyk.minhabibliacatolicav2.PaiNosso"
+            android:label="@string/title_activity_pai_nosso"
+            android:noHistory="true" >
+        </activity>
+        <activity
+            android:name="br.com.cybertronyk.minhabibliacatolicav2.TextoDasOracoes"
+            android:label="@string/title_activity_texto_das_oracoes"
+            android:noHistory="true" >
+        </activity>
+        <activity
+            android:name="br.com.cybertronyk.minhabibliacatolicav2.TercoList"
+            android:label="@string/title_activity_terco_list"
+            android:noHistory="true" >
+        </activity>
+
+        <service
+            android:name="br.com.cybertronyk.minhabibliacatolicav2.MyService"
+            android:enabled="true"
+            android:exported="true" >
+        </service>
+    </application>
+
+</manifest> <!-- android:theme="@style/ThemeHoloDark" -->
+

@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<string-array name="CapEsd1">
+<item>Capítulo 1</item>
+<item>1. No primeiro ano de Ciro, rei da Pérsia, para que se cumprisse a profecia posta pelo Senhor na boca de Jeremias, o Senhor suscitou o espírito de Ciro, rei da Pérsia, o qual mandou fazer em todo o seu reino, de viva voz e por escrito, a proclamação seguinte:</item>
+<item>2. Assim fala Ciro, rei da Pérsia: o Senhor, Deus do céu, deu-me todos os reinos da terra, e encarregou-me de construir-lhe um templo em Jerusalém, que fica na terra de Judá.</item>
+<item>3. Quem é dentre vós pertencente ao seu povo, que seu Deus o acompanhe, suba a Jerusalém que fica na terra de Judá e construa o templo do Senhor, Deus de Israel, o Deus que reside em Jerusalém.</item>
+<item>4. Que todos os sobreviventes (de Judá) onde quer que residam, sejam providos pelos habitantes da localidade onde se encontrarem, de prata, ouro, cereais e gado, bem como de oferendas voluntárias para o templo do Deus que reside em Jerusalém.</item>
+<item>5. Então os chefes de família de Judá e de Benjamim, bem como todos os sacerdotes e os levitas, principalmente todos aqueles cujo espírito Deus havia tocado, prepararam-se para ir reedificar o templo do Senhor em Jerusalém.</item>
+<item>6. Todos os que habitavam pelas redondezas ajudaram-nos, dando-lhes prata, ouro, bens diversos, gado, cereais e coisas preciosas, além das outras ofertas voluntárias.</item>
+<item>7. O rei Ciro entregou também os utensílios que Nabucodonosor trouxera do templo do Senhor em Jerusalém e colocara no templo de seu deus.</item>
+<item>8. Ciro, rei da Pérsia, mandou-os entregar pelas mãos de Mitrídates, o tesoureiro, o qual os entregou a Sassabasar, príncipe de Judá.</item>
+<item>9. Eis o número deles: trinta bacias de ouro, mil bacias de prata, vinte e nove facas, trinta taças de ouro,</item>
+<item>10. quatrocentas e dez taças de prata, e mil outros utensílios.</item>
+<item>11. Todos os utensílios de ouro e de prata eram em número de cinco mil e quatrocentos. Tudo levou Sassabasar quando os exilados voltaram de Babilônia para Jerusalém.</item>
+ </string-array><string-array name="CapEsd2">
+<item>Capítulo 2</item>
+<item>1. Entre os cativos que Nabucodonosor, rei de Babilônia, havia deportado para Babilônia foram os seguintes os habitantes da província que se puseram a caminho para voltar a Jerusalém e à Judéia, cada um à sua cidade.</item>
+<item>2. Voltaram com Zorobabel, Josué, Neemias, Saraías, Raelaías, Mardoqueu, Belsã, Mesfar, Beguai, Reum e Baana. Número dos homens do povo de Israel:</item>
+<item>3. filhos de Faros: 2.172;</item>
+<item>4. filhos de Safatias: 372;</item>
+<item>5. filhos de Area: 775;</item>
+<item>6. filhos de Faat-Moab, descendente de Josué e de Joab: 2.812;</item>
+<item>7. filhos de Elão: 1.254;</item>
+<item>8. filhos de Zetua: 945;</item>
+<item>9. filhos de Zacai: 760;</item>
+<item>10. filhos de Bani: 642;</item>
+<item>11. filhos de Bebai: 623;</item>
+<item>12 filhos de Azgad: 1.222;</item>
+<item>13. filhos de Adonicão: 666;</item>
+<item>14. filhos de Beguai: 2.056;</item>
+<item>15. filhos de Adin: 454;</item>
+<item>16. filhos de Ater de Azequias: 98;</item>
+<item>17. filhos de Besai: 323;</item>
+<item>18. filhos de Jora: 112;</item>
+<item>19. filhos de Hasum: 223;</item>
+<item>20. homens de Gabaon: 95;</item>
+<item>21. filhos de Belém: 123;</item>
+<item>22. homens de Netofa: 56;</item>
+<item>23. homens de Anatot: 128;</item>
+<item>24. filhos de Bet-Azmavet: 42;</item>
+<item>25. filhos de Cariatiarim, de Cafira e de Berot: 743;</item>
+<item>26 filhos de Ramá e de Geba: 621;</item>
+<item>27. homens de Macmas: 122;</item>
+<item>28.filhos de Betel e de Hai: 223;</item>
+<item>29. filhos de Nebo: 52;</item>
+<item>30. filhos de Megbis: 156;</item>
+<item>31. filhos do outro Elão: 1.254;</item>
+<item>32. filhos de Harim: 320;</item>
+<item>33. filhos de Lod, de Hadid e de Ono: 725;</item>
+<item>34. filhos de Jericó: 345;</item>
+<item>35. filhos de Senaa: 3.630</item>
+<item>36. Sacerdotes: filhos de Iedaiá, da casa de Josué: 973;</item>
+<item>37. filhos de Emmer: 1.052;</item>
+<item>38. filhos de Pasur: 1.247;</item>
+<item>39. filhos de Harim: 1.017.</item>
+<item>40. Levitas: filhos de Josué e de Cadmiel, descendentes de Hodaías: 74.</item>
+<item>41. Cantores: filhos de Asaf: 128.</item>
+<item>42. Porteiros: filhos de Selum, filhos de Ater, filhos de Telmon, filhos de Acub, filhos de Hatita, filhos de Sobai: ao todo, 139.</item>
+<item>43. Natineus: filhos de Siha, filhos de Hasufa, filhos de Tabaot;</item>
+<item>44. filhos de Ceros, filhos de Sia, filhos de Fadon;</item>
+<item>45. filhos de Lebana, filhos de Hagaba, filhos de Acub;</item>
+<item>46. filhos de Hagab, filhos de Selmai, filhos de Hanã;</item>
+<item>47. filhos de Gadel, filhos de Gaer, filhos de Reaia;</item>
+<item>48. filhos de Rasin, filhos de Necoda, filhos de Gazão;</item>
+<item>49. filhos de Aza, filhos de Fazea, filhos de Besai;</item>
+<item>50. filhos de Azena, filhos de Munim, filhos de Nefusim;</item>
+<item>51. filhos de Bacbuc, filhos de Hacufa, filhos de Harur,</item>
+<item>52. filhos de Baslut, filhos de Maida, filhos de Harsa;</item>
+<item>53. filhos de Bercos, filhos de Sisara, filhos de Tema;</item>
+<item>54. filhos de Nasia, filhos de Hatifa.</item>
+<item>55. Os filhos dos escravos de Salomão: filhos de Sotai, filhos de Soferet, filhos de Faruda;</item>
+<item>56. filhos de Jala, filhos de Darcon, filhos de Gadel; filhos de Safatia,</item>
+<item>57. filhos de Hatil, filhos de Poceret-Asebaim, filhos de Ami.</item>
+<item>58. Total dos natineus e dos filhos dos escravos de Salomão: 392.</item>
+<item>59. Eis descritos, também, aqueles que, de Tel-Mela, de Tel-Harsa, de Querub-Adon e de Imer, não se pôde saber se pertenciam ao povo de Israel pela família ou raça de que descendiam:</item>
+<item>60. filhos de Dalaías, filhos de Tobias, filhos de Necoda: 652;</item>
+<item>61. e entre os sacerdotes: filhos de Hobaia, filhos de Acos, filhos de Berzelai, que assim foi chamado por ter tomado como esposa uma das filhas de Berzelai, o galaadita.</item>
+<item>62. Eles procuraram esclarecer a sua genealogia, mas não a puderam encontrar. Assim, foram excluídos do sacerdócio.</item>
+<item>63. O governador proibiu-os de comer das coisas sagradas, até que conseguissem encontrar um sacerdote (qualificado para consultar Deus) pelo Urim e o Tumim.</item>
+<item>64. O total do povo reunido era de 43.360 pessoas,</item>
+<item>65. sem contar seus escravos e escravas, em número de 7.337. Tinham consigo também 200 cantores e cantoras.</item>
+<item>66. Possuíam 736 cavalos, 245 jumentos,</item>
+<item>67. 435 camelos, e 6.720 jumentas.</item>
+<item>68. Vários chefes de família, chegando ao templo do Senhor, fizeram ofertas voluntárias para a casa de Deus, a fim de que a mesma fosse restaurada.</item>
+<item>69. Contribuíram para os tesouros da obra, cada um segundo suas posses, com 61.000 dáricos de ouro, 5.000 de prata e 100 vestes sacerdotais.</item>
+<item>70. Os sacerdotes, os levitas, as pessoas do povo, os cantores, os porteiros e os natineus estabeleceram-se em suas respectivas cidades. Assim todos os israelitas habitaram cada um em sua localidade.</item>
+ </string-array><string-array name="CapEsd3">
+<item>Capítulo 3</item>
+<item>1. Tendo chegado o sétimo mês, e estando os filhos de Israel instalados em suas cidades, todo o povo se reuniu como um só homem em Jerusalém.</item>
+<item>2. Então Josué, filho de Josedec, e seus irmãos sacerdotes, bem como Zorobabel, filho de Salatiel, e seus irmãos principiaram a reconstrução do altar do Deus de Israel e ofereceram holocaustos, como a lei de Moisés, homem de Deus, prescrevia.</item>
+<item>3. Reconstruíram o altar sobre as antigas bases, porque tinham medo dos habitantes vizinhos, e ofereceram holocaustos ao Senhor pela manhã e pela tarde.</item>
+<item>4. Em seguida celebraram a festa dos Tabernáculos, como estava prescrito, e, diariamente, ofereciam holocaustos de acordo com o número prescrito para cada dia.</item>
+<item>5. Depois disso, ofereceram o holocausto perpétuo, os das neomênias e de todas as solenidades consagradas ao Senhor, assim como os daqueles que faziam uma oferta ao Senhor.</item>
+<item>6. No primeiro dia do sétimo mês começaram a oferecer holocaustos ao Senhor, mas os fundamentos do templo do Senhor não estavam ainda colocados.</item>
+<item>7. Foram então contratados canteiros e carpinteiros; deram aos sidônios e tírios víveres, azeite e vinho para que trouxessem por mar a madeira dos cedros desde o Líbano até Jope, segundo a autorização que lhes tinha dado Ciro, rei da Pérsia.</item>
+<item>8. No segundo ano de sua chegada ao templo de Deus em Jerusalém, no segundo mês, Zorobabel, filho de Salatiel, e Josué, filho de Josedec, tendo consigo seus irmãos, os sacerdotes, os levitas e todos os que haviam voltado do cativeiro para Jerusalém, puseram-se a trabalhar; os levitas de vinte anos para cima foram encarregados da direção dos trabalhos do templo do Senhor;</item>
+<item>9. Josué, com seus filhos e irmãos, Cedmiel, com seus filhos, filhos de Judá, propuseram-se unanimemente a dirigir os que trabalhavam na construção da casa de Deus; o mesmo fizeram os filhos de Henadad com seus filhos e seus irmãos que eram levitas.</item>
+<item>10. Logo que os pedreiros lançaram os fundamentos do templo do Senhor, apresentaram-se os sacerdotes ornamentados para assistir à cerimônia, com as trombetas, e os levitas, filhos de Asaf, com os címbalos, para louvarem o Senhor, segundo as ordens de Davi, rei de Israel.</item>
+<item>11. Entoaram ao Senhor este refrão de louvor: Porque ele é bom, e porque sua misericórdia com Israel permanece para sempre! E todo o povo soltou aclamações de alegria para celebrar o Senhor, por ocasião do lançamento dos alicerces de sua casa.</item>
+<item>12. Mas, enquanto muitos gritavam de alegria e júbilo, muitos sacerdotes, levitas e chefes de família, já idosos, que tinham visto o primeiro templo, choravam em alta voz, enquanto diante deles eram lançados os alicerces do novo edifício.</item>
+<item>13. Era impossível distinguir os gritos de alegria dos clamores daqueles que choravam, pois todo o povo gritava em altos brados, e o eco de suas vozes se podia ouvir de longe.</item>
+ </string-array><string-array name="CapEsd4">
+<item>Capítulo 4</item>
+<item>1. Quando os inimigos de Judá e de Benjamim souberam que os filhos do cativeiro estavam construindo um templo ao Senhor, o Deus de Israel,</item>
+<item>2. vieram procurar Zorobabel e os chefes de família, e disseram-lhes: Deixai-nos construir convosco, porque, como vós, honramos também o vosso Deus e lhe ofertamos sacrifícios desde o tempo de Asaradon, rei da Assíria, que nos transportou para aqui.</item>
+<item>3. Mas Zorobabel, Josué e os outros chefes das famílias de Israel responderam-lhes: Não é conveniente que nós e vós construamos em conjunto a morada de nosso Deus; construí-la-emos nós sozinhos ao Senhor, Deus de Israel, como nos ordenou Ciro, rei da Pérsia.</item>
+<item>4. Disso resultou que os homens daquele lugar intimidavam os trabalhadores do povo de Judá e os inquietavam, enquanto trabalhavam.</item>
+<item>5. Assalariaram contra eles alguns conselheiros para frustrar sua obra. (Isso durou toda a vida de Ciro, rei da Pérsia, até a de Dario, rei da Pérsia.)</item>
+<item>6. Sob o reinado de Assuero (Xerxes), desde os primórdios de seu governo, escreveram uma carta de acusação contra os habitantes de Judá e de Jerusalém.</item>
+<item>7. Depois, no tempo de Artaxerxes, Beselão, Mitrídates, Tabeel e seus colegas escreveram ao mesmo Artaxerxes, rei da Pérsia. (A carta foi escrita em caracteres aramaicos e depois traduzida.)</item>
+<item>8. Reum, governador, e o secretário Samsai escreveram a Artaxerxes, a respeito de Jerusalém, uma carta que continha o seguinte:</item>
+<item>9. Reum, governador, Samsai, secretário, e seus colegas de Din, de Afarsataq, de Terfal, de Afarsa, de Ercua, de Babilônia, de Susa, de Deha, de Elão,</item>
+<item>10. e o restante dos povos que o grande e ilustre Asnafar trouxe consigo e instalou na localidade de Samaria e em outros lugares de além do rio, etc...</item>
+<item>11. Eis a cópia da carta que enviaram: Ao rei Artaxerxes, teus servos, os povos da outra margem do rio, etc.</item>
+<item>12. Saiba o rei que os judeus, que partiram de tua terra para vir ao nosso meio, a Jerusalém, reconstroem esta cidade maldosa e rebelde, levantando os muros e restaurando-lhe os fundamentos.</item>
+<item>13. Saiba também o rei que, se esta cidade for reconstruída, e seus muros levantados, seus habitantes não mais pagarão impostos, nem tributos, nem rendas, o que ocasionará prejuízos ao rei.</item>
+<item>14. Nós outros, porém, tendo em vista o sal de teu palácio que comemos, e não achando conveniente ver menosprezado o rei, transmitimos a ti estas informações,</item>
+<item>15. para que mandes consultar os livros de registro de teus pais. Aí verás como esta cidade é uma localidade rebelde, funesta aos reis e às províncias, e como já nos antigos tempos se têm nela incitado rebeliões. É por isso que ela foi destruída.</item>
+<item>16. Nós fazemos chegar ao conhecimento do rei que, se esta cidade for reconstruída e seus muros levantados, não poderás mais conservar tuas posses do lado de lá do rio.</item>
+<item>17. Eis a resposta que o rei enviou ao governador Reum, ao secretário Samsai, e aos seus colegas, habitantes da Samaria e de outros lugares na outra margem do rio:</item>
+<item>18. Saúde, etc. A carta que nos enviastes foi totalmente lida diante de mim.</item>
+<item>19. Por minha ordem, foram feitas investigações e ficou averiguado que desde os tempos mais antigos aquela cidade sublevou-se contra os reis e que ali se fomentaram intrigas e revoltas.</item>
+<item>20. Houve em Jerusalém reis poderosos; dominaram toda a terra da outra margem do rio; pagavam-lhes impostos, tributos e rendas.</item>
+<item>21. Conseqüentemente, ordenai que cessem os trabalhos dessa gente, a fim de que não se reconstrua tal cidade, até que eu dê ordens em contrário.</item>
+<item>22. Guardai-vos de toda negligência no cumprimento desta ordem para que não aumente o prejuízo causado aos reis.</item>
+<item>23. Logo que a carta do rei Artaxerxes foi lida na presença de Reum, de Samsai, o secretário, e de seus colegas, foram com toda a pressa a Jerusalém, junto aos judeus, e os obrigaram, empregando a força e a violência, a cessar os trabalhos.</item>
+<item>24. A restauração da casa de Deus em Jerusalém foi, pois, interrompida até o segundo ano do reinado de Dario, rei da Pérsia.</item>
+ </string-array><string-array name="CapEsd5">
+<item>Capítulo 5</item>
+<item>1. Ora, o profeta Ageu e o profeta Zacarias, filho de Ado, profetizaram aos judeus que estavam em Judá e em Jerusalém, em nome do Deus de Israel que estava com eles.</item>
+<item>2. Então Zorobabel, filho de Salatiel, e Josué, filho de Josedec, retomaram a reconstrução do templo de Deus em Jerusalém com a ajuda e a assistência dos profetas de Deus.</item>
+<item>3. Ao mesmo tempo, Tartanai, governador do lado oposto ao rio, Estarbuzanai e seus colegas vieram procurá-los e falaram-lhes assim: Quem vos deu autorização para reconstruir o templo e levantar suas paredes?</item>
+<item>4. E acrescentaram: Quais são os nomes dos homens que trabalham nesse edifício?</item>
+<item>5. Mas Deus tinha os olhos voltados para os anciãos dos judeus, e ninguém os obrigou a interromper os trabalhos, até que chegasse o relatório a Dario a fim de que este respondesse por escrito sobre o assunto.</item>
+<item>6. Cópia da carta que enviaram ao rei Dario, o governador Tatanai, da outra margem do rio, bem como Estarbuzanai e seus colegas de Artasaq, que também moravam na outra margem do rio.</item>
+<item>7. Enviaram-lhe um relatório no qual se lia o seguinte: Ao rei Dario prosperidade perfeita!</item>
+<item>8. Saiba o rei que fomos à província de Judá, à casa do grande Deus. Está ela sendo reconstruída com pedras enormes, e o madeiramento está já colocado nas paredes. Este trabalho está sendo executado com cuidado e progride nas suas mãos;</item>
+<item>9. por isso, interrogamos os anciãos: Quem vos deu autorização para reconstruir esse templo e levantar esses muros?</item>
+<item>10. Perguntamos-lhes também os seus nomes para consigná-los aqui e fazê-los conhecidos de ti, pelo menos os que estão à testa deles.</item>
+<item>11. Responderam: Nós somos servos do Deus do céu e da terra; estamos reconstruindo o templo que há muitos anos fora construído e rematado por um grande rei de Israel.</item>
+<item>12. Mas nossos pais caíram na ira do Deus do céu, o qual os entregou nas mãos de Nabucodonosor, rei de Babilônia, o caldeu; este destruiu o templo e transportou o povo cativo para Babilônia.</item>
+<item>13. Entretanto, no primeiro ano de Ciro, rei de Babilônia, o rei Ciro ordenou a reconstrução desta casa de Deus.</item>
+<item>14. E o próprio rei Ciro retirou do templo de Babilônia os utensílios de ouro e de prata da casa de Deus, que Nabucodonosor tomara do santuário de Jerusalém e transferira para o templo de Babilônia. Foram entregues a um homem chamado Sassabasar, o qual nomeou governador.</item>
+<item>15. E disse-lhe: Toma estes utensílios; leva-os para o templo de Jerusalém; e que a casa de Deus seja reconstruída sobre os seus alicerces.</item>
+<item>16. Foi então que aquele Sassabasar veio para aqui e colocou os fundamentos da casa de Deus em Jerusalém; depois do que, até o presente, temos prosseguido a construção, mas não está ainda terminada.</item>
+<item>17. Portanto, se o rei acha conveniente que sejam feitas investigações nos arquivos do rei em Babilônia, para ver se é verdade que foi ordenada pelo rei Ciro a reconstrução do templo de Deus em Jerusalém, que o faça e, em seguida, queira o rei transmitir-nos a sua decisão a respeito.</item>
+ </string-array><string-array name="CapEsd6">
+<item>Capítulo 6</item>
+<item>1. Foi então que o rei Dario emitiu um decreto ordenando que se fizessem verificações em Babilônia, na casa dos arquivos, onde os tesouros estavam depositados.</item>
+<item>2. E encontrou-se em Ecbátana, cidade fortificada situada no província da Média, um rolo no qual se lia o seguinte texto:</item>
+<item>3. No primeiro ano do reinado de Ciro, o rei Ciro deu esta ordem, com relação à casa de Deus que está situada em Jerusalém: este templo deve ser reconstruído, para servir de local onde se ofereçam sacrifícios; seus fundamentos devem ser restaurados. Sua altura será de sessenta côvados.</item>
+<item>4. Terá três carreiras de pedra talhada e uma de madeira. A despesa será paga pela casa do rei.</item>
+<item>5. Outrossim, devolveremos os utensílios de ouro e prata da casa de Deus, que Nabucodonosor havia tomado do templo de Jerusalém, e transportado para Babilônia; serão repostos no templo de Jerusalém no mesmo lugar em que estavam, e nós os depositaremos na casa de Deus.</item>
+<item>6. Agora, pois, Tatanai, governador de além do rio, Estarbuzanai e vossos colegas de Arfasaq, que estais além do rio, afastai-vos.</item>
+<item>7. Deixai continuar os trabalhos da casa de Deus; que o governador dos judeus e seus anciãos reconstruam-na no seu lugar.</item>
+<item>8. Também ordeno como é que se deve proceder com aqueles anciãos dos judeus, tendo em vista a reconstrução da mencionada casa de Deus: das receitas reais provenientes dos impostos de além-rio, a despesa será fielmente paga a esses homens, a fim de que a obra não sofra interrupção.</item>
+<item>9. Tudo aquilo que for necessário para os holocaustos do Deus do céu, novilhos, carneiros e cordeiros, trigo, sal, óleo e vinho, ser-lhes-á dado a cada dia, sem falta, segundo a ordem dos sacerdotes que estão em Jerusalém,</item>
+<item>10. a fim de que possam fazer oferta dos sacrifícios de bom odor ao Deus do céu, e que rezem pela vida do rei e de seus filhos.</item>
+<item>11. Eis o que ordeno, além disso: se alguém modificar no que quer que seja este edito, arranque-se uma estaca de sua casa, levante-se a mesma, e seja pregado nela onde ficará pendente; e, por seu crime, far-se-á de sua morada um montão de imundícies.</item>
+<item>12. O Deus que fez habitar ali o seu nome destrua todo rei, todo povo que ousar fazer qualquer coisa para mudar este decreto e destruir essa casa de Deus que está em Jerusalém! Eu, Dario, dei esta ordem: seja ela pontualmente executada.</item>
+<item>13. Assim Tatanai, governador da outra margem do rio, Estarbuzanai e seus colegas conformaram-se fielmente à ordem enviada pelo rei Dario.</item>
+<item>14. Os anciãos dos judeus puseram-se a construir o templo e fizeram progresso, sustentados pelas profecias de Ageu, o profeta, e de Zacarias, filho de Ado. Prosseguiram a construção, segundo a ordem do Deus de Israel, e segundo a ordem de Ciro, de Dario e de Artaxerxes, rei da Pérsia.</item>
+<item>15. Terminou-se o edifício no terceiro dia do mês de Adar no sexto ano do reinado de Dario.</item>
+<item>16. Os israelitas, os sacerdotes, os levitas e os demais repatriados celebraram com júbilo a dedicação dessa casa de Deus.</item>
+<item>17. Ofereceram, por ocasião dessa dedicação, cem touros, duzentos carneiros, mil e quatrocentos cordeiros e doze bodes como vítimas pelos pecados de todo Israel, segundo o número das tribos de Israel.</item>
+<item>18. Estabeleceram os sacerdotes segundo as suas classes, e os levitas segundo suas divisões, para celebrar o culto de Deus em Jerusalém, de conformidade com as prescrições do livro de Moisés.</item>
+<item>19. Os repatriados celebraram a Páscoa no dia catorze do primeiro mês.</item>
+<item>20. Os sacerdotes e os levitas, sem exceção, tinham-se purificado; todos estavam puros. Imolaram a Páscoa por todos os repatriados, pelos seus irmãos, os sacerdotes, e por si mesmos.</item>
+<item>21. Os filhos de Israel que tinham voltado do cativeiro comeram a sua Páscoa, bem como todos aqueles que tinham rompido com as práticas impuras dos povos da região e se haviam unido a eles para buscar o Senhor, Deus de Israel.</item>
+<item>22. Celebraram com júbilo durante sete dias a festa dos Ázimos, porque o Senhor os havia consolado, fazendo com que o coração do rei da Assíria se inclinasse em favor deles, para confortá-los no trabalho (de reconstrução) da casa de Deus, do Deus de Israel.</item>
+ </string-array><string-array name="CapEsd7">
+<item>Capítulo 7</item>
+<item>1. Após esses acontecimentos, sob o reinado de Artaxerxes, rei da Pérsia, chegou Esdras, filho de Saraías, filho de Azarias, filho de Helcias,</item>
+<item>2. filho de Selum, filho de Sadoc, filho de Aquitob,</item>
+<item>3. filho de Amarias, filho de Azarias, filho de Maraioth,</item>
+<item>4. filho de Zaraías, filho de Ozi, filho de Bocci,</item>
+<item>5. filho de Abisué, filho de Finéias, filho de Eleazar, filho de Aarão, o sumo sacerdote.</item>
+<item>6. Este Esdras vinha da Babilônia. Era um escriba versado na Lei de Moisés dada pelo Senhor, Deus de Israel. Como a mão do Senhor seu Deus repousasse sobre ele, o rei concedeu-lhe tudo o que pediu.</item>
+<item>7. Com ele, vários israelitas, sacerdotes e levitas, cantores, porteiros e natineus, voltaram para Jerusalém, no sétimo ano do rei Artaxerxes.</item>
+<item>8. Chegou Esdras a Jerusalém no quinto mês do sétimo ano do rei.</item>
+<item>9. Foi no primeiro dia do primeiro mês que ele partiu de Babilônia; e chegou a Jerusalém no primeiro dia do quinto mês, porque a mão benevolente de seu Deus estava com ele.</item>
+<item>10. Esdras havia, com efeito, aplicado seu coração a estudar a lei do Senhor, a praticá-la e a ensinar em Israel as leis e as prescrições.</item>
+<item>11. Esta é a cópia da carta que o rei Artaxerxes entregou a Esdras, sacerdote e escriba, versado no conhecimento do texto da lei do Senhor e de suas prescrições concernentes a Israel:</item>
+<item>12. Artaxerxes, rei dos reis, a Esdras, sacerdote e escriba versado na lei do Deus do céu...</item>
+<item>13. Dei ordem para que deixassem partir contigo todos aqueles do povo de Israel, seus sacerdotes e seus levitas, residentes em meu reino, que desejavam ir a Jerusalém.</item>
+<item>14. Pois foste enviado pelo rei e seus sete conselheiros, para fazer uma inspeção em Judá e em Jerusalém, e para ver como está sendo observada ali a lei de teu Deus que tens em tuas mãos.</item>
+<item>15. Levarás a prata e o ouro que o rei e seus conselheiros ofereceram espontaneamente ao Deus de Israel, cuja morada fica em Jerusalém,</item>
+<item>16. bem como todo o ouro e a prata que encontrares por toda a província de Babilônia, e por fim os dons voluntários que o povo e os sacerdotes ofereceram livremente para a casa de seu Deus em Jerusalém.</item>
+<item>17. Por conseguinte, cuidarás de comprar com esse dinheiro, novilhos, carneiros, cordeiros, bem como as oferendas e as libações, e as oferecerás em Jerusalém no altar da casa de vosso Deus.</item>
+<item>18. Com o restante do dinheiro e do ouro fareis o que parecer melhor a ti e a teus irmãos, em conformidade com a vontade de vosso Deus.</item>
+<item>19. Os utensílios que te forem entregues para o serviço da casa de teu Deus, tu os depositarás diante do Deus de Jerusalém.</item>
+<item>20. Quanto às outras despesas que deverás fazer para o templo de teu Deus, tu as providenciarás por meio dos recursos que o tesouro real te fornecerá.</item>
+<item>21. Ademais, eu, o rei Artaxerxes, ordeno a todos os tesoureiros de além do rio, que entreguem pontualmente a Esdras, o sacerdote, escriba versado na lei do Deus do céu, tudo o que ele solicitar,</item>
+<item>22. até a quantia de cem talentos de prata, cem coros de trigo, até cem batos de vinho, cem batos de azeite, e sal à vontade.</item>
+<item>23. Tudo o que prescreveu o Deus do céu para a sua casa seja fielmente observado, a fim de que a cólera divina não se desencadeie contra o reino, o rei e seus filhos.</item>
+<item>24. Por fim, notificamo-vos de que não se deverá lançar imposto algum, nem tributo, nem encargos, sobre qualquer dos sacerdotes, levitas, cantores, porteiros, natineus e servos dessa casa de Deus.</item>
+<item>25. E tu, Esdras, segundo a sabedoria de teu Deus que te foi dada, estabelecerás juízes e magistrados para fazer justiça a todo o povo da outra banda do rio, a todos aqueles que conhecem as leis de teu Deus; e tu ensina-las-ás aos que não as conhecem.</item>
+<item>26. Todo o que não observar a lei de teu Deus e a lei do rei será castigado rigorosamente, seja com a morte, seja com o desterro, seja com uma multa, ou mesmo com a prisão.</item>
+<item>27. Bendito seja o Senhor, o Deus de nossos pais, que pôs no coração do rei o desejo de honrar a casa do Senhor que está em Jerusalém,</item>
+<item>28. e que me fez obter o favor do rei, dos seus conselheiros e de todos os mais poderosos oficiais do rei! Enchi-me pois de coragem, porque a mão do Senhor meu Deus estava comigo e reuni os chefes de Israel para que partissem comigo.</item>
+ </string-array><string-array name="CapEsd8">
+<item>Capítulo 8</item>
+<item>1. Eis, com sua genealogia, os chefes de família que partiram comigo de Babilônia, sob o reinado do rei Artaxerxes.</item>
+<item>2. Dos filhos de Finéias: Gersom; dos filhos de Itamar: Daniel; dos filhos de Davi; Hatus, que descendia de Sequenias.</item>
+<item>3. Dos filhos de Faros: Zacarias e com ele cento e cinqüenta homens inscritos no registro da família.</item>
+<item>4. Dos filhos de Fahat-Moab: Elioenai, filho de Zaréias e com ele duzentos homens.</item>
+<item>5. Dos filhos de Sequenias: o filho de Ezequiel, e com ele trezentos homens;</item>
+<item>6. dos filhos de Adã: Abed, filho de Jonatã, e com ele cinqüenta homens;</item>
+<item>7. dos filhos de Alão: Isaías, filho de Atalias, e com ele setenta homens;</item>
+<item>8. dos filhos de Safatias: Zebedias, filho de Micael, e com ele oitenta homens;</item>
+<item>9. dos filhos de Joab: Obedias, filho de Jeiel, e com ele duzentos e dezoito homens;</item>
+<item>10. dos filhos de Selomith: o filho de Josefias, e com ele cento e sessenta homens;</item>
+<item>11. dos filhos de Bebai: Zacarias, filho de Bebai, e com ele vinte e oito homens;</item>
+<item>12. dos filhos de Azgad: Joanã, filho de Ecetã, e com ele cento e dez homens;</item>
+<item>13. dos filhos de Adonicão, os últimos, dos quais são estes os nomes: Elifelet, Jeiel e Samaías, e com eles sessenta homens;</item>
+<item>14. dos filhos de Beguai: Utai e Zacur, e com eles setenta homens.</item>
+<item>15. Reuni-os perto do riacho que corre para Aava e ali acampamos três dias. Tendo observado o povo e os sacerdotes não encontrei entre eles nenhum dos filhos de Levi.</item>
+<item>16. Então mandei procurar os chefes Eliezer, Ariel, Semeías, Elnatã, Jarib, um outro Elnatã, Natã, Zacarias e Mosolão, bem como Joiarib e Elnata, doutores da lei.</item>
+<item>17. Enviei-os ao chefe Eddo, que residia em Casfia. Ditei-lhes as palavras que deviam dizer a Eddo e a seus irmãos, os natineus, residentes em Casfia, a fim de que nos trouxessem ministros para a casa de nosso Deus.</item>
+<item>18. E como a mão benfazeja de nosso Deus estivesse conosco, trouxeram eles um homem inteligente dentre os filhos de Mooli, filho de Levi, filho de Israel, Sarabias, com seus filhos e irmãos em números de dezoito.</item>
+<item>19. Hasabias, e com ele Isaías, dentre os filhos de Merari, seus irmãos e seus filhos em número de vinte;</item>
+<item>20. e dentre os natineus, que Davi e os chefes tinham entregue para o serviço dos levitas, duzentos e vinte natineus, todos designados por seu nome.</item>
+<item>21. Ali, perto do riacho Aava, publiquei um jejum a fim de nos humilharmos diante de nosso Deus e implorar dele uma feliz viagem, para nós, nossos filhos, e para todos os nossos haveres.</item>
+<item>22. Tive vergonha, com efeito, de pedir ao rei uma escolta e cavaleiros para nos proteger contra os inimigos durante o trajeto; porque havíamos dito ao rei: a mão de nosso Deus protege com sua bondade todos os que o procuram; mas sua força e sua cólera se fazem sentir em todos aqueles que o abandonam.</item>
+<item>23. Por isso jejuamos e invocamos o nosso Deus, e ele nos ouviu.</item>
+<item>24. Escolhi doze chefes dos sacerdotes, Sarabias e Hasabias, e dez de seus irmãos.</item>
+<item>25. Diante deles pesei a prata, o ouro e os utensílios dados em oferenda para a casa de nosso Deus pelo rei, seus conselheiros e seus príncipes, bem como pelos israelitas que ali se encontravam.</item>
+<item>26. Entreguei-lhes o peso de seiscentos e cinqüenta talentos de prata, utensílios de prata do peso de cem talentos, cem talentos de ouro,</item>
+<item>27. vinte taças de ouro valendo mil dáricos, e dois vasos de um bronze muito claro e brilhante, tão belo como ouro.</item>
+<item>28. E disse-lhes: vós sois santos diante do Senhor; estes utensílios são consagrados; esta prata e este ouro são uma oferta espontânea feita ao Senhor, Deus de vossos pais.</item>
+<item>29. Guardai-os com cuidado até o momento em que vós os pesareis diante dos chefes dos sacerdotes e dos levitas, e diante dos chefes da família de Israel, em Jerusalém, nas salas da casa do Senhor.</item>
+<item>30. Os sacerdotes e levitas receberam, pois, o ouro, a prata e os utensílios assim pesados, para levá-los a Jerusalém, à casa de nosso Deus.</item>
+<item>31. Partimos do riacho de Aava no duodécimo dia do primeiro mês a fim de irmos para Jerusalém. A mão de nosso Deus nos protegia e nos salvava das mãos dos inimigos e de suas emboscadas durante o trajeto.</item>
+<item>32. Chegados a Jerusalém, repousamos durante três dias.</item>
+<item>33. Ao quarto dia, a prata, o ouro e os utensílios foram pesados na casa de nosso Deus e entregues a Merimut, filho de Urias, o sacerdote. Ele tinha consigo Eleazar, filho de Finéias, e com eles os levitas Josabad, filho de Josué, e Noadias, filho de Benui.</item>
+<item>34. Tudo foi contado e pesado. E ao mesmo tempo o peso total foi consignado por escrito.</item>
+<item>35. Os que voltavam do exílio, homens nascidos no cativeiro, ofereceram em holocausto, ao Deus de Israel, doze touros por todo o Israel, noventa e seis carneiros, setenta e sete cordeiros e doze bodes pelos pecados, tudo em holocausto ao Senhor.</item>
+<item>36. Entregaram o decreto do rei aos sátrapas do rei e aos governadores de além do rio. Estes deram seu apoio ao povo e à casa de Deus.</item>
+ </string-array><string-array name="CapEsd9">
+<item>Capítulo 9</item>
+<item>1. Após todos estes acontecimentos, os chefes aproximaram-se de mim e disseram-me: O povo de Israel, os sacerdotes e os levitas não se conservaram afastados dos habitantes desta terra. Imitaram as abominações dos cananeus, dos hiteus, dos ferezeus, dos jebuseus, dos amonitas, dos moabitas, dos egípcios e dos amorreus.</item>
+<item>2. Tomaram, entre as filhas deles, mulheres para si e para seus filhos. Assim, a raça santa misturou-se com a dos habitantes dessas terras; e os chefes e os magistrados foram os primeiros a dar a mão a essa transgressão.</item>
+<item>3. Ouvindo essas palavras, rasguei minha túnica e a capa, arranquei os cabelos da cabeça e da barba, e sentei-me consternado.</item>
+<item>4. Ao redor de mim reuniram-se todos aqueles que temiam as palavras do Deus de Israel, por causa da transgressão dos filhos do cativeiro. Quanto a mim, fiquei sentado e angustiado, até o sacrifício da tarde.</item>
+<item>5. Na hora da oblação da tarde, levantei-me de minha aflição com minhas vestes e meu manto rasgados; então, caindo de joelhos, estendi as mãos para o Senhor, meu Deus,</item>
+<item>6. e disse: Meu Deus, estou coberto de vergonha e de confusão ao levantar minha face para vós, meu Deus; porque as nossas iniqüidades acumularam-se sobre nossas cabeças, e nosso pecado chegou até o céu.</item>
+<item>7. Desde o tempo de nossos pais até o dia de hoje, temos sido gravemente culpados; e por causa de nossas iniqüidades, fomos escravizados, nós, nossos reis e nossos filhos; fomos entregues à mercê dos reis de outras terras, à espada, ao cativeiro, à pilhagem e à vergonha que nos cobre mesmo nos dias de hoje.</item>
+<item>8. Entretanto, o Senhor, nosso Deus, testemunhou-nos por um momento a sua misericórdia, permitindo que subsistisse um resto dentre nós, e concedeu-nos um abrigo em seu lugar santo. Nosso Deus quis assim fazer brilhar a nossos olhos a sua luz, e nos dar um pouco de vida no meio de nossa servidão.</item>
+<item>9. Sim somos escravos; mas nosso Deus não nos abandonou em nosso cativeiro. Ele concedeu-nos a benevolência dos reis da Pérsia, dando-nos vida bastante para reconstruir a morada de nosso Deus, reerguer as ruínas, e prometendo-nos um abrigo seguro em Judá e em Jerusalém.</item>
+<item>10. Agora, ó Deus nosso, que mais poderemos dizer depois de tudo isso?</item>
+<item>11. Abandonamos os mandamentos que vós nos destes por meio de vossos servos, os profetas, que diziam: a terra em que ides entrar para dominar como possessão vossa é uma terra de impureza, contaminada pelas imundícies dos povos dessas regiões, pelas abominações e impurezas com que a encheram de uma extremidade à outra.</item>
+<item>12. Não deis, pois, vossas filhas a seus filhos, e nem tomeis as suas filhas para vossos filhos; não vos preocupeis com sua prosperidade e seu bem-estar, para que vos torneis fortes e comais os bons produtos dessa terra, a qual transmitireis para sempre como herança aos vossos filhos.</item>
+<item>13. Depois de tudo o que nos aconteceu por causa de nossas más ações e nossa grande culpabilidade, vós nos conservastes, ó nosso Deus, mais do que mereciam as nossas iniqüidades, e deixastes subsistir um resto dentre nós.</item>
+<item>14. Poderíamos recomeçar a violar vossas leis, aliando-nos a esses povos abomináveis? Não vos irritaríeis contra nós, até nos exterminar, sem deixar um sobrevivente que pudesse escapar?</item>
+<item>15. Senhor, Deus de Israel, vós sois justo, porque presentemente nada mais somos que um resto de sobreviventes; eis-nos aqui diante de vós com nossa falta, porque não poderíamos subsistir em vossa presença depois do pecado.</item>
+ </string-array><string-array name="CapEsd10">
+<item>Capítulo 10</item>
+<item>1. Enquanto Esdras, prostrado diante da casa de Deus, fazia chorando esta prece e esta confissão, foi-se reunindo em torno dele uma multidão numerosa de israelitas, homens, mulheres e crianças; e o povo também derramava abundantes lágrimas.</item>
+<item>2. Então Sequenias, filho de Jeiel, dos filhos de Elão, tomou a palavra e disse a Esdras: Nós pecamos contra o nosso Deus, tomando por mulheres as estrangeiras pertencentes ao povo desta terra. Entretanto, resta ainda uma esperança para Israel.</item>
+<item>3. Façamos, agora, uma aliança com nosso Deus: proponhamo-nos a mandar de volta todas essas mulheres e seus filhos, de conformidade com o teu conselho e o daqueles que têm respeito pelos mandamentos de nosso Deus. E que seja feito segundo manda a lei.</item>
+<item>4. Levanta-te, pois, para regulamentar este trabalho. Estaremos contigo. Coragem, e mãos à obra!</item>
+<item>5. Então Esdras levantou-se; fez com que os chefes dos sacerdotes, dos levitas, e de todo o Israel jurassem que agiriam como acabava de ser dito; e eles juraram.</item>
+<item>6. Depois, deixando a casa de Deus, foi ao quarto de Joanã, filho de Eliasib. Tendo entrado ali, permaneceu sem comer nem beber, porque chorava o pecado dos filhos do cativeiro.</item>
+<item>7. Publicou-se então em Judá e Jerusalém que todos os filhos do cativeiro viessem reunir-se em Jerusalém.</item>
+<item>8. Quem não comparecesse dentro de três dias, conforme as ordens dos anciãos e dos chefes, veria confiscados os seus bens, e seria excluído da assembléia dos filhos do cativeiro.</item>
+<item>9. Todos os homens de Judá e de Benjamim reuniram-se em Jerusalém nos três dias; era o vigésimo dia do nono mês. Todo o povo que se encontrava na praça do templo de Deus tremia, não só (pela gravidade) da circunstância, mas também porque estava chovendo.</item>
+<item>10. Esdras, o sacerdote, levantou-se e disse-lhes: Vós pecastes tomando mulheres estrangeiras, agravando assim a falta de Israel.</item>
+<item>11. Agora, compenetrai-vos de vossa falta diante do Senhor, o Deus de nossos pais, e fazei a sua vontade; separai-vos dos povos desta terra e das mulheres estrangeiras.</item>
+<item>12. Toda a assembléia respondeu em alta voz: Sim, devemos proceder como disseste.</item>
+<item>13. Mas o povo é numeroso, e é a estação das chuvas; não é, pois, possível ficar-se fora; ademais, isso não é trabalho de um ou dois dias, porque cometemos uma grande transgressão nesse assunto.</item>
+<item>14. Que nossos chefes fiquem aqui para representar a assembléia inteira; e todos aqueles que, em nossas cidades, receberam em suas casas uma ou mais mulheres estrangeiras, se apresentem nas datas fixadas, com os anciãos de cada cidade e os seus juízes, até que consigamos apartar de nós o fogo da cólera de nosso Deus por causa dessa questão.</item>
+<item>15. Só Jonatã, filho de Azael, e Jaasiaz, filho de Técua, se apresentaram para contradizer essa ordem, apoiados por Mosolão e Sebetai, o levita.</item>
+<item>16. Os filhos do cativeiro, porém, conformaram-se. Esdras, o sacerdote, e alguns homens, chefes de família segundo suas casas, todos designados por seus nomes, puseram-se de parte e, sentando-se, começaram a examinar a questão no primeiro dia do décimo mês.</item>
+<item>17. No primeiro dia do primeiro mês resolveram a questão dos homens que tinham desposado mulheres estrangeiras.</item>
+<item>18. Entre os filhos dos sacerdotes, encontravam-se alguns que haviam desposado mulheres estrangeiras, a saber: filhos de Josué, filhos de Josedec, e de seus irmãos entre os quais Maasias, Eliezer, Jarib e Godolias.</item>
+<item>19. Estes se comprometeram a repudiar suas mulheres e oferecer um carneiro pela expiação de sua falta.</item>
+<item>20. Dos filhos de Emmer: Hanani e Zebedias.</item>
+<item>21. Dos filhos de Harim: Maasias, Elias, Semeías, Jeiel e Ozias.</item>
+<item>22. Dos filhos de Fasur: Elioenai, Maasias, Ismael, Natanael, Jozabed e Elasa.</item>
+<item>23. Entre os levitas: Jozabel, Semei, Celaías, chamado também Celita, Fataias, Judá e Eliezer.</item>
+<item>24. Entre os cantores: Eliasib. Entre os porteiros: Selum, Telem e Uri.</item>
+<item>25. Entre os israelitas: dos filhos de Faros: Remeías, Jezias, Melquias, Miamim, Eliezer, Melquias e Banaías.</item>
+<item>26. Dos filhos de Elão: Matanias, Zacarias, Jeiel, Abdi, Jerimot e Elias.</item>
+<item>27. Dos filhos de Zetua: Elioenai, Eliasib, Matanias, Jerimot, Zabad e Aziza.</item>
+<item>28. Dos filhos de Bebai: Joanã, Ananias, Zabai, Atalai.</item>
+<item>29. Dos filhos de Bani: Mosolão, Meluch, Adaías, Jasub, Saal e Ramot.</item>
+<item>30. Dos filhos de Fahat-Moab: Edna, Calal, Banaías, Maasias, Matanias, Beseleel, Benui e Manassés.</item>
+<item>31. Dos filhos de Harim: Eliezer, Jesias, Melquias, Semeías,</item>
+<item>32. Simeão, Benjamim, Melluc, Samarias.</item>
+<item>33. Dos filhos de Hasom: Matanai, Matata, Zabad, Elifelet, Jermai, Manassés, Semei.</item>
+<item>34. Dos filhos de Bani: Maadi, Amrão, Uel,</item>
+<item>35. Banaías, Badaías, e Queliau,</item>
+<item>36. Vanas, Merimut, Eliasib,</item>
+<item>37. Matanias, Matanai, Jasi,</item>
+<item>38. Bani, Benui, Semei,</item>
+<item>39. Salmias, Natã, Adaías, Mecnedebai,</item>
+<item>40. Sisai, Sarai, Ezrel, Selemiau,</item>
+<item>41. Semerias, Selum, Amarias, José.</item>
+<item>42. Dos filhos de Nebo: Jeiel, Matatias, Zabad,</item>
+<item>43. Zabina, Jedu, Joel e Banaías.</item>
+<item>44. Todos estes homens, que haviam desposado mulheres estrangeiras, despediram-nas com seus filhos.</item>
+
+ </string-array>
+</resources>

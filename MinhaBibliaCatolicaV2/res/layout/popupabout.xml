@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="280dp"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:orientation="vertical"
+    android:padding="@dimen/Vinte" >
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/Black" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_gravity="center"
+            android:orientation="vertical" >
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/img"
+                android:gravity="center"
+                android:text="@string/about"
+                android:textColor="@color/Black"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/aboutTextPopUp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/Black"
+                android:padding="@dimen/Cinco"
+                android:text="@string/aboutDatos"
+                android:textColor="@color/white" />
+
+            <Button
+                android:id="@+id/btnOk"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/chumbo"
+                android:padding="@dimen/Cinco"
+                android:text="@string/Ok"
+                android:textColor="@color/white"
+                android:textColorHint="@color/CinzaPadrao" />
+
+        </LinearLayout>
+
+    </ScrollView>
+  
+</LinearLayout>

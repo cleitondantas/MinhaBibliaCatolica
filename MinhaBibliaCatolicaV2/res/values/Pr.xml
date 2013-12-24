@@ -1,0 +1,983 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<string-array name="CapPr1">
+<item>Capítulo 1</item>
+<item>1. Provérbios de Salomão, filho de Davi, rei de Israel,</item>
+<item>2. para conhecer a sabedoria e a instrução, para compreender as palavras sensatas,</item>
+<item>3. para adquirir as lições do bom senso, da justiça, da eqüidade e da retidão;</item>
+<item>4. para dar aos simples o discernimento, ao adolescente a ciência e a reflexão.</item>
+<item>5. Que o sábio escute, e aumentará seu saber, e o homem inteligente adquirirá prudência</item>
+<item>6. para compreender os provérbios, as alegorias, as máximas dos sábios e seus enigmas.</item>
+<item>7. O temor do Senhor é o princípio da sabedoria. Os insensatos desprezam a sabedoria e a instrução.</item>
+<item>8. Ouve, meu filho, a instrução de teu pai: não desprezes o ensinamento de tua mãe.</item>
+<item>9. Isto será, pois, um diadema de graça para tua cabeça e um colar para teu pescoço.</item>
+<item>10. Meu filho, se pecadores te quiserem seduzir, não consintas;</item>
+<item>11. se te disserem: Vem conosco, faremos emboscadas, para (derramar) sangue, armaremos ciladas ao inocente, sem motivo,</item>
+<item>12. como a região dos mortos devoremo-lo vivo, inteiro, como aquele que desce à cova.</item>
+<item>13. Nós acharemos toda a sorte de coisas preciosas, nós encheremos nossas casas de despojos.</item>
+<item>14. Tu desfrutarás tua parte conosco, uma só será a bolsa comum de todos nós!</item>
+<item>15. Oh, não andes com eles, afasta teus passos de suas sendas,</item>
+<item>16. porque seus passos se dirigem para o mal, e se apressam a derramar sangue.</item>
+<item>17. Debalde se lança a rede diante daquele que tem asas.</item>
+<item>18. Eles mesmos armam emboscadas contra seu próprio sangue e se enganam a si mesmos.</item>
+<item>19. Tal é a sorte de todo homem ávido de riqueza: arrebata a vida àquele que a detém.</item>
+<item>20. A Sabedoria clama nas ruas, eleva sua voz na praça,</item>
+<item>21. clama nas esquinas da encruzilhada, à entrada das portas da cidade ela faz ouvir sua voz: e até quando os que zombam se comprazerão na zombaria?</item>
+<item>22. Até quando, insensatos, amareis a tolice, e os tolos odiarão a ciência?</item>
+<item>23. Convertei-vos às minhas admoestações, espalharei sobre vós o meu espírito, ensinar-vos-ei minhas palavras.</item>
+<item>24. Uma vez que recusastes o meu chamado e ninguém prestou atenção quando estendi a mão,</item>
+<item>25. uma vez que negligenciastes todos os meus conselhos e não destes ouvidos às minhas admoestações,</item>
+<item>26. também eu me rirei do vosso infortúnio e zombarei, quando vos sobrevier um terror,</item>
+<item>27. quando vier sobre vós um pânico, como furacão; quando se abater sobre vós a calamidade, como a tempestade; e quando caírem sobre vós tribulação e angústia.</item>
+<item>28. Então me chamarão, mas não responderei; procurar-me-ão, mas não atenderei.</item>
+<item>29. Porque detestam a ciência sem lhe antepor o temor do Senhor,</item>
+<item>30. porque repelem meus conselhos com desprezo às minhas exortações;</item>
+<item>31. comerão do fruto dos seus erros e se saciarão com seus planos,</item>
+<item>32. porque a apostasia dos tolos os mata e o desleixo dos insensatos os perde.</item>
+<item>33. Aquele que me escuta, porém, habitará com segurança, viverá tranqüilo, sem recear dano algum.</item>
+ </string-array><string-array name="CapPr2">
+<item>Capítulo 2</item>
+<item>1. Meu filho, se acolheres minhas palavras e guardares com carinho meus preceitos,</item>
+<item>2. ouvindo com atenção a sabedoria e inclinando teu coração para o entendimento;</item>
+<item>3. se tu apelares à penetração, se invocares a inteligência,</item>
+<item>4. buscando-a como se procura a prata; se a pesquisares como um tesouro,</item>
+<item>5. então compreenderás o temor do Senhor, e descobrirás o conhecimento de Deus,</item>
+<item>6. porque o Senhor é quem dá a sabedoria, e de sua boca é que procedem a ciência e a prudência.</item>
+<item>7. Ele reserva para os retos a salvação e é um escudo para os que caminham com integridade;</item>
+<item>8. protege as sendas da retidão e guarda o caminho de seus fiéis.</item>
+<item>9. Então compreenderás a justiça e a eqüidade, a retidão e todos os caminhos que conduzem ao bem.</item>
+<item>10. Quando a sabedoria penetrar em teu coração e o saber deleitar a tua alma,</item>
+<item>11. a reflexão velará sobre ti, amparar-te-á a razão,</item>
+<item>12. para preservar-te do mau caminho, do homem de conversas tortuosas</item>
+<item>13. que abandona o caminho reto para percorrer caminhos tenebrosos;</item>
+<item>14. que se compraz em praticar o mal e se alegra com a maldade;</item>
+<item>15. do homem cujos caminhos são tortuosos e os trilhos sinuosos.</item>
+<item>16. Ela te preservará da mulher alheia, da estranha que emprega palavras lisonjeiras,</item>
+<item>17. que abandona o esposo de sua juventude e se esquece da aliança de seu Deus.</item>
+<item>18. Sua casa declina para a morte, seu caminho leva aos lugares sombrios;</item>
+<item>19. não retornam os que a buscam, nem encontram as veredas da vida.</item>
+<item>20. Assim tu caminharás pela estrada dos bons e seguirás as pegadas dos justos,</item>
+<item>21. porque os homens retos habitarão a terra, e os homens íntegros nela permanecerão,</item>
+<item>22. enquanto os maus serão arrancados da terra e os pérfidos dela serão exterminados.</item>
+ </string-array><string-array name="CapPr3">
+<item>Capítulo 3</item>
+<item>1. Meu filho, não te esqueças de meu ensinamento e guarda meus preceitos em teu coração</item>
+<item>2. porque, com longos dias e anos de vida, assegurar-te-ão eles a felicidade.</item>
+<item>3. Oxalá a bondade e a fidelidade não se afastem de ti! Ata-as ao teu pescoço, grava-as em teu coração!</item>
+<item>4. Assim obterás graça e reputação aos olhos de Deus e dos homens.</item>
+<item>5. Que teu coração deposite toda a sua confiança no Senhor! Não te firmes em tua própria sabedoria!</item>
+<item>6. Sejam quais forem os teus caminhos, pensa nele, e ele aplainará tuas sendas.</item>
+<item>7. Não sejas sábio aos teus próprios olhos, teme o Senhor e afasta-te do mal.</item>
+<item>8. Isto será saúde para teu corpo e refrigério para teus ossos.</item>
+<item>9. Honra o Senhor com teus haveres, e com as primícias de todas as tuas colheitas.</item>
+<item>10. Então, teus celeiros se abarrotarão de trigo e teus lagares transbordarão de vinho.</item>
+<item>11. Meu filho, não desprezes a correção do Senhor, nem te espantes de que ele te repreenda,</item>
+<item>12. porque o Senhor castiga aquele a quem ama, e pune o filho a quem muito estima.</item>
+<item>13. Feliz do homem que encontrou a sabedoria, daquele que adquiriu a inteligência,</item>
+<item>14. porque mais vale este lucro que o da prata, e o fruto que se obtém é melhor que o fino ouro.</item>
+<item>15. Ela é mais preciosa que as pérolas, jóia alguma a pode igualar.</item>
+<item>16. Na mão direita ela sustenta uma longa vida; na esquerda, riqueza e glória.</item>
+<item>17. Seus caminhos estão semeados de delícias. Suas veredas são pacíficas.</item>
+<item>18. É uma árvore de vida para aqueles que lançarem mãos dela. Quem a ela se apega é um homem feliz.</item>
+<item>19. Foi pela sabedoria que o Senhor criou a terra, foi com inteligência que ele formou os céus.</item>
+<item>20. Foi pela ciência que se fenderam os abismos, por ela as nuvens destilam o orvalho.</item>
+<item>21. Meu filho, guarda a sabedoria e a reflexão, não as percas de vista.</item>
+<item>22. Elas serão a vida de tua alma e um adorno para teu pescoço.</item>
+<item>23. Então caminharás com segurança, sem que o teu pé tropece.</item>
+<item>24. Se te deitares, não terás medo. Uma vez deitado, teu sono será doce.</item>
+<item>25. Não terás a recear nem terrores repentinos, nem a tempestade que cai sobre os ímpios,</item>
+<item>26. porque o Senhor é tua segurança e preservará teu pé de toda cilada.</item>
+<item>27. Não negues um benefício a quem o solicita, quando está em teu poder conceder-lho.</item>
+<item>28. Não digas ao teu próximo: Vai, volta depois! Eu te darei amanhã, quando dispões de meios.</item>
+<item>29. Não maquines o mal contra teu vizinho, quando ele habita com toda a confiança perto de ti.</item>
+<item>30. Não litigues com alguém sem ter motivo, se esse alguém não te fez mal algum.</item>
+<item>31. Não invejes o homem violento, nem adotes o seu procedimento,</item>
+<item>32. porque o Senhor detesta o que procede mal, mas reserva sua intimidade para os homens retos.</item>
+<item>33. Sobre a casa do ímpio pesa a maldição divina, a bênção do Senhor repousa sobre a habitação do justo.</item>
+<item>34. Se ele escarnece dos zombadores, concede a graça aos humildes.</item>
+<item>35. A glória será o prêmio do sábio, a ignomínia será a herança dos insensatos.</item>
+ </string-array><string-array name="CapPr4">
+<item>Capítulo 4</item>
+<item>1. Ouvi, filhos meus, a instrução de um pai; sede atentos, para adquirir a inteligência,</item>
+<item>2. porque é sã a doutrina que eu vos dou; não abandoneis o meu ensino.</item>
+<item>3. Fui um (verdadeiro) filho para meu pai, terno e amado junto de minha mãe.</item>
+<item>4. Deu-me ele este conselho: Que teu coração retenha minhas palavras; guarda meus preceitos e viverás.</item>
+<item>5. Adquire sabedoria, adquire perspicácia, não te esqueças de nada, não te desvies de meus conselhos.</item>
+<item>6. Não abandones a sabedoria, ela te guardará; ama-a, ela te protegerá.</item>
+<item>7. Eis o princípio da sabedoria: adquire a sabedoria. Adquire a inteligência em troca de tudo o que possuis.</item>
+<item>8. Tem-na em grande estima, ela te exaltará, glorificar-te-á quando a abraçares,</item>
+<item>9. colocará sobre tua fronte uma graciosa coroa, outorgar-te-á um magnífico diadema.</item>
+<item>10. Ouve, meu filho, recebe minhas palavras e se multiplicarão os anos de tua vida.</item>
+<item>11. É o caminho da sabedoria que te mostro, é pela senda da retidão que eu te guiarei.</item>
+<item>12. Se nela caminhares, teus passos não serão dificultosos; se correres, não tropeçarás.</item>
+<item>13. Aferra-te à instrução, não a soltes, guarda-a, porque ela é tua vida.</item>
+<item>14. Na estrada dos ímpios não te embrenhes, não sigas pelo caminho dos maus.</item>
+<item>15. Evita-o, não passes por ele, desvia-te e toma outro,</item>
+<item>16. Porque eles não dormiriam sem antes haverem praticado o mal, não conciliariam o sono se não tivessem feito cair alguém,</item>
+<item>17. tanto mais que a maldade é o pão que comem e a violência, o vinho que bebem.</item>
+<item>18. Mas a vereda dos justos é como a aurora, cujo brilho cresce até o dia pleno.</item>
+<item>19. A estrada dos iníquos é tenebrosa, não percebem aquilo em que hão de tropeçar.</item>
+<item>20. Meu filho, ouve as minhas palavras, inclina teu ouvido aos meus discursos.</item>
+<item>21. Que eles não se afastem dos teus olhos, conserva-os no íntimo do teu coração,</item>
+<item>22. pois são vida para aqueles que os encontram, saúde para todo corpo.</item>
+<item>23. Guarda teu coração acima de todas as outras coisas, porque dele brotam todas as fontes da vida.</item>
+<item>24. Preserva tua boca da malignidade, longe de teus lábios a falsidade!</item>
+<item>25. Que teus olhos vejam de frente e que tua vista perceba o que há diante de ti!</item>
+<item>26. Examina o caminho onde colocas os pés e que sejam sempre retos!</item>
+<item>27. Não te desvies nem para a direita nem para a esquerda, e retira teu pé do mal.</item>
+ </string-array><string-array name="CapPr5">
+<item>Capítulo 5</item>
+<item>1. Meu filho, atende à minha sabedoria, presta atenção à minha razão,</item>
+<item>2. a fim de conservares o sentido das coisas e guardares a ciência em teus lábios.</item>
+<item>3. Porque os lábios da mulher alheia destilam o mel; seu paladar é mais oleoso que o azeite.</item>
+<item>4. No fim, porém, é amarga como o absinto, aguda como a espada de dois gumes.</item>
+<item>5. Seus pés se encaminham para a morte, seus passos atingem a região dos mortos.</item>
+<item>6. Longe de andarem pela vereda da vida, seus passos se extraviam, sem saber para onde.</item>
+<item>7. Escutai-me, pois, meus filhos, não vos aparteis das palavras de minha boca.</item>
+<item>8. Afasta dela teu caminho, não te aproximes da porta de sua casa,</item>
+<item>9. para que não seja entregue a outros tua fortuna e tua vida a um homem cruel;</item>
+<item>10. para que estranhos não se fartem de teus haveres e o fruto de teu trabalho não passe para a casa alheia;</item>
+<item>11. para que não gemas no fim, quando forem consumidas tuas carnes e teu corpo</item>
+<item>12. e tiveres que dizer: Por que odiei a disciplina, e meu coração desdenhou a correção?</item>
+<item>13. Por que não ouvi a voz de meus mestres, nem dei ouvido aos meus educadores?</item>
+<item>14. Por pouco eu chegaria ao cúmulo da desgraça no meio da assembléia do povo.</item>
+<item>15. Bebe a água do teu poço e das correntes de tua cisterna.</item>
+<item>16. Derramar-se-ão tuas fontes por fora e teus arroios nas ruas?</item>
+<item>17. Sejam eles para ti só, sem que os estranhos neles tomem parte.</item>
+<item>18. Seja bendita a tua fonte! Regozija-te com a mulher de tua juventude,</item>
+<item>19. corça de amor, serva encantadora. Que sejas sempre embriagado com seus encantos e que seus amores te embriaguem sem cessar!</item>
+<item>20. Por que hás de te enamorar de uma alheia e abraçar o seio de uma estranha?</item>
+<item>21. Pois o Senhor olha os caminhos dos homens e observa todas as suas veredas.</item>
+<item>22. O homem será preso por suas próprias faltas e ligado com as cadeias de seu pecado.</item>
+<item>23. Perecerá por falta de correção e se desviará pelo excesso de sua loucura.</item>
+ </string-array><string-array name="CapPr6">
+<item>Capítulo 6</item>
+<item>1. Meu filho, se ficaste por fiador do teu próximo, se estendeste a mão a um estranho,</item>
+<item>2. se te ligaste com as palavras de teus lábios, se ficaste cativo com a tua própria linguagem,</item>
+<item>3. faze, pois, meu filho, o que te digo: livra-te, pois caíste nas mãos do teu próximo; vai, apressa-te, solicita-o com instância,</item>
+<item>4. não concedas sono aos teus olhos, nem repouso às tuas pálpebras.</item>
+<item>5. Salva-te como a gazela [do caçador], e como o pássaro das mãos do que arma laços.</item>
+<item>6. Vai, ó preguiçoso, ter com a formiga, observa seu proceder e torna-te sábio:</item>
+<item>7. ela não tem chefe, nem inspetor, nem mestre;</item>
+<item>8. prepara no verão sua provisão, apanha no tempo da ceifa sua comida.</item>
+<item>9. Até quando, ó preguiçoso, dormirás? Quando te levantarás de teu sono?</item>
+<item>10. Um pouco para dormir, outro pouco para dormitar, outro pouco para cruzar as mãos no seu leito,</item>
+<item>11. e a indigência virá sobre ti como um ladrão; a pobreza, como um homem armado.</item>
+<item>12. É um homem perverso, um iníquo aquele que caminha com falsidade na boca;</item>
+<item>13. pisca os olhos, bate com o pé, faz sinais com os dedos;</item>
+<item>14. só há perversidade em seu coração, não cessa de maquinar o mal, e de semear questões.</item>
+<item>15. Por isso, repentinamente, virá sua ruína, de improviso ficará irremediavelmente quebrantado.</item>
+<item>16. Seis coisas há que o Senhor odeia e uma sétima que lhe é uma abominação:</item>
+<item>17. olhos altivos, língua mentirosa, mãos que derramam sangue inocente,</item>
+<item>18. um coração que maquina projetos perversos, pés pressurosos em correr ao mal,</item>
+<item>19. um falso testemunho que profere mentiras e aquele que semeia discórdias entre irmãos.</item>
+<item>20. Guarda, filho meu, os preceitos de teu pai, não desprezes o ensinamento de tua mãe.</item>
+<item>21. Traze-os constantemente ligados ao teu coração e presos ao teu pescoço.</item>
+<item>22. Servir-te-ão de guia ao caminhares, de guarda ao dormires e falarão contigo ao despertares,</item>
+<item>23. porque o preceito é uma tocha, o ensinamento é uma luz, a correção e a disciplina são o caminho da vida,</item>
+<item>24. para te preservar da mulher corrupta e da língua lisonjeira da estranha.</item>
+<item>25. Não cobices sua formosura em teu coração, não te deixes prender por seus olhares;</item>
+<item>26. por uma meretriz o homem se reduz a um pedaço de pão, e a mulher adúltera arrebata a vida preciosa do homem.</item>
+<item>27. Porventura pode alguém esconder fogo em seu seio sem que suas vestes se inflamem?</item>
+<item>28. Pode caminhar sobre brasas sem que seus pés se queimem?</item>
+<item>29. Assim o que vai para junto da mulher do seu próximo não ficará impune depois de a tocar.</item>
+<item>30. Não se despreza o ladrão que furta para satisfazer seu apetite, quando tem fome;</item>
+<item>31. se for preso, restituirá sete vezes mais e entregará todos os bens de sua casa.</item>
+<item>32. Quem comete adultério carece de senso, é por sua própria culpa que um homem assim procede.</item>
+<item>33. Só encontrará infâmia e ignomínia e seu opróbrio não se apagará,</item>
+<item>34. porque o marido, furioso e ciumento, não perdoará no dia da vingança,</item>
+<item>35. não se aplacará por resgate algum, nem aceitará nada, se multiplicares os presentes.</item>
+ </string-array><string-array name="CapPr7">
+<item>Capítulo 7</item>
+<item>1. Meu filho, guarda minhas palavras, conserva contigo meus preceitos. Observa meus mandamentos e viverás.</item>
+<item>2. Guarda meus ensinamentos como a pupila de teus olhos.</item>
+<item>3. Traze-os ligados aos teus dedos, grava-os em teu coração.</item>
+<item>4. Dize à sabedoria: Tu és minha irmã, e chama a inteligência minha amiga,</item>
+<item>5. para que elas te guardem da mulher alheia, da estranha que tem palavras lúbricas.</item>
+<item>6. Estava eu atrás da janela de minha casa, olhava por entre as grades.</item>
+<item>7. Vi entre os imprudentes, entre os jovens, um adolescente incauto:</item>
+<item>8. passava ele na rua perto da morada de uma destas mulheres e entrava na casa dela.</item>
+<item>9. Era ao anoitecer, na hora em que surge a obscuridade da noite.</item>
+<item>10. Eis que uma mulher sai-lhe ao encontro, ornada como uma prostituta e o coração dissimulado.</item>
+<item>11. Inquieta e impaciente, seus pés não podem parar em casa;</item>
+<item>12. umas vezes na rua, outras na praça, em todos os cantos ela está de emboscada.</item>
+<item>13. Abraça o jovem e o beija, e com um semblante descarado diz-lhe:</item>
+<item>14. Tinha que oferecer sacrifícios pacíficos, hoje cumpri meu voto.</item>
+<item>15. Por isso saí ao teu encontro para te procurar! E achei-te!</item>
+<item>16. Ornei minha cama com tapetes, com estofos recamados de rendas do Egito.</item>
+<item>17. Perfumei meu leito com mirra, com aloés e cinamomo.</item>
+<item>18. Vem! Embriaguemo-nos de amor até o amanhecer, desfrutemos as delícias da voluptuosidade;</item>
+<item>19. pois o marido não está em casa: partiu para uma longa viagem,</item>
+<item>20. levou consigo uma bolsa cheia de dinheiro e só voltará lá pela lua cheia.</item>
+<item>21. Seduziu-o à força de palavras e arrastou-o com as lisonjas de seus lábios.</item>
+<item>22. Põe-se ele logo a segui-la, como um boi que é levado ao matadouro, como um cervo que se lança nas redes,</item>
+<item>23. até que uma flecha lhe traspassa o fígado, como o pássaro que se precipita para o laço sem saber que se trata dum perigo para sua vida.</item>
+<item>24. E agora, meus filhos, ouvi-me, prestai atenção às minhas palavras.</item>
+<item>25. Que vosso coração não se deixe arrastar para seguir essa mulher, nem vos extravieis em suas veredas,</item>
+<item>26. porque numerosos são os feridos por ela e considerável é a multidão de suas vítimas.</item>
+<item>27. Sua casa é o caminho da região dos mortos, que conduz às entranhas da morte.</item>
+ </string-array><string-array name="CapPr8">
+<item>Capítulo 8</item>
+<item>1. Por ventura não clama a Sabedoria e a inteligência não eleva a sua voz?</item>
+<item>2. No cume das montanhas posta-se ela, e nas encruzilhadas dos caminhos.</item>
+<item>3. Alça sua voz na entrada das torres, junto às portas, nas proximidades da cidade.</item>
+<item>4. É a vós, ó homens, que eu apelo; minha voz se dirige aos filhos dos homens.</item>
+<item>5. Ó simples, aprendei a prudência, adquiri a inteligência, ó insensatos.</item>
+<item>6. Prestai atenção, pois! Coisas magníficas vos anuncio, de meus lábios só sairá retidão,</item>
+<item>7. porque minha boca proclama a verdade e meus lábios detestam a iniqüidade.</item>
+<item>8. Todas as palavras de minha boca são justas, nelas nada há de falso nem de tortuoso.</item>
+<item>9. São claras para os que as entendem e retas para o que chegou à ciência.</item>
+<item>10. Recebei a instrução e não o dinheiro. Preferi a ciência ao fino ouro,</item>
+<item>11. pois a Sabedoria vale mais que as pérolas e jóia alguma a pode igualar.</item>
+<item>12. Eu, a Sabedoria, sou amiga da prudência, possuo uma ciência profunda.</item>
+<item>13. O temor do Senhor é o ódio ao mal. Orgulho, arrogância, caminho perverso, boca mentirosa: eis o que eu detesto.</item>
+<item>14. Meu é o conselho e o bom êxito, minha a inteligência, minha a força.</item>
+<item>15. Por mim reinam os reis e os legisladores decretam a justiça;</item>
+<item>16. por mim governam os magistrados e os magnatas regem a terra.</item>
+<item>17. Amo os que me amam. Quem me procura, encontra-me.</item>
+<item>18. Comigo estão a riqueza e a glória, os bens duráveis e a justiça.</item>
+<item>19. Mais precioso que o mais fino ouro é o meu fruto, meu produto tem mais valor que a mais fina prata.</item>
+<item>20. Sigo o caminho da justiça, no meio da senda da eqüidade.</item>
+<item>21. Deixo os meus haveres para os que me amam e acumulo seus tesouros.</item>
+<item>22. O Senhor me criou, como primícia de suas obras, desde o princípio, antes do começo da terra.</item>
+<item>23. Desde a eternidade fui formada, antes de suas obras dos tempos antigos.</item>
+<item>24. Ainda não havia abismo quando fui concebida, e ainda as fontes das águas não tinham brotado.</item>
+<item>25. Antes que assentados fossem os montes, antes dos outeiros, fui dada à luz;</item>
+<item>26. antes que fossem feitos a terra e os campos e os primeiros elementos da poeira do mundo.</item>
+<item>27. Quando ele preparava os céus, ali estava eu; quando traçou o horizonte na superfície do abismo,</item>
+<item>28. quando firmou as nuvens no alto, quando dominou as fontes do abismo,</item>
+<item>29. quando impôs regras ao mar, para que suas águas não transpusessem os limites, quando assentou os fundamentos da terra,</item>
+<item>30. junto a ele estava eu como artífice, brincando todo o tempo diante dele,</item>
+<item>31. brincando sobre o globo de sua terra, achando as minhas delícias junto aos filhos dos homens.</item>
+<item>32. E agora, meus filhos, escutai-me: felizes aqueles que guardam os meus caminhos.</item>
+<item>33. Ouvi minha instrução para serdes sábios, não a rejeiteis.</item>
+<item>34. Feliz o homem que me ouve e que vela todos os dias à minha porta e guarda os umbrais de minha casa!</item>
+<item>35. Pois quem me acha encontra a vida e alcança o favor do Senhor.</item>
+<item>36. Mas quem me ofende, prejudica-se a si mesmo; quem me odeia, ama a morte.</item>
+ </string-array><string-array name="CapPr9">
+<item>Capítulo 9</item>
+<item>1. A Sabedoria edificou sua casa, talhou sete colunas.</item>
+<item>2. Matou seus animais, preparou seu vinho e dispôs a mesa.</item>
+<item>3. Enviou servas, para que anunciassem nos pontos mais elevados da cidade:</item>
+<item>4. Quem for simples apresente-se! Aos insensatos ela disse:</item>
+<item>5. Vinde comer o meu pão e beber o vinho que preparei.</item>
+<item>6. Deixai a insensatez e vivereis; andai direito no caminho da inteligência!</item>
+<item>7. Quem censura um mofador, atrai sobre si a zombaria; o que repreende o ímpio, arrisca-se a uma afronta.</item>
+<item>8. Não repreendas o mofador, pois ele te odiará. Repreende o sábio e ele te amará.</item>
+<item>9. Dá ao sábio: tornar-se-á ele mais sábio ainda, ensina ao justo e seu saber aumentará.</item>
+<item>10. O temor do Senhor é o princípio da Sabedoria, e o conhecimento do Santo é a inteligência,</item>
+<item>11. porque por mim se multiplicarão teus dias e ser-te-ão acrescentados anos de vida.</item>
+<item>12. Se tu és sábio, é para teu bem que o és, mas se tu és um mofador, só tu sofrerás as conseqüências.</item>
+<item>13. A senhora Loucura é irrequieta, uma tola que não sabe nada.</item>
+<item>14. Ela se assenta à porta de sua casa, numa cadeira, nos pontos mais altos da cidade,</item>
+<item>15. para convidar os viandantes que seguem direito seu caminho.</item>
+<item>16. Quem for simples venha para cá! Aos insensatos, ela diz:</item>
+<item>17. As águas furtivas são mais doces e o pão tomado às escondidas é mais delicioso.</item>
+<item>18. Ignora ele que ali há sombras e que os convidados [da senhora Loucura] jazem nas profundezas da região dos mortos.</item>
+ </string-array><string-array name="CapPr10">
+<item>Capítulo 10</item>
+<item>1. O filho sábio é a alegria de seu pai; o insensato, porém, a aflição de sua mãe.</item>
+<item>2. Tesouros mal adquiridos de nada servem, mas a justiça livra da morte.</item>
+<item>3. O Senhor não deixa o justo passar fome, mas repele a cobiça do ímpio.</item>
+<item>4. A mão preguiçosa causa a indigência; a mão diligente se enriquece.</item>
+<item>5. Quem recolhe no verão é um filho prudente; quem dorme na ceifa merece a vergonha.</item>
+<item>6. As bênçãos descansam sobre a cabeça do justo, mas a boca dos maus oculta a injustiça.</item>
+<item>7. A memória do justo alcança as bênçãos; o nome dos ímpios apodrecerá.</item>
+<item>8. O sábio de coração recebe os preceitos, mas o insensato caminha para a ruína.</item>
+<item>9. Quem anda na integridade caminha com segurança, mas quem emprega astúcias será descoberto.</item>
+<item>10. Quem pisca os olhos traz desgosto, mas o que repreende com franqueza procura a paz.</item>
+<item>11. A boca do justo é uma fonte de vida; a do ímpio, porém, esconde injustiça.</item>
+<item>12. O ódio desperta rixas; a caridade, porém, supre todas as faltas.</item>
+<item>13. Nos lábios do sábio encontra-se a sabedoria; no dorso do insensato a correção.</item>
+<item>14. Os sábios entesouram a sabedoria, mas a boca do tolo é uma desgraça sempre ameaçadora.</item>
+<item>15. A fortuna do rico é a sua cidade forte; a pobreza dos indigentes ocasiona-lhes ruína.</item>
+<item>16. O salário do justo é para a vida; o fruto do ímpio produz o pecado.</item>
+<item>17. O que observa a disciplina está no caminho da vida; anda errado o que esquece a repressão.</item>
+<item>18. Quem dissimula o ódio é um mistificador; um insensato o que profere calúnias.</item>
+<item>19. Não pode faltar o pecado num caudal de palavras; quem modera os lábios é um homem prudente.</item>
+<item>20. A língua do justo é prata finíssima; o coração dos maus, porém, para nada serve.</item>
+<item>21. Os lábios dos justos nutrem a muitos; mas os néscios perecem por falta de inteligência.</item>
+<item>22. É a bênção do Senhor que enriquece; o labor nada acrescenta a ela.</item>
+<item>23. É um divertimento para o ímpio praticar o mal; e para o sensato, ser sábio.</item>
+<item>24. O que receia o mal, este cai sobre ele. O desejo do justo lhe é concedido.</item>
+<item>25. Quando passa a tormenta, desaparece o perverso, mas o justo descansa sobre fundamentos duráveis.</item>
+<item>26. Como o vinagre nos dentes e a fumaça nos olhos, assim é o preguiçoso para os que o mandam.</item>
+<item>27. O temor do Senhor prolonga os dias, mas os anos dos ímpios serão abreviados.</item>
+<item>28. A expectativa dos justos causa alegria; a esperança dos ímpios, porém, perecerá.</item>
+<item>29. Para o homem íntegro o Senhor é uma fortaleza, mas é a ruína dos que fazem o mal.</item>
+<item>30. Jamais o justo será abalado, mas os ímpios não habitarão a terra.</item>
+<item>31. A boca do justo produz sabedoria, mas a língua perversa será arrancada.</item>
+<item>32. Os lábios do justo sabem dizer o que é agradável; a boca dos maus, o que é mal.</item>
+ </string-array><string-array name="CapPr11">
+<item>Capítulo 11</item>
+<item>1. A balança fraudulenta é abominada pelo Senhor, mas o peso justo lhe é agradável.</item>
+<item>2. Vindo o orgulho, virá também a ignomínia, mas a sabedoria mora com os humildes.</item>
+<item>3. A integridade dos justos serve-lhes de guia; mas a perversidade dos pérfidos arrasta-os à ruína.</item>
+<item>4. No dia da cólera a riqueza não terá proveito, mas a justiça salva da morte.</item>
+<item>5. A justiça do homem íntegro aplana-lhe o caminho, mas o ímpio se abisma em sua própria impiedade.</item>
+<item>6. A justiça dos retos os salva, mas em sua própria cobiça os pérfidos se prendem.</item>
+<item>7. Morto o ímpio, desaparece sua esperança, a esperança dos iníquos perecerá.</item>
+<item>8. O justo livra-se da angústia; em seu lugar cai o malvado.</item>
+<item>9. Com os lábios, o hipócrita arruína o seu próximo, mas os justos serão salvos pela ciência.</item>
+<item>10. Com a felicidade dos justos, exulta a cidade; com a perdição dos ímpios solta brados de alegria.</item>
+<item>11. Uma cidade prospera pela bênção dos justos, mas é destruída pelas palavras dos maus.</item>
+<item>12. Quem despreza seu próximo demonstra falta de senso; o homem sábio guarda silêncio.</item>
+<item>13. O perverso trai os segredos, enquanto um coração leal os mantém ocultos.</item>
+<item>14. Por falta de direção cai um povo; onde há muitos conselheiros, ali haverá salvação.</item>
+<item>15. Quem fica por fiador de um estranho cairá na desventura; o que evita os laços viverá tranqüilo.</item>
+<item>16. Uma mulher graciosa obtém honras, mas os laboriosos alcançam fortuna.</item>
+<item>17. O homem liberal faz bem a si próprio, mas o cruel prejudica a sua própria carne.</item>
+<item>18. O ímpio obtém um lucro falaz, mas o que semeia justiça receberá uma recompensa certa.</item>
+<item>19. Quem pratica a justiça o faz para a vida, mas quem segue o mal corre para a morte.</item>
+<item>20. Os homens de coração perverso são odiosos ao Senhor; os de conduta íntegra são objeto de seus favores.</item>
+<item>21. Na verdade, o iníquo não ficará impune, mas a posteridade dos justos será salva.</item>
+<item>22. Um anel de ouro no focinho de um porco: tal é a mulher formosa e insensata.</item>
+<item>23. O desejo dos justos é unicamente o bem; o que espera os ímpios é a cólera.</item>
+<item>24. Há quem dá com liberalidade e obtém mais. Outros poupam demais e vivem na indigência.</item>
+<item>25. A alma generosa será cumulada de bens; e o que largamente dá, largamente receberá.</item>
+<item>26. O povo amaldiçoa o que esconde o trigo, mas a bênção virá sobre a cabeça dos que o vendem.</item>
+<item>27. Quem investiga o bem busca o favor; o que busca o mal será por ele oprimido.</item>
+<item>28. Quem confia em sua riqueza cairá, enquanto os justos reverdecerão como a folhagem.</item>
+<item>29. O que perturba sua casa herda o vento, e o néscio será escravo do sábio.</item>
+<item>30. O fruto do justo é uma árvore de vida; o que conquista as almas é sábio.</item>
+<item>31. Se o justo recebe na terra sua recompensa, quanto mais o perverso e o pecador!</item>
+ </string-array><string-array name="CapPr12">
+<item>Capítulo 12</item>
+<item>1. Aquele que ama a correção ama a ciência, mas o que detesta a reprimenda é um insensato.</item>
+<item>2. O homem de bem alcança a benevolência do Senhor; o Senhor condena o homem que premedita o mal.</item>
+<item>3. Não se firma o homem pela impiedade, mas a raiz dos justos não será abalada.</item>
+<item>4. Uma mulher virtuosa é a coroa de seu marido, mas a insolente é como a cárie nos seus ossos.</item>
+<item>5. Os pensamentos dos justos são cheios de retidão; as tramas dos perversos são cheias de dolo.</item>
+<item>6. As palavras dos ímpios são ciladas mortíferas, enquanto a boca dos justos os salva.</item>
+<item>7. Transtornados, os ímpios não subsistirão, mas a casa dos justos permanecerá firme.</item>
+<item>8. Avalia-se um homem segundo a sua inteligência, mas o perverso de coração incorrerá em desprezo.</item>
+<item>9. Mais vale um homem humilde, que tem um servo, que o jactancioso, que não tem o que comer.</item>
+<item>10. O justo cuida das necessidades do seu gado, mas cruéis são as entranhas do ímpio.</item>
+<item>11. Quem cultiva sua terra será saciado de pão; quem procura as futilidades é um insensato.</item>
+<item>12. O ímpio cobiça o laço do perverso, mas a raiz do justo produz fruto.</item>
+<item>13. No pecado dos lábios há uma cilada funesta, mas o justo livra-se da angústia.</item>
+<item>14. O homem se farta com o fruto de sua boca; cada qual recebe a recompensa da obra de suas mãos.</item>
+<item>15. Ao insensato parece reto seu caminho, enquanto o sábio ouve os conselhos.</item>
+<item>16. O louco mostra logo a sua irritação; o circunspecto dissimula o ultraje.</item>
+<item>17. O homem sincero anuncia a justiça; a testemunha falsa profere mentira.</item>
+<item>18. O falador fere com golpes de espada; a língua dos sábios, porém, cura.</item>
+<item>19. Os lábios sinceros permanecem sempre constantes; a língua mentirosa dura como um abrir e fechar de olhos.</item>
+<item>20. No coração dos que tramam males há engano; a alegria está naqueles que dão conselhos de paz.</item>
+<item>21. Ao justo nenhum mal pode abater, mas os maus enchem-se de tristezas.</item>
+<item>22. Os lábios mentirosos são abominação para o Senhor, mas os que procedem com fidelidade agradam-lhe.</item>
+<item>23. O homem prudente oculta sua sabedoria; o coração dos insensatos proclama sua própria loucura.</item>
+<item>24. A mão diligente dominará; a mão preguiçosa torna-se tributária.</item>
+<item>25. A aflição no coração do homem o deprime; uma boa palavra restitui-lhe a alegria.</item>
+<item>26. O justo guia seu companheiro, mas o caminho dos ímpios os perde.</item>
+<item>27. O indolente não assa o que caçou; um homem diligente, porém, é um tesouro valioso.</item>
+<item>28. A vida está na vereda da justiça; o caminho do ódio, porém, conduz à morte.</item>
+ </string-array><string-array name="CapPr13">
+<item>Capítulo 13</item>
+<item>1. Um filho sábio ama a disciplina, mas o incorrigível não aceita repreensões.</item>
+<item>2. O homem de bem goza do fruto de sua boca, mas o desejo dos pérfidos é a violência.</item>
+<item>3. Quem vigia sua boca guarda sua vida; quem muito abre seus lábios se perde.</item>
+<item>4. O preguiçoso cobiça, mas nada obtém. É o desejo dos homens diligentes que é satisfeito.</item>
+<item>5. O justo detesta a mentira; o ímpio só faz coisas vergonhosas e ignominiosas.</item>
+<item>6. A justiça protege o que caminha na integridade, mas a maldade arruína o pecador.</item>
+<item>7. Há quem parece rico, não tendo nada, há quem se faz de pobre e possui copiosas riquezas.</item>
+<item>8. A riqueza de um homem é o resgate de sua vida, mas o pobre está livre de ameaças.</item>
+<item>9. A luz do justo ilumina, enquanto a lâmpada dos maus se extingue.</item>
+<item>10. O orgulho só causa disputas; a sabedoria se acha com os que procuram aconselhar-se.</item>
+<item>11. Os bens que muito depressa se ajuntam se desvanecem; os acumulados pouco a pouco aumentam.</item>
+<item>12. Esperança retardada faz adoecer o coração; o desejo realizado, porém, é uma árvore de vida.</item>
+<item>13. Quem menospreza a palavra perder-se-á; quem respeita o preceito será recompensado.</item>
+<item>14. O ensinamento do sábio é uma fonte de vida para libertar-se dos laços da morte.</item>
+<item>15. Bom entendimento procura favor; o caminho dos pérfidos, porém, é escabroso.</item>
+<item>16. Todo homem prudente age com discernimento, mas o insensato põe em evidência sua loucura.</item>
+<item>17. Um mau mensageiro provoca a desgraça; o enviado fiel, porém, traz a saúde.</item>
+<item>18. Miséria e vergonha a quem recusa a disciplina; honra ao que aceita a reprimenda.</item>
+<item>19. O desejo cumprido deleita a alma. Os insensatos detestam os que fogem do mal.</item>
+<item>20. Quem visita os sábios torna-se sábio; quem se faz amigo dos insensatos perde-se.</item>
+<item>21. A desgraça persegue os pecadores; a felicidade é a recompensa dos justos.</item>
+<item>22. O homem de bem deixa sua herança para os filhos de seus filhos; ao justo foi reservada a fortuna do pecador.</item>
+<item>23. É abundante em alimento um campo preparado pelo pobre, mas há quem pereça por falta de justiça.</item>
+<item>24. Quem poupa a vara odeia seu filho; quem o ama, castiga-o na hora precisa.</item>
+<item>25. O justo come até se saciar, mas o ventre dos pérfidos conhece a penúria.</item>
+ </string-array><string-array name="CapPr14">
+<item>Capítulo 14</item>
+<item>1. A senhora Sabedoria edifica sua casa; a senhora Loucura destrói a sua com as próprias mãos.</item>
+<item>2. Quem caminha direito teme o Senhor; o que anda desviado o despreza.</item>
+<item>3. A boca do néscio encerra a vara para seu orgulho, mas os lábios do sábio são uma proteção para si mesmo.</item>
+<item>4. Onde não há bois, a manjedoura está vazia; a abundância da colheita provém da força do gado.</item>
+<item>5. A testemunha fiel não mente; a testemunha falsa profere falsidades.</item>
+<item>6. O mofador busca a sabedoria, mas em vão; ao homem entendido a ciência é fácil.</item>
+<item>7. Afasta-te da presença do tolo: em seus lábios não encontrarás palavras sábias.</item>
+<item>8. A sabedoria do prudente está no cuidar do seu procedimento; a loucura dos insensatos consiste na fraude.</item>
+<item>9. O insensato zomba do pecado; a benevolência (de Deus) é para os homens retos.</item>
+<item>10. O coração conhece suas próprias amarguras; o estranho não pode partilhar de sua alegria.</item>
+<item>11. A habitação dos pérfidos será destruída, mas a tenda dos justos florescerá.</item>
+<item>12. Há caminho que parece reto ao homem; seu fim, porém, é o caminho da morte.</item>
+<item>13. Mesmo no sorrir, o coração pode estar triste; a alegria pode findar na aflição.</item>
+<item>14. O extraviado será saciado com seus próprios erros; o homem de bem, com seus atos.</item>
+<item>15. O ingênuo acredita em tudo o que se diz; o prudente vigia seus passos.</item>
+<item>16. O sábio teme o mal e dele se aparta, mas o insensato que se eleva dá-se por seguro.</item>
+<item>17. O homem violento comete loucura; o dissimulado atrai a si o ódio.</item>
+<item>18. Os ingênuos têm por herança a loucura; os prudentes, a ciência como coroa.</item>
+<item>19. Diante dos bons humilham-se os maus e os ímpios ante as portas do justo.</item>
+<item>20. Até mesmo ao seu companheiro o pobre é odioso; numerosos são os amigos do rico.</item>
+<item>21. Quem despreza seu próximo comete um pecado; feliz aquele que tem compaixão dos desgraçados.</item>
+<item>22. Porventura não erram os que maquinam o mal? Os que planejam o bem adquirem favor e verdade.</item>
+<item>23. Para todo esforço há fruto, muito palavrório só produz penúria.</item>
+<item>24. Para o sábio a riqueza é uma coroa. A loucura dos insensatos permanece loucura.</item>
+<item>25. A testemunha fiel salva vidas; o que profere mentiras é falso.</item>
+<item>26. No temor do Senhor [o justo] encontra apoio sólido; seus filhos nele encontrarão abrigo.</item>
+<item>27. O temor do Senhor é uma fonte de vida para escapar aos laços da morte.</item>
+<item>28. A multidão do povo é a glória de um rei; a falta de população é a ruína de um príncipe.</item>
+<item>29. O paciente dá prova de bom senso; quem se arrebata rapidamente manifesta sua loucura.</item>
+<item>30. Um coração tranqüilo é a vida do corpo, enquanto a inveja é a cárie dos ossos.</item>
+<item>31. O opressor do pobre ultraja seu criador, mas honra-o o que se compadece do indigente.</item>
+<item>32. É por causa de sua própria malícia que cai o ímpio; o justo, porém, até na morte conserva a confiança.</item>
+<item>33. No coração do prudente repousa a sabedoria. Entre os tolos ela se fará conhecer?</item>
+<item>34. A justiça enaltece uma nação; o pecado é a vergonha dos povos.</item>
+<item>35. O servidor inteligente goza do favor do rei, mas a sua ira fere o desonrado.</item>
+ </string-array><string-array name="CapPr15">
+<item>Capítulo 15</item>
+<item>1. Uma resposta branda aplaca o furor, uma palavra dura excita a cólera.</item>
+<item>2. A língua dos sábios ornamenta a ciência, a boca dos imbecis transborda loucura.</item>
+<item>3. Em todo o lugar estão os olhos do Senhor, observando os maus e os bons.</item>
+<item>4. A língua sã é uma árvore de vida; a língua perversa corta o coração.</item>
+<item>5. O néscio desdenha a instrução de seu pai, mas o que atende à repreensão torna-se sábio.</item>
+<item>6. Na casa do justo há riqueza abundante, mas perturbação nos frutos dos maus.</item>
+<item>7. Os lábios do sábio destilam saber, e não assim é o coração dos insensatos.</item>
+<item>8. Os sacrifícios dos pérfidos são abominação para o Senhor, a oração dos homens retos lhe é agradável.</item>
+<item>9. O Senhor abomina o caminho do mau, mas ama o que se prende à justiça.</item>
+<item>10. Severa é a correção para o que se afasta do caminho, e o que aborrece a repreensão perecerá.</item>
+<item>11. A habitação dos mortos e o abismo estão abertos diante do Senhor; quanto mais os corações dos filhos dos homens!</item>
+<item>12. O zombador não gosta de quem o repreende, nem vai em busca dos sábios.</item>
+<item>13. O coração contente alegra o semblante, o coração triste deprime o espírito.</item>
+<item>14. O coração do inteligente procura a ciência; a boca dos tolos sacia-se de loucuras.</item>
+<item>15. Para o aflito todos os dias são maus; para um coração contente, são um perpétuo festim.</item>
+<item>16. Vale mais o pouco com o temor do Senhor que um grande tesouro com a inquietação.</item>
+<item>17. Mais vale um prato de legume com amizade que um boi cevado com ódio.</item>
+<item>18. O homem iracundo excita questões, mas o paciente apazigua as disputas.</item>
+<item>19. O caminho do preguiçoso é como uma sebe de espinhos, o caminho dos corretos é sem tropeço.</item>
+<item>20. O filho sábio alegra seu pai; o insensato despreza sua mãe.</item>
+<item>21. A loucura diverte o insensato, mas o homem inteligente segue o caminho reto.</item>
+<item>22. Os projetos malogram por falta de deliberação; conseguem bom êxito com muitos conselheiros.</item>
+<item>23. Saber dar uma resposta é fonte de alegria; como é agradável uma palavra oportuna!</item>
+<item>24. O sábio escala o caminho da vida, para evitar a descida à morada dos mortos.</item>
+<item>25. O Senhor destrói a casa dos soberbos, mas firma os limites da viúva.</item>
+<item>26. Os projetos dos pérfidos são abomináveis ao Senhor, mas as palavras benevolentes são puras.</item>
+<item>27. O homem cobiçoso perturba a sua casa, aquele que odeia os subornos viverá.</item>
+<item>28. O coração do justo estuda a sua resposta; a boca dos maus, porém, vomita o mal.</item>
+<item>29. O Senhor está longe dos maus, mas atende à oração dos justos.</item>
+<item>30. O brilho dos olhos alegra o coração; uma boa notícia fortifica os ossos.</item>
+<item>31. Quem der atenção às repreensões salutares habitará entre os sábios.</item>
+<item>32. O que rejeita a correção faz pouco caso de sua vida; quem ouve a repreensão adquire sabedoria.</item>
+<item>33. O temor do Senhor é uma escola de sabedoria. A humildade precede a glória.</item>
+ </string-array><string-array name="CapPr16">
+<item>Capítulo 16</item>
+<item>1. Cabe ao homem formular projetos em seu coração, mas do Senhor vem a resposta da língua.</item>
+<item>2. Todos os caminhos parecem puros ao homem, mas o Senhor é quem pesa os corações.</item>
+<item>3. Confia teus negócios ao Senhor e teus planos terão bom êxito.</item>
+<item>4. Tudo fez o Senhor para seu fim, até o ímpio para o dia da desgraça.</item>
+<item>5. Todo coração altivo é abominação ao Senhor: certamente não ficará impune.</item>
+<item>6. É pela bondade e pela verdade que se expia a iniqüidade; pelo temor do Senhor evita-se o mal.</item>
+<item>7. Quando agradam ao Senhor os caminhos de um homem, reconcilia com ele seus próprios inimigos.</item>
+<item>8. Mais vale o pouco com justiça do que grandes lucros com iniqüidade.</item>
+<item>9. O coração do homem dispõe o seu caminho, mas é o Senhor que dirige seus passos.</item>
+<item>10. As palavras do rei são como oráculos: quando ele julga, sua boca não erra.</item>
+<item>11. Balança e peso justos são do Senhor, e são obra sua todos os pesos da bolsa.</item>
+<item>12. Fazer o mal, para um rei, é coisa abominável, porque pela justiça firma-se o trono.</item>
+<item>13. Os lábios justos são agradáveis ao rei; ele ama o que fala com retidão.</item>
+<item>14. A indignação do rei é prenúncio de morte, só o sábio sabe aplacá-la.</item>
+<item>15. Na serenidade do semblante do rei está a vida: sua clemência é como uma chuva de primavera.</item>
+<item>16. Adquirir a sabedoria vale mais que o ouro; antes adquirir a inteligência que a prata.</item>
+<item>17. O caminho dos corretos consiste em evitar o mal; o que vigia seu procedimento conserva sua vida.</item>
+<item>18. A soberba precede à ruína; e o orgulho, à queda.</item>
+<item>19. Mais vale ser modesto com os humildes que repartir o despojo com os soberbos.</item>
+<item>20. Quem ouve a palavra com atenção encontra a felicidade; ditoso quem confia no Senhor.</item>
+<item>21. Inteligente é o que possui o coração sábio; a doçura da linguagem aumenta o saber.</item>
+<item>22. A inteligência é fonte de vida para quem a possui; o castigo dos insensatos é a loucura.</item>
+<item>23. O coração do sábio torna sua boca instruída, e acrescenta-lhes aos lábios o saber.</item>
+<item>24. As palavras agradáveis são como um favo de mel; doçura para a alma e saúde para os ossos.</item>
+<item>25. Há caminhos que parecem retos ao homem e, contudo, o seu termo é a morte.</item>
+<item>26. A fome do trabalhador trabalha por ele, porque sua boca o constrange a isso.</item>
+<item>27. O perverso cava o mal, há em seus lábios como que fogo devorador.</item>
+<item>28. O perverso excita questões, o detrator separa os amigos.</item>
+<item>29. O violento seduz seu próximo e o arrasta pelo mau caminho.</item>
+<item>30. Quem fecha os olhos e planeja intriga, ao morder os lábios, já praticou o mal.</item>
+<item>31. Os cabelos brancos são uma coroa de glória a quem se encontra no caminho da justiça.</item>
+<item>32. Mais vale a paciência que o heroísmo, mais vale quem domina o coração do que aquele que conquista uma cidade.</item>
+<item>33. As sortes lançam-se nas dobras do manto, mas do Senhor depende toda a decisão.</item>
+ </string-array><string-array name="CapPr17">
+<item>Capítulo 17</item>
+<item>1. Mais vale um bocado de pão seco, com a paz, do que uma casa cheia de carnes, com a discórdia.</item>
+<item>2. Um escravo prudente vale mais que um filho desonroso, e partilhará da herança entre os irmãos.</item>
+<item>3. Um crisol para a prata, um forno para o ouro; é o Senhor, porém, quem prova os corações.</item>
+<item>4. O mau dá ouvidos aos lábios iníquos; o mentiroso presta atenção à língua perniciosa.</item>
+<item>5. Aquele que zomba do pobre insulta seu criador; quem se ri de um infeliz não ficará impune.</item>
+<item>6. Os filhos dos filhos são a coroa dos velhos, e a glória dos filhos são os pais.</item>
+<item>7. Uma linguagem elevada não convém ao néscio, quanto mais, a um nobre, palavras mentirosas.</item>
+<item>8. Um presente parece uma gema preciosa a seu possuidor; para qualquer lado que ele se volte, logra êxito.</item>
+<item>9. Aquele que dissimula faltas promove amizade; quem as divulga, divide amigos.</item>
+<item>10. Uma repreensão causa mais efeito num homem prudente do que cem golpes num tolo.</item>
+<item>11. O perverso só busca a rebeldia, mas será enviado contra ele um mensageiro cruel.</item>
+<item>12. Antes encontrar uma ursa privada de seus filhotes do que um tolo em crise de loucura.</item>
+<item>13. A desgraça não deixará a casa daquele que retribui o mal pelo bem.</item>
+<item>14. Começar uma questão é como soltar as águas; desiste, antes que se exaspere a disputa.</item>
+<item>15. Quem declara justo o ímpio e perverso o justo, ambos desagradam ao Senhor.</item>
+<item>16. Para que serve o dinheiro na mão do insensato? Para comprar a sabedoria? Ele não tem critério.</item>
+<item>17. O amigo ama em todo o tempo: na desgraça, ele se torna um irmão.</item>
+<item>18. É destituído de senso o que aceita compromissos e que fica fiador para seu próximo.</item>
+<item>19. O que ama as disputas ama o pecado; quem ergue sua porta busca a ruína.</item>
+<item>20. O homem de coração falso não encontra a felicidade; o de língua tortuosa cai na desgraça.</item>
+<item>21. Quem gera um tolo terá desventura; nem alegria terá o pai de um imbecil.</item>
+<item>22. Coração alegre, bom remédio; um espírito abatido seca os ossos.</item>
+<item>23. O ímpio aceita um presente ocultamente para desviar a língua da justiça.</item>
+<item>24. Ante o homem prudente está a sabedoria; os olhos do insensato vagueiam até o fim do mundo.</item>
+<item>25. Um filho néscio é o pesar de seu pai e a amargura de quem o deu à luz.</item>
+<item>26. Não convém chamar a atenção do justo e ferir os homens honestos por causa de sua retidão.</item>
+<item>27. O que mede suas palavras possui a ciência; quem é calmo de espírito é um homem inteligente.</item>
+<item>28. Mesmo o insensato passa por sábio, quando se cala; por prudente, quando fecha sua boca.</item>
+ </string-array><string-array name="CapPr18">
+<item>Capítulo 18</item>
+<item>1. Quem se isola procura sua própria vontade e se irrita contra tudo o que é razoável.</item>
+<item>2. O insensato não tem propensão para a inteligência, mas para a expansão dos próprios sentimentos.</item>
+<item>3. O desprezo ombreia com a iniqüidade; o opróbrio com a vergonha.</item>
+<item>4. As palavras da boca de um homem são águas profundas; a fonte da sabedoria é uma torrente transbordante.</item>
+<item>5. Não fica bem favorecer um perverso para prejudicar o direito do justo.</item>
+<item>6. Os lábios do insensato promovem contendas: sua boca atrai açoites.</item>
+<item>7. A boca do tolo é a sua ruína; seus lábios são uma armadilha para a sua própria vida.</item>
+<item>8. As palavras do delator são como gulodices: penetram até as entranhas.</item>
+<item>9. O frouxo no trabalho é um irmão do dissipador.</item>
+<item>10. O nome do Senhor é uma torre: para lá corre o justo a fim de procurar segurança.</item>
+<item>11. A fortuna do rico é sua cidade forte; em seu pensar, ela é como uma muralha elevada.</item>
+<item>12. Antes da ruína, o coração do homem se eleva, mas a humildade precede a glória.</item>
+<item>13. Quem responde antes de ouvir, passa por tolo e se cobre de confusão.</item>
+<item>14. O espírito do homem suporta a doença, mas quem erguerá um espírito abatido?</item>
+<item>15. O coração inteligente adquire o saber; o ouvido dos sábios procura a ciência.</item>
+<item>16. O presente de um homem lhe abre tudo, e lhe dá acesso junto aos grandes.</item>
+<item>17. Quem advoga sua causa, por primeiro, parece ter razão; sobrevém a parte adversa, que examina a fundo.</item>
+<item>18. A sorte apazigua as contendas e decide entre os poderosos.</item>
+<item>19. Um irmão ofendido é pior que uma cidade forte; as questões entre irmãos são como os ferrolhos de uma cidadela.</item>
+<item>20. É do fruto de sua boca que um homem se nutre; com o produto de seus lábios ele se farta.</item>
+<item>21. Morte e vida estão à mercê da língua: os que a amam comerão dos seus frutos.</item>
+<item>22. Aquele que acha uma mulher, acha a felicidade: é um dom recebido do Senhor.</item>
+<item>23. O pobre fala suplicando; a resposta do rico é ríspida.</item>
+<item>24. O homem cercado de muitos amigos tem neles sua desgraça, mas existe um amigo mais unido que um irmão.</item>
+ </string-array><string-array name="CapPr19">
+<item>Capítulo 19</item>
+<item>1. Mais vale um pobre que caminha na integridade que um insensato com lábios mentirosos.</item>
+<item>2. Sem a ciência, nem mesmo o zelo é bom: quem precipita seus passos, desvia-se.</item>
+<item>3. A loucura de um homem o leva a um mau caminho; é contra o Senhor que seu coração se irrita.</item>
+<item>4. A riqueza aumenta o número de amigos, o pobre é abandonado pelo seu [único] companheiro.</item>
+<item>5. O falso testemunho não fica sem castigo; o que profere mentira não escapará.</item>
+<item>6. O homem generoso possui muitos lisonjeiros: todos se tornam amigos de quem dá.</item>
+<item>7. Todos os irmãos do pobre o odeiam, quanto mais seus amigos não hão de se afastar dele? Está em busca de palavras, mas não terá nada.</item>
+<item>8. Quem adquire bom senso ama sua alma; o que observa a prudência encontra a felicidade.</item>
+<item>9. O falso testemunho não fica impune; o que profere mentira perecerá.</item>
+<item>10. Não convém ao insensato viver entre delícias, muito menos ainda a um escravo dominar os chefes.</item>
+<item>11. Um homem sábio sabe conter a sua cólera, e tem por honra passar por cima de uma ofensa.</item>
+<item>12. Cólera de rei, rugido de leão; favor de rei, orvalho sobre a erva.</item>
+<item>13. Um filho insensato é a desgraça de seu pai; a mulher intrigante é uma goteira inesgotável.</item>
+<item>14. Casas e bens são a herança dos pais, mas uma mulher sensata é um dom do Senhor.</item>
+<item>15. A preguiça cai no torpor: a alma indolente terá fome.</item>
+<item>16. O que observa o preceito guarda sua vida; quem descuida de seu proceder morrerá.</item>
+<item>17. Quem se apieda do pobre empresta ao Senhor, que lhe restituirá o benefício.</item>
+<item>18. Corrige teu filho enquanto há esperança, mas não te enfureças até fazê-lo perecer.</item>
+<item>19. O homem iracundo sofrerá um castigo; se o libertares, aumentarás a sua pena.</item>
+<item>20. Ouve os conselhos, aceita a instrução: tu serás sábio para o futuro.</item>
+<item>21. Há muitos planos no coração do homem, mas é a vontade do Senhor que se realiza.</item>
+<item>22. O encanto de um homem é a sua caridade: mais vale o pobre que o mentiroso.</item>
+<item>23. O temor do Senhor conduz à vida; (o que o possui) é saciado: passará a noite sem a visita da desgraça.</item>
+<item>24. O preguiçoso põe sua mão no prato e nem sequer a leva à boca.</item>
+<item>25. Castiga o zombador e o simples tornar-se-á sábio; repreende o homem sensato e ele compreenderá por quê.</item>
+<item>26. Quem maltrata seu pai, quem expulsa sua mãe é um filho infame do qual todos se envergonham.</item>
+<item>27. Cessa, meu filho, de ouvir as advertências e isto servirá para te afastares da sabedoria!</item>
+<item>28. O testemunho falso zomba da justiça, a boca dos ímpios devora a iniqüidade.</item>
+<item>29. As varas estão preparadas para os mofadores e os golpes para o dorso dos insensatos.</item>
+ </string-array><string-array name="CapPr20">
+<item>Capítulo 20</item>
+<item>1. Zombeteiro é o vinho e amotinadora a cerveja: quem quer que se apegue a isto não será sábio.</item>
+<item>2. O furor do rei é como um rugido de leão: aquele que o provoca, prejudica-se a si mesmo.</item>
+<item>3. É uma glória para o homem abster-se de contendas; o tolo, porém, é o único que as procura.</item>
+<item>4. Desde o outono o preguiçoso não trabalha: mendigará no tempo da colheita, mas não terá nada.</item>
+<item>5. Água profunda é o conselho no íntimo do homem; o homem inteligente sabe haurir dela.</item>
+<item>6. Muitos homens apregoam a sua bondade, mas quem achará um homem verdadeiramente fiel?</item>
+<item>7. O justo caminha na integridade; ditosos os filhos que o seguirem!</item>
+<item>8. O rei, que está sentado no trono da justiça, só com seu olhar dissipa todo o mal.</item>
+<item>9. Quem pode dizer: Meu coração está puro, estou limpo de pecado?</item>
+<item>10. Ter dois pesos e duas medidas é objeto de abominação para o Senhor.</item>
+<item>11. O menino manifesta logo por seus atos se seu proceder será puro e reto.</item>
+<item>12. O ouvido que ouve, o olho que vê, ambas estas coisas fez o Senhor.</item>
+<item>13. Não sejas amigo do sono, para que não te tornes pobre: abre os olhos e terás pão à vontade.</item>
+<item>14. Mau, mau! diz o comprador. Mas se gloria ao se retirar.</item>
+<item>15. Há ouro, há pérola em abundância; jóia rara é a boca sábia.</item>
+<item>16. Toma-lhe a roupa, porque ele respondeu por outrem; exige dele um penhor em proveito dos estranhos.</item>
+<item>17. Saboroso é para o homem o pão defraudado, mas depois terá a boca cheia de cascalhos.</item>
+<item>18. Os projetos triunfam pelo conselho; é com prudência que deve ser dirigida a guerra.</item>
+<item>19. O mexiriqueiro trai os segredos: não te familiarizes com um falador.</item>
+<item>20. Quem amaldiçoa seu pai ou sua mãe (verá) apagar-se sua luz no meio de densas trevas.</item>
+<item>21. Herança muito depressa adquirida no princípio não será abençoada no fim.</item>
+<item>22. Não digas: Eu me vingarei! Coloca tua esperança no Senhor, ele te salvará.</item>
+<item>23. Ter dois pesos é abominação para o Senhor; uma balança falsa não é coisa boa.</item>
+<item>24. O Senhor é quem dirige os passos do homem: como poderá o homem compreender seu caminho?</item>
+<item>25. É um laço dizer inconsideradamente: Consagrado! e não refletir antes de ter emitido um voto.</item>
+<item>26. O rei sábio joeira os ímpios, faz passar sobre eles a roda.</item>
+<item>27. O espírito do homem é uma lâmpada do Senhor: ela penetra os mais íntimos recantos das entranhas.</item>
+<item>28. Bondade e fidelidade montam guarda ao rei; pela justiça firma-se seu trono.</item>
+<item>29. A força é o ornato dos jovens; o ornamento dos anciãos são os cabelos brancos.</item>
+<item>30. A ferida sangrenta cura o mal; também os golpes, no mais íntimo do corpo.</item>
+ </string-array><string-array name="CapPr21">
+<item>Capítulo 21</item>
+<item>1. O coração do rei é uma água fluente nas mãos do Senhor: ele o inclina para qualquer parte que quiser.</item>
+<item>2. Os caminhos do homem parecem retos aos seus olhos, mas cabe ao Senhor pesar os corações.</item>
+<item>3. A prática da justiça e da eqüidade vale aos olhos do Senhor mais que os sacrifícios.</item>
+<item>4. Olhares altivos ensoberbecem o coração; o luzeiro dos ímpios é o pecado.</item>
+<item>5. Os planos do homem ativo produzem abundância; a precipitação só traz penúria.</item>
+<item>6. Tesouros adquiridos pela mentira: vaidade passageira para os que procuram a morte.</item>
+<item>7. A violência dos ímpios os conduz à [ruína], porque se recusam a praticar a justiça.</item>
+<item>8. O caminhos do perverso é tortuoso, mas o inocente age com retidão.</item>
+<item>9. Melhor é habitar num canto do terraço do que conviver com uma mulher impertinente.</item>
+<item>10. A alma do ímpio deseja o mal; nem mesmo seu amigo encontrará graça a seus olhos.</item>
+<item>11. Quando se pune o zombador, o simples torna-se sábio; quando se adverte o sábio, ele adquire a ciência.</item>
+<item>12. O justo observa a cada do ímpio e precipita os maus na desventura.</item>
+<item>13. Quem se faz de surdo aos gritos do pobre não será ouvido, quando ele mesmo clamar.</item>
+<item>14. Um presente dado sob o manto extingue a cólera; uma oferta concebida às ocultas acalma um furor violento.</item>
+<item>15. Para o justo é uma alegria a prática da justiça, mas é um terror para aqueles que praticam a iniqüidade.</item>
+<item>16. O homem que se desvia do caminho da prudência repousará na companhia das trevas.</item>
+<item>17. O que ama os banquetes será um homem indigente; o que ama o vinho e o óleo não se enriquecerá.</item>
+<item>18. O ímpio serve de resgate para o justo e o pérfido para os homens retos.</item>
+<item>19. Melhor é habitar no deserto do que com uma mulher impertinente e intrigante.</item>
+<item>20. Na casa do sábio há preciosas reservas e óleo; um homem imprudente, porém, os absorverá.</item>
+<item>21. Quem segue a justiça e a misericórdia, achará vida, justiça e glória.</item>
+<item>22. O sábio toma de assalto a cidade dos heróis: destrói a fortaleza em que depositava confiança.</item>
+<item>23. Quem vigia sua boca e sua língua preserva sua vida da angústia.</item>
+<item>24. Chamamos de zombador um soberbo arrogante, que age com orgulho desmedido.</item>
+<item>25. Os desejos do preguiçoso o matam porque suas mãos recusam o trabalho;</item>
+<item>26. passam todo o dia a desejar com ardor, mas quem é justo dá largamente.</item>
+<item>27. O sacrifício dos ímpios é abominável, mormente quando o oferecem com má intenção.</item>
+<item>28. A testemunha mentirosa perecerá, mas o homem que escuta sempre poderá falar.</item>
+<item>29. O ímpio aparenta um ar firme; o homem correto consolida seu proceder.</item>
+<item>30. Nem a sabedoria, nem prudência, nem conselho podem prevalescer contra o Senhor.</item>
+<item>31. Prepara-se o cavalo para o dia da batalha, mas é do senhor que depende a vitória.</item>
+ </string-array><string-array name="CapPr22">
+<item>Capítulo 22</item>
+<item>1. Bom renome vale mais que grandes riquezas; a boa reputação vale mais que a prata e o ouro.</item>
+<item>2. Rico e pobre se encontram: foi o Senhor que criou a ambos.</item>
+<item>3. O homem prudente percebe a aproximação do mal e se abriga, mas os imprudentes passam adiante e recebem o dano.</item>
+<item>4. O prêmio da humildade é o temor do Senhor, a riqueza, a honra e a vida.</item>
+<item>5. Espinhos e laços há no caminho do perverso; quem guarda sua vida retira-se para longe deles.</item>
+<item>6. Ensina à criança o caminho que ela deve seguir; mesmo quando envelhecer, dele não se há de afastar.</item>
+<item>7. O rico domina os pobres: o que toma emprestado torna-se escravo daquele que lhe emprestou.</item>
+<item>8. Aquele que semeia o mal, recolhe o tormento: a vara de sua ira o ferirá.</item>
+<item>9. O homem benevolente será abençoado porque tira do seu pão para o pobre.</item>
+<item>10. Expulsa o mofador e cessará a discórdia: ultrajes e litígios cessarão.</item>
+<item>11. Quem ama a pureza do coração, pela graça dos seus lábios, é amigo do rei.</item>
+<item>12. Os olhos do Senhor protegem a sabedoria, mas arruínam as palavras do pérfido.</item>
+<item>13. Há um leão do lado de fora!, diz o preguiçoso, eu poderei ser morto na rua!</item>
+<item>14. A boca das meretrizes é uma cova profunda; nela cairá aquele contra o qual o Senhor se irar.</item>
+<item>15. A loucura apega-se ao coração da criança; a vara da disciplina afastá-la-á dela.</item>
+<item>16. Quem oprime o pobre, enriquece-o. Quem dá ao rico, empobrece-o.</item>
+<item>17. Presta atenção às minhas palavras, aplica teu coração à minha doutrina,</item>
+<item>18. porque é agradável que as guardes dentro de teu coração e que elas permaneçam, todas, presentes em teus lábios.</item>
+<item>19. É para que o Senhor seja tua confiança, que quero instruir-te hoje.</item>
+<item>20. Desde muito tempo eu te escrevi conselhos e instruções,</item>
+<item>21. para te ensinar a verdade das coisas certas, para que respondas certo àquele que te indaga.</item>
+<item>22. Não despojes o pobre, porque é pobre, não oprimas o fraco à porta da cidade,</item>
+<item>23. porque o Senhor pleiteará sua causa e tirará a vida aos que os despojaram.</item>
+<item>24. Não faças amizade com um homem colérico, não andes com o violento,</item>
+<item>25. há o perigo de que aprendas os seus costumes e prepares um laço fatal.</item>
+<item>26. Não sejas daqueles que se obrigam, apertando a mão, e se fazem fiadores de dívidas;</item>
+<item>27. se não tens com que pagar, arrebatar-te-ão teu leito debaixo de ti.</item>
+<item>28. Não passes além dos marcos antigos que puseram teus pais.</item>
+<item>29. Viste um homem hábil em sua obra? Ele entrará ao serviço dos reis, e não ficará entre gente obscura.</item>
+ </string-array><string-array name="CapPr23">
+<item>Capítulo 23</item>
+<item>1. Quando te assentares à mesa com um grande, considera com atenção quem está diante de ti:</item>
+<item>2. põe uma faca na tua garganta, se tu sentes muito apetite;</item>
+<item>3. não cobices seus manjares que são alimentos enganosos.</item>
+<item>4. Não te afadigues para te enriqueceres, evita aplicar a isso teu espírito.</item>
+<item>5. Mal fixas os olhos nos bens, e nada mais há, porque a riqueza tem asas como a águia que voa para o céu.</item>
+<item>6. Não comas com homem invejoso, não cobices seus manjares,</item>
+<item>7. porque ele se mostra tal qual se calculou em si mesmo. Ele te diz: Come e bebe, mas seu coração não está contigo.</item>
+<item>8. Comido o bocado, tu o vomitarás e desperdiçarás tuas amabilidades.</item>
+<item>9. Não fales aos ouvidos do insensato porque ele desprezaria a sabedoria de tuas palavras.</item>
+<item>10. Não toques no marco antigo, não penetres na terra dos órfãos</item>
+<item>11. porque seu vingador é poderoso e defenderá sua causa contra ti.</item>
+<item>12. Aplica teu coração à instrução e teus ouvidos às palavras da ciência.</item>
+<item>13. Não poupes ao menino a correção: se tu o castigares com a vara, ele não morrerá,</item>
+<item>14. castigando-o com a vara, salvarás sua vida da morada dos mortos.</item>
+<item>15. Meu filho, se o teu espírito for sábio, meu coração alegrar-se-á contigo!</item>
+<item>16. Meus rins estremecerão de alegria, quando teus lábios proferirem palavras retas.</item>
+<item>17. Que teu coração não inveje os pecadores, mas permaneça sempre no temor do Senhor</item>
+<item>18. porque [então] haverá certamente um futuro e tua esperança não será frustrada.</item>
+<item>19. Ouve, meu filho: sê sabio, dirige teu coração pelo caminho reto,</item>
+<item>20. não te ajuntes com os bebedores de vinho, com aqueles que devoram carnes,</item>
+<item>21. pois o ébrio e o glutão se empobrecem e a sonolência veste-se com andrajos.</item>
+<item>22. Dá ouvidos a teu pai, àquele que te gerou e não desprezes tua mãe quando envelhecer.</item>
+<item>23. Adquire a verdade e não a vendas, adquire sabedoria, instruções e inteligência.</item>
+<item>24. O pai do justo exultará de alegria; aquele que gerou um sábio alegrar-se-á nele.</item>
+<item>25. Que teu pai se alegre por tua causa, que viva na alegria aquela que te deu à luz!</item>
+<item>26. Meu filho, dá-me teu coração. Que teus olhos observem meus caminhos,</item>
+<item>27. pois a meretriz é uma fossa profunda e a entranha, um poço estreito:</item>
+<item>28. como um salteador ele fica de emboscada e, entre os homens, multiplica os infiéis.</item>
+<item>29. Para quem os ah? Para quem os ais? Para quem as contendas? Para quem as queixas? Para quem as feridas sem motivo? Para quem o vermelho dos olhos?</item>
+<item>30. Para aqueles que permanecem junto ao vinho, para aqueles que vão saborear o vinho misturado.</item>
+<item>31. Não consideres o vinho: como ele é vermelho, como brilha no copo, como corre suavemente!</item>
+<item>32. Mas, no fim, morde como uma serpente e pica como um basilisco!</item>
+<item>33. Os teus olhos verão coisas estranhas, teu coração pronunciará coisas incoerentes.</item>
+<item>34. Serás como um homem adormecido no fundo do mar, ou deitado no cimo dum mastro:</item>
+<item>35. Feriram-me, dirás tu; e não sinto dor! Bateram-me... e não sinto nada. Quando despertei eu? Quero mais ainda!</item>
+ </string-array><string-array name="CapPr24">
+<item>Capítulo 24</item>
+<item>1. Não invejes os maus, nem desejes estar com eles,</item>
+<item>2. porque seus corações maquinam a violência e seus lábios só proclamam a iniqüidade.</item>
+<item>3. É com sabedoria que se constrói a casa, pela prudência ela se consolida.</item>
+<item>4. Pela ciência enchem-se os celeiros de todo bem precioso e agradável.</item>
+<item>5. O sábio é um homem forte, o douto é cheio de vigor.</item>
+<item>6. É com a prudência que empreenderás a guerra e a vitória depende de grande número de conselheiros.</item>
+<item>7. A sabedoria é por demais sublime para o tolo; à porta da cidade, ele não abre a boca.</item>
+<item>8. Quem medita fazer o mal, é chamado mestre intrigante.</item>
+<item>9. O desígnio da loucura é o pecado; e detrator é terror para os outros.</item>
+<item>10. Se te deixas abater no dia da adversidade, minguada é a tua força.</item>
+<item>11. Livra os que foram entregues à morte, salva os que cambaleiam indo para o massacre.</item>
+<item>12. Se disseres: Mas, não o sabia! Aquele que pesa os corações não o verá? Aquele que vigia tua alma não o saberá? E não retribuirá a cada qual segundo seu procedimento?</item>
+<item>13. Meu filho, come mel, pois é bom; um favo de mel é doce para teu paladar.</item>
+<item>14. Sabe, pois, que assim será a sabedoria para tua alma. Se tu a encontrares, haverá para ti um bom futuro e tua esperança não será frustrada.</item>
+<item>15. Não conspires, ó ímpio, contra a casa do justo, não destruas sua habitação!</item>
+<item>16. Porque o justo cai sete vezes, mas ergue-se, enquanto os ímpios desfalecem na desgraça.</item>
+<item>17. Não te alegres, se teu inimigo cair, se tropeçar, que não se rejubile teu coração,</item>
+<item>18. para não suceder que o Senhor o veja, e isto lhe desagrade, e tire de cima dele sua ira.</item>
+<item>19. Não te indignes à vista dos maus, não invejes os ímpios,</item>
+<item>20. porque para o mal não há futuro e o luzeiro dos ímpios extinguir-se-á.</item>
+<item>21. Meu filho, teme o Senhor e o rei, não te mistures com os sediciosos,</item>
+<item>22. porque, de repente, surgirá sua desgraça. Quem conhece a destruição de uns e de outros?</item>
+<item>23. O que segue é ainda dos sábios: Não é bom mostrar-se parcial no julgamento.</item>
+<item>24. Ao que diz ao culpado: Tu és inocente, os povos o amaldiçoarão, as nações o abominarão.</item>
+<item>25. Aqueles que sabem repreender são louvados, sobre eles cai uma chuva de bênçãos.</item>
+<item>26. Dá um beijo nos lábios aquele que responde com sinceridade.</item>
+<item>27. Cuida da tua tarefa de fora, aplica-te ao teu campo e depois edificarás tua habitação.</item>
+<item>28. Não sejas testemunha inconsiderada contra teu próximo. Queres, acaso, que teus lábios te enganem?</item>
+<item>29. Não digas: Far-lhe-ei o que me fez, pagarei a este homem segundo seus atos.</item>
+<item>30. Perto da terra do preguiçoso eu passei, junto à vinha de um homem insensato:</item>
+<item>31. eis que, por toda a parte, cresciam abrolhos, urtigas cobriam o solo, o muro de pedra estava por terra.</item>
+<item>32. Vendo isso, refleti; daquilo que havia visto, tirei esta lição:</item>
+<item>33. um pouco de sono, um pouco de torpor, um pouco cruzando as mãos para descansar</item>
+<item>34. e virá a indigência como um vagabundo, a miséria como um homem armado!</item>
+ </string-array><string-array name="CapPr25">
+<item>Capítulo 25</item>
+<item>1. Ainda alguns provérbios de Salomão, recolhidos pelos homens de Ezequias, rei de Judá.</item>
+<item>2. A glória de Deus é ocultar uma coisa; a glória dos reis é esquadrinhá-la.</item>
+<item>3. A altura dos céus, a profundeza da terra são impenetráveis, bem como o coração dos reis.</item>
+<item>4. Tira as escórias da prata e terás um vaso para o ourives;</item>
+<item>5. afasta o mau de presença do rei e seu trono se firmará na justiça.</item>
+<item>6. Não te faças de pretensioso diante do rei, não te ponhas no lugar dos grandes.</item>
+<item>7. É melhor que te digam: Sobe aqui!, do que seres humilhado diante de um personagem. O que teus olhos viram,</item>
+<item>8. não o descubras com precipitação numa contenda, pois, no final das contas, que farás tu quando o outro te houver confundido?</item>
+<item>9. Trata teu negócio com teu próximo de maneira a não revelar o segredo de outro,</item>
+<item>10. para que não sejas repreendido por aquele que o ouviu nem incorras em descrédito irreparável.</item>
+<item>11. Maçãs de ouro sobre prata gravada: tais são as palavras oportunas.</item>
+<item>12. Anel de ouro, jóia de ouro fino: tal é o sábio que admoesta um ouvido atento.</item>
+<item>13. Frescor de neve no tempo da colheita, tal é um mensageiro fiel para quem o envia: ele restaura a alma de seu senhor.</item>
+<item>14. Nuvens e vento sem chuva: tal é o homem que se gaba falsamente de dar.</item>
+<item>15. Pela paciência o juiz se deixa aplacar: a língua que fala com brandura pode quebrantar ossos.</item>
+<item>16. Achaste mel? Come o que for suficiente: se comeres demais, tu o vomitarás.</item>
+<item>17. Põe raramente o pé na casa do vizinho: enfastiado de ti, ele te viria a aborrecer.</item>
+<item>18. Clava, espada, flecha penetrante: tal é o que usa de falso testemunho contra seu próximo.</item>
+<item>19. Dente arruinado, pé que resvala: tal é a confiança de um pérfido no dia da desventura.</item>
+<item>20. Tirar a capa num dia de frio, derramar vinagre numa ferida: isso faz aquele que canta canções a um coração atribulado.</item>
+<item>21. Tem o teu inimigo fome? Dá-lhe de comer. Tem sede? Dá-lhe de beber:</item>
+<item>22. assim amontoarás brasas ardentes sobre sua cabeça e o Senhor te recompensará.</item>
+<item>23. O vento norte traz chuva e a língua detratora anuvia os semblantes.</item>
+<item>24. É melhor habitar um canto do terraço do que viver com uma mulher impertinente.</item>
+<item>25. Água fresca para uma garganta sedenta: tal é uma boa nova vinda de terra longínqua.</item>
+<item>26. Fonte turva e manancial contaminado: tal é o justo que cede diante do ímpio.</item>
+<item>27. Comer mel em demasia não é bom: usa de moderação nas palavras elogiosas.</item>
+<item>28. Como uma cidade desmantelada, sem muralhas: tal é o homem que não é senhor de si.</item>
+ </string-array><string-array name="CapPr26">
+<item>Capítulo 26</item>
+<item>1. Assim como a neve é imprópria no estio e a chuva na ceifa, do mesmo modo não convém ao insensato a consideração.</item>
+<item>2. Como um pássaro que foge, uma andorinha que voa: uma maldição injustificada permanece sem efeito.</item>
+<item>3. O açoite para o cavalo, o freio para o asno: a vara para as costas do tolo.</item>
+<item>4. Não respondas ao néscio segundo sua insensatez, para não seres semelhante a ele.</item>
+<item>5. Responde ao tolo segundo sua loucura para que ele não se julgue sábio aos seus olhos.</item>
+<item>6. Corta os pés, bebe aflições quem confia uma mensagem a um tolo.</item>
+<item>7. As pernas de um coxo não têm força: do mesmo modo uma sentença na boca de um tolo.</item>
+<item>8. É colocar pedra na funda cumprimentar um tolo.</item>
+<item>9. Um espinho que cai na mão de um embriagado: tal é uma sentença na boca dos insensatos.</item>
+<item>10. Um arqueiro que fere a todos: tal é aquele que emprega um tolo ou um embriagado.</item>
+<item>11. Um cão que volta ao seu vômito: tal é o louco que reitera suas loucuras.</item>
+<item>12. Tu tens visto um homem que se julga sábio? Há mais a esperar de um tolo do que dele.</item>
+<item>13. Há um leão no caminho, diz o preguiçoso, um leão na estrada!</item>
+<item>14. A porta gira sobre seus gonzos: assim o preguiçoso no seu leito.</item>
+<item>15. O preguiçoso põe sua mão no prato e custa-lhe muito levá-la à boca.</item>
+<item>16. O preguiçoso julga-se mais sábio do que sete homens que respondem com prudência.</item>
+<item>17. É pegar pelas orelhas um cão que passa envolver-se num debate que não interessa.</item>
+<item>18. Um louco furioso que lança chamas, flechas e morte:</item>
+<item>19. tal é o homem que engana seu próximo e diz em seguida: mas, era para brincar.</item>
+<item>20. Sem lenha o fogo se apaga: desaparecido o relator, acaba-se a questão.</item>
+<item>21. Carvão sobre a brasa, lenha sobre o fogo: tal é um intrigante para atiçar uma disputa.</item>
+<item>22. As palavras do mexeriqueiro são como guloseimas: penetram até o fundo das entranhas.</item>
+<item>23. Uma liga de prata sobre o pote de argila: tais são as palavras ardentes com um coração malévolo.</item>
+<item>24. O que odeia, fala com dissimulação; no seu interior maquina a fraude;</item>
+<item>25. quando ele falar com amabilidade, não te fies nele porque há sete abominações em seu coração;</item>
+<item>26. pode dissimular seu ódio sob aparências, e sua malícia acabará por ser revelada ao público.</item>
+<item>27. Quem cava uma fossa, ali cai; quem rola uma pedra, cairá debaixo dela.</item>
+<item>28. A língua mendaz odeia aqueles que ela atinge, a boca enganosa conduz à ruína.</item>
+ </string-array><string-array name="CapPr27">
+<item>Capítulo 27</item>
+<item>1. Não te gabes do dia de amanhã porque não sabes o que ele poderá engendrar.</item>
+<item>2. Que seja outro que te louve, não a tua própria boca; um estranho, não teus próprios lábios.</item>
+<item>3. Pesada é a pedra, pesada a areia, mais pesada ainda é a cólera de um tolo.</item>
+<item>4. Crueldade do furor, ímpetos da cólera: mas quem pode suportar o ciúme?</item>
+<item>5. Melhor é a correção manifesta do que uma amizade fingida.</item>
+<item>6. As feridas do amigo são provas de lealdade, mas os beijos do que odeia são abundantes.</item>
+<item>7. Saciado o apetite, calca aos pés o favo de mel; para o faminto tudo o que é amargo parece doce.</item>
+<item>8. Um pássaro que anda longe do seu ninho: tal é o homem que vive longe da sua terra.</item>
+<item>9. Azeite e incenso alegram o coração: a bondade de um amigo consola a alma.</item>
+<item>10. Não abandones teu amigo, o amigo de teu pai; não vás à casa do teu irmão em dia de aflição. Vale mais um vizinho que está perto, que um irmão distante.</item>
+<item>11. Sê sábio, meu filho, alegrarás meu coração e eu poderei responder ao que me ultrajar.</item>
+<item>12. O homem prudente percebe o mal e se põe a salvo; os imprudentes passam adiante e agüentam o peso.</item>
+<item>13. Toma a sua veste, porque ficou fiador de outrem, exige o penhor que deve aos estrangeiros.</item>
+<item>14. Quem, desde o amanhecer, louva seu vizinho em alta voz é censurado de o ter amaldiçoado.</item>
+<item>15. Goteira que cai de contínuo em dia de chuva e mulher litigiosa, tudo é a mesma coisa.</item>
+<item>16. Querer retê-la, é reter o vento, ou pegar azeite com a mão.</item>
+<item>17. O ferro com o ferro se aguça; o homem aguça o homem.</item>
+<item>18. Quem trata de sua figueira, comerá seu fruto; quem cuida do seu senhor, será honrado.</item>
+<item>19. Como o reflexo do rosto na água, assim é o coração do homem para o homem.</item>
+<item>20. A morada dos mortos e o abismo nunca se enchem; assim os olhos do homem são insaciáveis.</item>
+<item>21. Há um crisol para a prata, um forno para o ouro; assim o homem [é provado] pela sua reputação.</item>
+<item>22. Ainda que pisasses o insensato num triturador, entre os grãos, com um pilão, sua loucura não se separaria dele.</item>
+<item>23. Certifica-te bem do estado do teu gado miúdo; atende aos teus rebanhos,</item>
+<item>24. porque a riqueza não é eterna e a coroa não permanece de geração em geração.</item>
+<item>25. Quando se abre o prado, quando brotam as ervas, uma vez recolhido o feno das montanhas,</item>
+<item>26. tens ainda cordeiros para te vestir e bodes para pagares um campo,</item>
+<item>27. leite de cabra suficiente para teu sustento, para o sustento de tua casa e a manutenção das tuas servas.</item>
+ </string-array><string-array name="CapPr28">
+<item>Capítulo 28</item>
+<item>1. O ímpio foge sem que ninguém o persiga, mas o justo sente-se seguro como um leão.</item>
+<item>2. Por causa do pecado de um país, multiplicam-se os chefes, mas sob um homem sábio e sensato [a ordem] perdura.</item>
+<item>3. Um pobre que oprime miseráveis é qual chuva torrencial, causa de fome.</item>
+<item>4. Quem abandona a instrução, louva o ímpio; quem a observa, faz-lhe guerra.</item>
+<item>5. Os homens maus não compreendem o que é justo; os que buscam o Senhor tudo entendem.</item>
+<item>6. Mais vale um pobre que caminha na integridade do que um rico em caminhos tortuosos.</item>
+<item>7. Um filho inteligente segue a instrução; quem convive com os devassos, torna-se a vergonha de seu pai.</item>
+<item>8. Quem aumenta sua fortuna por usuras e logro, ajunta para o que tem piedade dos pequenos.</item>
+<item>9. Aquele que afasta o ouvido para não ouvir a instrução, até em sua oração é um objeto de horror.</item>
+<item>10. Quem seduz os homens corretos para um mau caminho, cairá no fosso que ele mesmo cavou e para os íntegros caberá a herança da felicidade.</item>
+<item>11. O rico julga-se sábio, mas o pobre inteligente penetra-o a fundo.</item>
+<item>12. Quando os justos triunfam, há muita alegria; quando os ímpios se erguem, cada qual se esconde.</item>
+<item>13. Quem dissimula suas faltas, não há de prosperar; quem as confessa e as detesta, obtém misericórdia.</item>
+<item>14. Feliz daquele que vive em temor contínuo; mas o que endurece seu coração, cairá na desgraça.</item>
+<item>15. Leão rugidor, urso esfaimado: tal é o ímpio que domina sobre um povo pobre.</item>
+<item>16. Um príncipe, destituído de senso, é rico em extorsões, mas o que odeia o lucro viverá longos dias.</item>
+<item>17. O homem sobre o qual pesa o sangue de outro fugirá até o fosso: não o retenhas.</item>
+<item>18. O que caminha na integridade, será salvo; quem seguir por caminhos tortuosos cairá no fosso.</item>
+<item>19. O que cultiva seu solo, terá pão à vontade; o que corre atrás das vaidades fartar-se-á de miséria.</item>
+<item>20. O homem leal será cumulado de bênçãos; o que, porém, tem pressa de se enriquecer, não ficará impune.</item>
+<item>21. Não é bom mostrar-se parcial: há quem cometa este pecado por um pedaço de pão.</item>
+<item>22. O homem invejoso precipita-se atrás da fortuna: não sabe que vai cair sobre ele a indigência.</item>
+<item>23. Quem corrige alguém, encontra no fim mais gratidão do que lisonjas.</item>
+<item>24. Quem furta de seu pai ou de sua mãe, dizendo: Isto não é pecado!, é colega do bandoleiro.</item>
+<item>25. O homem cobiçoso provoca contendas, mas o que se fia no Senhor, será saciado.</item>
+<item>26. O que se fia em seu próprio coração, é um tolo; quem caminha com sabedoria, escapará do perigo.</item>
+<item>27. O que dá ao pobre, não padecerá penúria, mas quem fecha os olhos ficará cheio de maldições.</item>
+<item>28. Quando se erguem os ímpios, cada qual se oculta; quando eles perecem, multiplicam-se os justos.</item>
+ </string-array><string-array name="CapPr29">
+<item>Capítulo 29</item>
+<item>1. O homem que, apesar das admoestações, se obstina será logo irremediavelmente arruinado.</item>
+<item>2. Quando dominam os justos, alegra-se o povo; quando governa o ímpio, o povo geme.</item>
+<item>3. Quem ama a sabedoria alegra seu pai; o que freqüenta as prostitutas dissipa sua fortuna.</item>
+<item>4. É pela justiça que um rei firma seu país, mas aquele que o sobrecarrega com muitos impostos, o arruína.</item>
+<item>5. O homem que adula seu próximo estende redes aos seus pés.</item>
+<item>6. No delito do ímpio há um ardil, mas o justo corre alegremente.</item>
+<item>7. O justo conhece a causa dos pobres; o ímpio a ignora.</item>
+<item>8. Os escarnecedores ateiam fogo na cidade, mas os sábios acalmam o furor.</item>
+<item>9. Discute um sábio com um tolo? Que ele se zangue ou que ele se ria, não terá paz.</item>
+<item>10. Os homens sanguinários odeiam o íntegro, mas os homens retos tomam cuidado com sua vida.</item>
+<item>11. O insensato desafoga toda sua ira, mas o sábio a domina e a recalca.</item>
+<item>12. Quando um soberano presta atenção às mentiras, todos os seus servidores tornam-se maus.</item>
+<item>13. O pobre e o opressor se encontram: é o Senhor que ilumina os olhos de cada um.</item>
+<item>14. Um rei que julga com eqüidade os humildes terá seu trono firmado para sempre.</item>
+<item>15. Vara e correção dão a sabedoria; menino abandonado à sua vontade se torna a vergonha da mãe.</item>
+<item>16. Quando se multiplicam os ímpios, multiplica-se o crime, mas os justos contemplarão sua queda.</item>
+<item>17. Corrige teu filho e ele te dará repouso e será as delícias de tua vida.</item>
+<item>18. Por falta de visão, o povo vive sem freios; ditoso o que observa a instrução!</item>
+<item>19. Não é com palavras que se corrige um escravo, porque ele compreende, mas não se atém a elas.</item>
+<item>20. Viste um homem precipitado no falar: há mais esperança num tolo do que nele.</item>
+<item>21. Um escravo mimado desde sua juventude, acaba por se tornar desobediente.</item>
+<item>22. Um homem irascível excita contendas; o colérico acumula as faltas.</item>
+<item>23. O orgulho de um homem leva-o à humilhação, mas o humilde de espírito obtém a glória.</item>
+<item>24. Quem partilha com o ladrão, odeia-se a si mesmo; ouve a maldição e nada denuncia.</item>
+<item>25. O temor dos homens prepara um laço, mas quem confia no Senhor permanece seguro.</item>
+<item>26. Muitos buscam o favor dum príncipe, mas é do Senhor que cada homem alcança justiça</item>
+<item>27. O homem iníquo é abominado pelos justos; o ímpio abomina aquele que anda pelo caminho certo.</item>
+ </string-array><string-array name="CapPr30">
+<item>Capítulo 30</item>
+<item>1. Palavras de Agur, filho de Jaque, de Massa. Palavras desse homem: Eu me fatiguei por Deus, estou esgotado por Deus, eis-me entregue.</item>
+<item>2. Porque eu sou o mais insensato dos homens, não tenho a inteligência de um homem.</item>
+<item>3. Não aprendi a sabedoria e não conheci a ciência do Santo.</item>
+<item>4. Quem subiu ao céu e quem dele desceu? Quem reteve o vento em suas mãos? Quem envolveu as águas em seu manto? Quem determinou as extremidades da terra? Qual é o seu nome, qual é o nome de seu filho, se é que o sabes?</item>
+<item>5. Toda a palavra de Deus é provada, é um escudo para quem se fia nele.</item>
+<item>6. Não acrescentes nada às suas palavras, para que ele não te corrija e sejas achado mentiroso.</item>
+<item>7. Eu te peço duas coisas, não mas negues antes de minha morte:</item>
+<item>8. afasta de mim falsidade e mentira, não me dês nem pobreza nem riqueza, concede-me o pão que me é necessário,</item>
+<item>9. para que, saciado, eu não te renegue, e não diga: Quem é o Senhor? Ou que, pobre, eu não roube, e não profane o nome do meu Deus.</item>
+<item>10. Não calunies um escravo junto de seu senhor, para que ele não te amaldiçoe e sofras o castigo.</item>
+<item>11. Há uma raça que amaldiçoa seu pai e que não abençoa sua mãe.</item>
+<item>12. Há uma raça que se julga pura e que não está limpa de sua mancha.</item>
+<item>13. Há uma raça , oh, cujos olhos são altivos, com pálpebras levantadas!</item>
+<item>14. Há uma raça cujos dentes são espadas e os maxilares, facas, para devorar os desvalidos da terra e os indigentes dentre os homens.</item>
+<item>15. A sanguessuga tem duas filhas: Dá! Dá! Há três coisas insaciáveis, quatro mesmo, que nunca dizem: Basta!</item>
+<item>16. A habitação dos mortos, o seio estéril, o solo que a água jamais sacia e o fogo que nunca diz: Basta!</item>
+<item>17. Os olhos de quem zomba do pai, de quem se recusa obedecer sua mãe: os corvos da torrente o arrebatarão, os filhos da águia o devorarão.</item>
+<item>18. Há três coisas que me são mistério, quatro mesmo, que não compreendo:</item>
+<item>19. O vôo da águia nos céus, o rastejar da cobra no rochedo, a navegação de um navio em pleno mar, o caminho de um homem junto a uma jovem.</item>
+<item>20. Tal é o procedimento da mulher adúltera: come, depois limpa a boca, dizendo: Não fiz mal algum.</item>
+<item>21. Três coisas fazem tremer a terra, há mesmo quatro que ela não pode suportar:</item>
+<item>22. um escravo que se torna rei, um tolo que está farto de pão,</item>
+<item>23. uma filha desprezada que se casa, uma serva que suplanta sua senhora.</item>
+<item>24. Há quatro animais pequenos na terra que, entretanto, são sábios, muito sábios:</item>
+<item>25. as formigas, povo sem força, que, durante o verão, preparam suas provisões,</item>
+<item>26. os arganazes, povo sem poder, que fazem sua habitação nos rochedos,</item>
+<item>27. os gafanhotos, que não têm rei e avançam todos em bandos,</item>
+<item>28. a lagartixa, que se pode pegar na mão e penetra nos palácios reais.</item>
+<item>29. Há três coisas que têm bela aparência, quatro mesmo, que andam garbosamente:</item>
+<item>30. O leão, o mais bravo dos animais, que não recua diante de nada,</item>
+<item>31. o animal cingido pelos rins, o bode e o rei acompanhado de seu exército.</item>
+<item>32. Se tiveres a asneira de elevar-te a ti mesmo, refletindo nisso, depois, põe tua mão à boca,</item>
+<item>33. porque quem comprime o leite, tira dele a manteiga, quem aperta o nariz, faz jorrar o sangue, quem provoca a cólera, promove a disputa.</item>
+ </string-array><string-array name="CapPr31">
+<item>Capítulo 31</item>
+<item>1. Palavras de Lamuel, rei de Massa, que lhe foram ensinadas por sua mãe:</item>
+<item>2. Meu filho, filho de minhas entranhas, que te direi eu? Não, ó filho de meus votos!</item>
+<item>3. Não dês teu vigor às mulheres e teu caminho àquelas que perdem os reis.</item>
+<item>4. Não é próprio dos reis, Lamuel, não convém aos reis beber vinho, nem aos príncipes dar-se aos licores,</item>
+<item>5. para que, bebendo, eles não esqueçam a lei e não desconheçam o direito de todos os infelizes.</item>
+<item>6. Dai a bebida forte àquele que desfalece e o vinho àquele que tem amargura no coração:</item>
+<item>7. que ele beba e esquecerá sua miséria e já não se lembrará de suas mágoas.</item>
+<item>8. Abre tua boca a favor do mundo, pela causa de todos os abandonados;</item>
+<item>9. abre tua boca para pronunciar sentenças justas, faze justiça ao aflito e ao indigente.</item>
+<item>10. Uma mulher virtuosa, quem pode encontrá-la? Superior ao das pérolas é o seu valor.</item>
+<item>11. Confia nela o coração de seu marido, e jamais lhe faltará coisa alguma.</item>
+<item>12. Ela lhe proporciona o bem, nunca o mal, em todos os dias de sua vida.</item>
+<item>13. Ela procura lã e linho e trabalha com mão alegre.</item>
+<item>14. Semelhante ao navio do mercador, manda vir seus víveres de longe.</item>
+<item>15. Levanta-se, ainda de noite, distribui a comida à sua casa e a tarefa às suas servas.</item>
+<item>16. Ela encontra uma terra, adquire-a. Planta uma vinha com o ganho de suas mãos.</item>
+<item>17. Cinge os rins de fortaleza, revigora seus braços.</item>
+<item>18. Alegra-se com o seu lucro, e sua lâmpada não se apaga durante a noite.</item>
+<item>19. Põe a mão na roca, seus dedos manejam o fuso.</item>
+<item>20. Estende os braços ao infeliz e abre a mão ao indigente.</item>
+<item>21. Ela não teme a neve em sua casa, porque toda a sua família tem vestes duplas.</item>
+<item>22. Faz para si cobertas: suas vestes são de linho fino e de púrpura.</item>
+<item>23. Seu marido é considerado nas portas da cidade, quando se senta com os anciãos da terra.</item>
+<item>24. Tece linha e o vende, fornece cintos ao mercador.</item>
+<item>25. Fortaleza e graça lhe servem de ornamentos; ri-se do dia de amanhã.</item>
+<item>26. Abre a boca com sabedoria, amáveis instruções surgem de sua língua.</item>
+<item>27. Vigia o andamento de sua casa e não come o pão da ociosidade.</item>
+<item>28. Seus filhos se levantam para proclamá-la bem-aventurada e seu marido para elogiá-la.</item>
+<item>29. Muitas mulheres demonstram vigor, mas tu excedes a todas.</item>
+<item>30. A graça é falaz e a beleza é vã; a mulher inteligente é a que se deve louvar.</item>
+<item>31. Dai-lhe o fruto de suas mãos e que suas obras a louvem nas portas da cidade.</item>
+
+ </string-array>
+</resources>

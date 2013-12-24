@@ -1,0 +1,919 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<string-array name="CapLv1">
+<item>Capítulo 1</item>
+<item>1. O Senhor chamou Moisés e falou-lhe da tenda de reunião:</item>
+<item>2. “Fala, disse-lhe ele, aos israelitas. Dize-lhes: Quando um de vós fizer uma oferta ao Senhor, será dentre o gado maior ou menor que oferecereis.</item>
+<item>3. Se a oferta for um holocausto tirado do gado maior, oferecerá um macho sem defeito; e o oferecerá à entrada da tenda de reunião para obter o favor do Senhor.</item>
+<item>4. Porá a mão sobre a cabeça da vítima, que será aceita em seu favor para lhe servir de expiação.</item>
+<item>5. Imolar-se-á o novilho diante do Senhor, e os sacerdotes, filhos de Aarão, oferecerão o sangue e o derramarão ao redor sobre o altar que está à entrada da tenda de reunião.</item>
+<item>6. Tirar-se-á a pele da vítima, e esta será cortada em pedaços.</item>
+<item>7. Os filhos do sacerdote Aarão porão fogo no altar, e empilharão a lenha sobre ele,</item>
+<item>8. dispondo, em seguida, por cima da lenha, os pedaços, a cabeça e a gordura.</item>
+<item>9. Lavar-se-ão com água as entranhas e as pernas, e o sacerdote queimará tudo sobre o altar. Este é um holocausto, um sacrifício consumido pelo fogo, de odor agradável ao Senhor.</item>
+<item>10. Se a sua oferta for um holocausto tirado do gado menor, dos cordeiros ou das cabras, oferecerá um macho sem defeito.</item>
+<item>11. Imolá-lo-ás do lado norte do altar, diante do Senhor, e os sacerdotes, filhos de Aarão, derramarão o seu sangue em redor do altar.</item>
+<item>12. A vítima será, em seguida, cortada em pedaços, com a cabeça e a gordura, que o sacerdote disporá sobre a lenha colocada no fogo do altar.</item>
+<item>13. As entranhas e as pernas serão lavadas com água, e, em seguida, o sacerdote oferecerá tudo isso, queimando-o no altar. Este é um holocausto, um sacrifício consumido pelo fogo, de odor agradável ao Senhor.</item>
+<item>14. Se a sua oferta ao Senhor for um holocausto tirado dentre as aves, oferecerá rolas ou pombinhos.</item>
+<item>15. O sacerdote meterá a ave sobre o altar, lhe destroncará a cabeça e a queimará no altar, depois de haver espremido o seu sangue contra a parede do altar.</item>
+<item>16. Tirará o papo com as penas e os jogará perto do altar, para o oriente, no lugar onde se põem as cinzas.</item>
+<item>17. Abrirá em seguida a ave à altura das asas, sem as desprender, e a queimará no altar, em cima da lenha que está no fogo. Este é um holocausto, um sacrifício consumido pelo fogo, de odor agradável ao Senhor.”</item>
+ </string-array><string-array name="CapLv2">
+<item>Capítulo 2</item>
+<item>1. “Quando alguém apresentar ao Senhor uma oblação como oferta, a sua oblação será de flor de farinha; derramará sobre ela azeite, ajuntando também incenso.</item>
+<item>2. E levá-la-á ao sacerdote, filho de Aarão, o qual tomará um punhado de flor de farinha com azeite, e todo o incenso, e a queimará no altar como um memorial. Este é um sacrifício consumido pelo fogo, de agradável odor ao Senhor.</item>
+<item>3. O que sobrar da oblação será para Aarão e seus filhos; isto é, o que há de mais santo entre os sacrifícios feitos pelo fogo ao Senhor.</item>
+<item>4. Quando ofereceres uma oblação de coisa cozida no forno, farás bolos de flor de farinha sem fermento, amassados com azeite, e bolachas sem fermento, untadas com azeite.</item>
+<item>5. Se a oblação que ofereces for algo cozido na frigideira, que seja flor de farinha amassada com azeite, sem fermento.</item>
+<item>6. Cortá-la-ás em pedaços e derramarás azeite por cima: isto é uma oblação.</item>
+<item>7. Se a oblação que ofereces for cozida na grelha, deverá ser flor de farinha com azeite.</item>
+<item>8. Trarás ao Senhor a oblação assim preparada, e a entregarás ao sacerdote, que a colocará no altar.</item>
+<item>9. Ele separará da oblação o que deverá ser oferecido como memorial, e o queimará no altar. Este é um sacrifício consumido pelo fogo, de agradável odor ao Senhor.</item>
+<item>10. O que sobrar da oblação será para Aarão e seus filhos; isto é o que há de mais santo entre os sacrifícios feitos pelo fogo ao Senhor.</item>
+<item>11. Toda oblação que oferecerdes ao Senhor deverá ser preparada sem fermento: não queimareis nada que contenha fermento ou mel em sacrifício feito pelo fogo ao Senhor.</item>
+<item>12. Podereis oferecê-lo ao Senhor como oferta de primícias, mas não será colocado no altar como oferta de agradável odor.</item>
+<item>13. Salgarás todas as tuas oblações; não deixarás faltar à tua oferta o sal da aliança de teu Deus. Porás, pois, sal em todas as tuas ofertas.</item>
+<item>14. Se fizeres ao Senhor uma oferta de primícias, oferecerás espigas tostadas ao fogo, grão tenro moído como oblação de tuas primícias.</item>
+<item>15. Derramarás azeite por cima, ajuntando também o incenso; esta é uma oblação.</item>
+<item>16. O sacerdote queimará como memorial uma parte do grão moído e do azeite com todo o incenso. Este é um sacrifício feito pelo fogo ao Senhor.”</item>
+ </string-array><string-array name="CapLv3">
+<item>Capítulo 3</item>
+<item>1. “Quando alguém oferecer um sacrifício pacífico, e quiser oferecer gado, macho ou fêmea, oferecerá um que seja sem defeito ao Senhor.</item>
+<item>2. Ele porá a mão sobre a cabeça da vítima, e a imolará à entrada da tenda de reunião; e os sacerdotes, filhos de Aarão, aspergirão com seu sangue as paredes do altar ao redor.</item>
+<item>3. Deste sacrifício pacífico, oferecerá, à guisa de sacrifício pelo fogo ao Senhor, a gordura que envolve as entranhas e que está aderida a elas,</item>
+<item>4. os dois rins com a gordura que os envolve na região lombar e a pele que recobre o fígado, a qual será desprendida de junto dos rins.</item>
+<item>5. Os filhos de Aarão queimarão isso no altar, por cima do holocausto colocado sobre a lenha que está no fogo. Este é um sacrifício consumido pelo fogo, de agradável odor ao Senhor.</item>
+<item>6. Se oferecer do gado menor ao Senhor, como sacrifício pacífico, macho ou fêmea, oferecerá um que seja sem defeito.</item>
+<item>7. Se oferecer um cordeiro, apresentá-lo-á diante do Senhor,</item>
+<item>8. porá a mão sobre a cabeça da vítima e a imolará diante da tenda de reunião; em seguida, os filhos de Aarão derramarão o seu sangue em toda a volta do altar.</item>
+<item>9. Deste sacrifício pacífico oferecerá, à guisa de sacrifício pelo fogo ao Senhor, a gordura, a cauda inteira cortada rente à espinha, a gordura que envolve as entranhas e que se acha aderida a elas,</item>
+<item>10. os dois rins com a gordura que os envolve na região lombar e a pele que recobre o fígado, a qual será desprendida de junto dos rins.</item>
+<item>11. O sacerdote queimará isso no altar; este é o alimento de um sacrifício feito pelo fogo ao Senhor.</item>
+<item>12. Se sua oferta for uma cabra, apresentá-la-á diante do Senhor,</item>
+<item>13. porá a mão sobre sua cabeça e a imolará diante da tenda de reunião; e os filhos de Aarão derramarão o seu sangue sobre toda a volta do altar.</item>
+<item>14. Desta oferta oferecerá, à guisa de sacrifício feito pelo fogo ao Senhor, a gordura que envolve as entranhas e que se acha aderida a elas,</item>
+<item>15. os dois rins com a gordura que os recobre na região lombar, e a pele que recobre o fígado, a qual será desprendida de junto dos rins.</item>
+<item>16. O sacerdote os queimará sobre o altar; este é o alimento de um sacrifício oferecido pelo fogo, de agradável odor. Toda a gordura pertence ao Senhor.</item>
+<item>17. Essa é uma lei perpétua para vossos descendentes, onde quer que habiteis: não comereis gordura nem sangue.”</item>
+ </string-array><string-array name="CapLv4">
+<item>Capítulo 4</item>
+<item>1. O Senhor disse a Moisés: “Fala aos israelitas. Dize-lhes:</item>
+<item>2. quando um homem tiver pecado involuntariamente contra uma prescrição do Senhor, fazendo uma das coisas que e proibiu;</item>
+<item>3. se aquele que tiver pecado for um sacerdote ungido, de maneira que o povo se torne culpado, oferecerá ao Senhor por sua transgressão um novilho sem defeito como sacrifício de expiação.</item>
+<item>4. Levará o novilho diante do Senhor, à entrada da tenda de reunião, porá a mão sobre a cabeça do touro e o imolará diante do Senhor.</item>
+<item>5. O sacerdote ungido tomará o sangue do touro e o levará à tenda de reunião;</item>
+<item>6. mergulhará o seu dedo no sangue e fará sete aspersões diante do Senhor, diante do véu do santuário.</item>
+<item>7. Em seguida, porá o sangue nos cornos do altar dos perfumes aromáticos que está diante do Senhor na tenda de reunião; e derramará o resto do sangue do touro ao pé do altar dos holocaustos que está à entrada da tenda de reunião.</item>
+<item>8. Tirará a gordura do touro imolado pelo pecado, tanto a que envolve as entranhas como a que adere a elas,</item>
+<item>9. os dois rins com a gordura que os envolve na região lombar, e a pele que recobre o fígado, a qual será desprendida de junto dos rins.</item>
+<item>10. Fará como se faz com o touro do sacrifício pacífico, e queimará tudo isso no altar dos holocaustos.</item>
+<item>11. Mas o couro do touro, sua carne, com sua cabeça, suas pernas, suas entranhas e seus excrementos, enfim, todo o touro,</item>
+<item>12. o levará para fora do acampamento, em lugar limpo, onde se jogam as cinzas, e o queimará sobre lenha: será queimado sobre um monte de cinzas.</item>
+<item>13. Se foi toda a assembléia de Israel quem pecou involuntariamente, por inadvertência, cometendo alguma ação proibida pelos mandamentos do Senhor, tornando-se assim culpada,</item>
+<item>14. se o pecado cometido por ela vier a ser conhecido, a assembléia oferecerá em sacrifício de expiação um novilho, que se conduzirá diante da tenda de reunião.</item>
+<item>15. Os anciãos da assembléia porão suas mãos sobre a cabeça do touro, o qual será imolado diante do Senhor.</item>
+<item>16. O sacerdote ungido levará o sangue do touro à tenda de reunião:</item>
+<item>17. mergulhará seu dedo no sangue e fará sete aspersões diante do Senhor, em frente do véu.</item>
+<item>18. Porá o sangue nos cornos do altar que está diante do Senhor na tenda de reunião e derramará o resto do sangue ao pé do altar dos holocaustos que está à entrada da tenda de reunião.</item>
+<item>19. Tirará toda a gordura do touro para queimá-la sobre o altar.</item>
+<item>20. Fará desse touro o que se fez com o novilho imolado pelo pecado. É assim que o sacerdote fará a expiação por eles, e serão perdoados.</item>
+<item>21. Levará depois o touro para fora do acampamento e o queimará como o primeiro. Este é o sacrifício pelo pecado da assembléia.</item>
+<item>22. Se foi um chefe quem pecou, cometendo involuntariamente uma ação proibida por um mandamento do Senhor seu Deus, tornando-se assim culpado,</item>
+<item>23. trará para sua oferta um bode sem defeito, logo que tiver tomado consciência de seu pecado.</item>
+<item>24. Porá a mão sobre a cabeça do bode e o imolará no lugar onde se imolam os holocaustos diante do Senhor; este é um sacrifício pelo pecado.</item>
+<item>25. O sacerdote, com o dedo, tomará o sangue da vítima oferecida pelo pecado e o porá sobre os cornos do altar dos holocaustos, e derramará o resto do sangue ao pé desse altar.</item>
+<item>26. Queimará, em seguida, sobre o altar toda a gordura, como a dos sacrifícios pacíficos. É assim que o sacerdote fará pelo chefe a expiação de seu pecado; e ele será perdoado.</item>
+<item>27. Se for alguém do povo quem pecou involuntariamente, cometendo uma ação proibida por um mandamento do Senhor, tornando-se assim culpado,</item>
+<item>28. trará para sua oferta uma cabra sem defeito, pela falta cometida, logo que tiver tomado consciência de seu pecado.</item>
+<item>29. Porá a mão sobre a cabeça da vítima oferecida pelo pecado e a imolará no lugar onde se imolam os holocaustos.</item>
+<item>30. Em seguida, o sacerdote, com o dedo, tomará o sangue da vítima, e pô-lo-á sobre os cornos do altar dos holocaustos, derramando o resto ao pé do altar.</item>
+<item>31. Tirará toda a gordura, como se fez no sacrifício pacífico, e a queimará no altar, como agradável odor ao Senhor. É assim que o sacerdote fará a expiação por esse homem, e ele será perdoado.</item>
+<item>32. Se for um cordeiro que oferecer em sacrifício pelo pecado, oferecerá uma fêmea sem defeito.</item>
+<item>33. Porá a mão sobre a cabeça da vítima oferecida pelo pecado e a imolará em sacrifício de expiação no lugar onde se imolam os holocaustos.</item>
+<item>34. Em seguida, com o dedo, tomará o sacerdote o sangue da vítima oferecida pelo pecado, e o porá sobre os cornos do altar dos holocaustos, derramando o resto do sangue ao pé do altar.</item>
+<item>35. Tirará toda a gordura como se tirou a do cordeiro do sacrifício pacífico, e a queimará no altar, entre os sacrifícios feitos pelo fogo ao Senhor. É assim que o sacerdote fará a expiação pelo pecado cometido por esse homem, e ele será perdoado.</item>
+ </string-array><string-array name="CapLv5">
+<item>Capítulo 5</item>
+<item>1. “Se algum, chamado como testemunha, após ter ouvido a adjuração do juiz, peca por não declarar o que viu ou o que soube, levará o peso de sua falta.</item>
+<item>2. Se alguém tocar, por inadvertência, uma coisa impura, como o cadáver de um animal impuro, de uma fera ou de um réptil impuro, ficará manchado e culpado.</item>
+<item>3. Da mesma forma, se, por descuido, tocar uma imundície humana qualquer, e logo se der conta disso, será réu de culpa.</item>
+<item>4. Se alguém, por descuido ou irreflexão, jurar fazer qualquer coisa de bem ou de mal, logo que se der conta disso, será culpado, qualquer que seja o juramento inconsiderado.</item>
+<item>5. Aquele, pois, que for culpado de uma dessas coisas, confessará aquilo em que faltou.</item>
+<item>6. Apresentará ao Senhor em expiação pelo pecado cometido uma fêmea de seu rebanho miúdo, uma ovelha ou uma cabra em sacrifício pelo pecado, e o sacerdote fará por ele a expiação de seu pecado.</item>
+<item>7. Se não houver meio de se obter uma ovelha ou uma cabra, oferecerá ao Senhor em expiação pelo seu pecado duas rolas ou dois pombinhos, um em sacrifício pelo pecado e o outro em holocausto.</item>
+<item>8. Levá-los-á ao sacerdote, que oferecerá primeiro a vítima pelo pecado, quebrando-lhe a cabeça, perto da nuca, sem desprendê-la.</item>
+<item>9. Aspergirá a parede do altar com o sangue da vítima pelo pecado, e o resto do sangue será espremido ao pé do altar; este é um sacrifício pelo pecado.</item>
+<item>10. Fará da outra ave um holocausto segundo os ritos. É assim que o sacerdote fará por esse homem a expiação do pecado que ele cometeu, e ele ser perdoado.</item>
+<item>11. Se não houver meio de se encontrarem duas rolas ou dois pombinhos, trará como oferta, pelo pecado cometido, o décimo de um efá de flor de farinha em sacrifício pelo pecado. Não lhe deitará azeite nem lhe porá incenso, porque é um sacrifício pelo pecado.</item>
+<item>12. Trará ao sacerdote, que dela tomará um punhado como memorial, e a queimará sobre o altar, entre os sacrifícios feitos pelo fogo ao Senhor; este é um sacrifício pelo pecado.</item>
+<item>13. É assim que o sacerdote fará a expiação pelo pecado cometido por esse homem, em uma dessas coisas; e ele será perdoado. O que sobrar será do sacerdote, como na oblação.”</item>
+<item>14. O Senhor disse a Moisés:</item>
+<item>15. “Se alguém cometer involuntariamente uma infidelidade, retendo ofertas consagradas ao Senhor, oferecerá ao Senhor em sacrifício de reparação um carneiro sem defeito, tomado do rebanho, segundo a tua avaliação em siclos de prata, conforme o siclo do santuário; este é um sacrifício de reparação.</item>
+<item>16. Restituirá o que tirou do santuário, com um quinto a mais, que entregará ao sacerdote. O sacerdote fará a expiação por esse homem com o carneiro oferecido em sacrifício de reparação, e ele será perdoado.</item>
+<item>17. “Se alguém pecar, fazendo, sem saber, uma ação proibida por um mandamento do Senhor, será culpado e levará o peso de sua falta.</item>
+<item>18. Levará ao sacerdote, em sacrifício de reparação, um carneiro sem defeito tomado do rebanho, segundo sua avaliação. O sacerdote fará por ele a expiação da falta cometida por inadvertência, sem saber; e ele ser perdoado.</item>
+<item>19. Este é um sacrifício de reparação, porque esse homem era certamente culpado aos olhos do Senhor.”</item>
+<item>20. O Senhor disse a Moisés:</item>
+<item>21. “Se alguém pecar e cometer uma infidelidade para com o Senhor, negando ter recebido de seu próximo um depósito ou um penhor, recusando restituir uma coisa roubada ou arrebatada com violência,</item>
+<item>22. ou um objeto perdido que encontrou, e jurando falso a respeito de uma das coisas com que se pode pecar,</item>
+<item>23. se vem assim a pecar e tornar-se culpado, restituirá o objeto roubado ou arrebatado violentamente, o depósito confiado, ou toda coisa que tenha sido objeto de juramento falso.</item>
+<item>24. Restituirá integralmente esse objeto ao seu proprietário, ajuntando um quinto do seu valor, no mesmo dia em que oferecer o sacrifício de reparação.</item>
+<item>25. Levará ao sacerdote para o sacrifício de reparação ao Senhor um carneiro sem defeito, tomado do rebanho, segundo a tua avaliação.</item>
+<item>26. O sacerdote fará por ele a expiação diante do Senhor, e ele será perdoado, seja qual for a falta de que se tenha tornado culpado.”</item>
+ </string-array><string-array name="CapLv6">
+<item>Capítulo 6</item>
+<item>1. O Senhor disse a Moisés: “Eis as ordenações que darás a Aarão e a seus filhos:</item>
+<item>2. esta é a lei do holocausto. O holocausto ficará na lareira do altar toda a noite até pela manhã, e se conservará aí aceso o fogo do altar.</item>
+<item>3. O sacerdote, revestido da túnica de linho e com os calções de linho no corpo, tirará a cinza do fogo que houver consumido o holocausto sobre o altar e a porá ao lado.</item>
+<item>4. Deixará suas vestes e porá outras para levar a cinza fora do acampamento, a um lugar limpo.</item>
+<item>5. O fogo deverá ser alimentado no altar, sem jamais se apagar. O sacerdote nele acenderá lenha todas as manhãs; disporá sobre ele o holocausto e sobre ele queimará a gordura dos sacrifícios pacíficos.</item>
+<item>6. O fogo se conservará perpetuamente aceso no altar, sem jamais se apagar.</item>
+<item>7. Eis a lei da oblação: os filhos de Aarão a apresentarão ao Senhor diante do altar.</item>
+<item>8. Tomarão dela um punhado de flor de farinha com o azeite e todo o incenso que está por cima, e queimarão sobre o altar como memorial, em oferta de agradável odor ao Senhor.</item>
+<item>9. Aarão e seus filhos comerão o que sobrar da oblação. E comê-lo-ão sem fermento em um lugar santo, a saber: no átrio da tenda de reunião. Não será cozido com fermento.</item>
+<item>10. Esta é a parte que lhes tenho dado das ofertas que me são feitas, consumidas pelo fogo. Esta é uma coisa santíssima, como o sacrifício pelo pecado e o sacrifício de reparação.</item>
+<item>11. Todo varão entre os filhos de Aarão comerá dela. Essa é uma lei perpétua, no tocante às partes destinadas a vossos descendentes, das ofertas feitas pelo fogo ao Senhor. Todo aquele que tocar essas coisas será santo.”</item>
+<item>12. O Senhor disse a Moisés:</item>
+<item>13. “Eis a oferta que Aarão e seus filhos farão ao Senhor no dia em que receberem a unção: um décimo de efá de flor de farinha em oblação perpétua, metade pela manhã e metade à tarde.</item>
+<item>14. Ela será frita na frigideira com óleo; tu a trarás quando estiver misturada, e oferecerás os pedaços fritos da oferta dividida, em agradável odor ao Senhor.</item>
+<item>15. O filho do sacerdote que lhe suceder e receber a unção fará também essa oblação. Esta é uma lei perpétua diante do Senhor; a oblação será consumida inteiramente.</item>
+<item>16. Toda oferta de sacerdote será consumida integralmente; não se comerá dela.”</item>
+<item>17. O Senhor disse a Moisés: “Dize o seguinte a Aarão e seus filhos:</item>
+<item>18. eis a lei do sacrifício pelo pecado: a vítima do sacrifício pelo pecado será imolada diante do Senhor, no lugar onde se imola a vítima do holocausto. Esta é uma coisa santíssima.</item>
+<item>19. O sacerdote que oferecer a vítima do sacrifício pelo pecado comê-la-á em um lugar santo, a saber: no átrio da tenda de reunião.</item>
+<item>20. Todo aquele que tocar a sua carne será santo; se se salpicar do seu sangue sobre uma veste, tu a lavarás em um lugar santo.</item>
+<item>21. O vaso de barro em que se cozer a vítima será quebrado; mas, se o vaso for de bronze, será esfregado e lavado com água.</item>
+<item>22. Todo varão entre os sacerdotes comerá dela; esta é uma coisa santíssima.</item>
+<item>23. A vítima, porém, imolada pelo pecado, cujo sangue se leva à tenda de reunião para se fazer a expiação no santuário, não será de forma alguma comida, mas queimada no fogo.</item>
+ </string-array><string-array name="CapLv7">
+<item>Capítulo 7</item>
+<item>1. “Eis a lei do sacrifício de reparação; esta é uma coisa santíssima.</item>
+<item>2. A vítima do sacrifício de reparação será imolada no lugar onde se imola o holocausto: e derramar-se-á o seu sangue em toda a volta do altar.</item>
+<item>3. Dela se oferecerá toda a gordura, a cauda, a gordura que envolve as entranhas,</item>
+<item>4. os dois rins com a gordura que os recobre na região lombar e a pele que recobre o fígado, a qual será desprendida de junto dos rins.</item>
+<item>5. O sacerdote as queimará sobre o altar, em sacrifício pelo fogo ao Senhor; este é um sacrifício de reparação.</item>
+<item>6. Todo varão entre os sacerdotes comerá dela em um lugar santo: esta é uma coisa santíssima.</item>
+<item>7. O sacrifício de reparação far-se-á exatamente como o sacrifício pelo pecado; será uma só lei para os dois; a vítima pertencerá ao sacerdote que tiver feito a expiação.</item>
+<item>8. O sacerdote que oferecer o holocausto por alguém terá a pele da vítima oferecida.</item>
+<item>9. Toda oblação cozida no forno, na caçarola ou na frigideira será do sacerdote que tiver oferecido.</item>
+<item>10. Toda oblação amassada com óleo, ou seca, pertencerá aos filhos de Aarão que a dividirão eqüitativamente.</item>
+<item>11. Eis a lei do sacrifício pacífico que se oferece ao Senhor:</item>
+<item>12. Se a oferta for em ação de graças, oferecer-se-ão com a vítima de ação de graças bolos sem fermento, amassados com óleo, bolachas sem fermento untadas de óleo, e farinha frita em forma de bolos amassados com óleo.</item>
+<item>13. Oferecer-se-ão também bolos fermentados com a oblação do sacrifício pacífico oferecido em ação de graças.</item>
+<item>14. Apresentar-se-á um pedaço de cada uma dessas ofertas em oblação reservada para o Senhor. Ela será para o sacerdote que tiver derramado o sangue da vítima pacífica.</item>
+<item>15. A carne da vítima de ação de graças oferecida em sacrifício pacífico será comida no dia da oblação; não se deixará nada para o dia seguinte.</item>
+<item>16. Se a vítima for oferecida por voto ou como oferta voluntária, deverá ser comida no dia da oblação, e o que sobrar se comerá no dia seguinte.</item>
+<item>17. O que restar ainda da carne da vítima no terceiro dia será consumido pelo fogo.</item>
+<item>18. Se alguém comer da carne de seu sacrifício pacífico no terceiro dia, esse sacrifício não será aceito; ele não lhe será levado em conta; esta será uma coisa abominável, e quem dele tiver comido levará o peso de sua falta.</item>
+<item>19. A carne que tiver tocado alguma coisa impura não se comerá: será queimada no fogo. Todo homem puro poderá comer da carne do sacrifício pacífico.</item>
+<item>20. Mas aquele que a comer em estado de impureza será cortado do seu povo.</item>
+<item>21. Quem tocar alguma coisa impura, imundície humana ou animal impuro, ou qualquer outro objeto abominável, e comer, em seguida, da carne do sacrifício pacífico pertencente ao Senhor, será cortado de seu povo.”</item>
+<item>22. O Senhor disse a Moisés:</item>
+<item>23. Dize isto aos israelitas: não comereis gordura de boi, de ovelha ou de cabra.</item>
+<item>24. A gordura de um animal morto ou dilacerado por uma fera selvagem poderá servir a qualquer outro uso, mas não comereis dela.</item>
+<item>25. Todo aquele que comer da gordura de animais oferecidos ao Senhor em sacrifícios feitos pelo fogo será cortado do seu povo.</item>
+<item>26. Onde quer que habiteis, não comereis sangue, nem de ave, nem de animais.</item>
+<item>27. Todo aquele que comer sangue, seja que sangue for, será cortado de seu povo.”</item>
+<item>28. O Senhor disse a Moisés: “Dize isto aos israelitas:</item>
+<item>29. aquele que oferecer ao Senhor uma vítima pacífica, trar-lhe-á a oferta tomada do dito sacrifício.</item>
+<item>30. E trará em suas mãos o que deve ser oferecido pelo fogo ao Senhor: a gordura com o peito, para agitá-la como oferta diante do Senhor.</item>
+<item>31. O sacerdote queimará a gordura no altar, e o peito será para Aarão e seus filhos.</item>
+<item>32. Dareis também ao sacerdote a coxa direita como oferta tomada dos vossos sacrifícios pacíficos.</item>
+<item>33. Aquele dentre os filhos de Aarão que oferecer o sangue e a gordura dos sacrifícios pacíficos, esse terá como sua porção a coxa direita.</item>
+<item>34. Eu tomei, com efeito, dos sacrifícios pacíficos dos israelitas, o peito que se deve agitar diante de mim e a coxa que se deve pôr à parte, e os dou ao sacerdote Aarão e seus filhos, como direito perpétuo que têm sobre os israelitas.</item>
+<item>35. Esta é a parte que tocará a Aarão e seus filhos, dentre os sacrifícios pelo fogo ao Senhor, a partir do dia em que forem apresentados como sacerdotes a serviço do Senhor.</item>
+<item>36. Foi o que o Senhor ordenou aos israelitas que dessem aos sacerdotes desde o dia de sua unção. É o direito perpétuo que têm para todos os seus descendentes.”</item>
+<item>37. Tal é a lei do holocausto, da oblação, do sacrifício pelo pecado, do sacrifício de reparação e de empossamento e do sacrifício pacífico.</item>
+<item>38. O Senhor deu-a a Moisés no monte Sinai, no dia em que prescreveu aos israelitas apresentarem suas ofertas ao Senhor no deserto do Sinai.</item>
+ </string-array><string-array name="CapLv8">
+<item>Capítulo 8</item>
+<item>1. O Senhor disse a Moisés:</item>
+<item>2. “Toma a Aarão e seus filhos, as vestes, o óleo para a unção, o touro do sacrifício pelo pecado, os dois carneiros e a cesta de pães ázimos,</item>
+<item>3. e convoca toda a assembléia à entrada da tenda de reunião”.</item>
+<item>4. Moisés fez o que lhe ordenou o Senhor, e a assembléia se reuniu à entrada da tenda de reunião.</item>
+<item>5. Moisés disse então: “Eis o que o Senhor ordenou que se fizesse”.</item>
+<item>6. Fez aproximarem-se Aarão e seus filhos e os lavou com água.</item>
+<item>7. Vestiu Aarão com a túnica, a cintura e o manto; pôs sobre ele o efod, e cingiu-o com a cintura do efod, atando-o.</item>
+<item>8. Pôs-lhe em seguida o peitoral, ao qual fixou o urim e o tumim.</item>
+<item>9. Cobriu-lhe a cabeça com a tiara, diante da qual colocou a lâmina de ouro, o santo diadema, como o Senhor lhe tinha ordenado.</item>
+<item>10. Tomou, além disso, o óleo da unção, ungiu com ele o tabernáculo e tudo o que continha, e os consagrou.</item>
+<item>11. Aspergiu sete vezes o altar e ungiu-o com todos os seus utensílios, assim como a bacia e seu pedestal, para consagrá-los.</item>
+<item>12. Derramou o óleo da unção na cabeça de Aarão para consagrá-lo.</item>
+<item>13. Depois mandou que se aproximassem os filhos de Aarão, e os revestiu de túnicas e de cinturas, pondo-lhes também mitras nas cabeças, como o Senhor lhe tinha ordenado.</item>
+<item>14. Então mandou vir o touro do sacrifício pelo pecado, e Aarão e seus filhos puseram as mãos sobre a sua cabeça.</item>
+<item>15. Moisés o imolou, tomou o sangue e, com o dedo, o pôs sobre os cornos do altar, purificando o altar; derramou o resto ao pé do altar e o consagrou, fazendo sobre ele a expiação.</item>
+<item>16. Tomou, em seguida, toda a gordura que envolve as entranhas, a pele que recobre o fígado e os dois rins com sua gordura, e os queimou no altar.</item>
+<item>17. Mas queimou fora do acampamento o touro, seu couro, sua carne e seus excrementos, como o Senhor lhe tinha ordenado.</item>
+<item>18. Mandou vir o carneiro do holocausto, sobre cuja cabeça Aarão e seus filhos impuseram as mãos.</item>
+<item>19. Foi imolado, e Moisés derramou seu sangue em todo o redor do altar.</item>
+<item>20. Foi, em seguida, cortado em pedaços, e Moisés queimou a cabeça aos pedaços a gordura.</item>
+<item>21. Lavaram com água as entranhas e as patas, e Moisés queimou o carneiro todo sobre o altar: era um holocausto de agradável odor, um sacrifício consumido pelo fogo ao Senhor, como o Senhor o tinha ordenado a Moisés.</item>
+<item>22. Mandou que se aproximasse o outro carneiro, o carneiro de empossamento, sobre cuja cabeça Aarão e seus filhos impuseram as mãos.</item>
+<item>23. Moisés o imolou, tomou seu sangue e o pôs na ponta da orelha direita de Aarão e nos polegares de sua mão direita e do seu pé direito.</item>
+<item>24. E mandou então que se aproximassem os filhos de Aarão: pôs-lhes o sangue na ponta da orelha direita, no polegar da mão direita e no hálux do pé direito; e derramou o resto do sangue em todo o redor do altar.</item>
+<item>25. Depois tomou a gordura, a cauda, toda a gordura que envolve as entranhas, a pele que recobre o fígado, os dois rins com sua gordura e a coxa direita.</item>
+<item>26. Tomou também da cesta de pães ázimos, colocada diante do Senhor, um bolo amassado sem fermento, um bolo amassado com óleo e uma bolacha, e os pôs sobre a gordura e a coxa direita.</item>
+<item>27. Meteu tudo isso nas mãos de Aarão e de seus filhos para agitá-los como oferta diante do Senhor.</item>
+<item>28. Tomou-os em seguida Moisés nas suas próprias mãos e os queimou sobre o altar, por cima do holocausto; este foi o sacrifício de empossamento, de agradável odor, consumado pelo fogo ao Senhor.</item>
+<item>29. Tomou também o peito do carneiro de empossamento e o agitou como oferta diante do Senhor a sua porção, como o Senhor lhe tinha ordenado.</item>
+<item>30. Tomou, finalmente, o óleo de unção e o sangue que estava sobre o altar e aspergiu sobre Aarão e suas vestes, seus filhos e suas vestes, e consagrou assim Aarão e seus filhos com suas vestes.</item>
+<item>31. Depois Moisés disse-lhes: “Cozei a carne à entrada da tenda de reunião; ali a comereis com o pão que está na cesta de empossamento, como vos ordenei quando disse: Aarão e seus filhos a comerão.</item>
+<item>32. O que sobrar da carne e do pão, queimá-lo-eis no fogo.</item>
+<item>33. Não saireis da entrada da tenda de reunião durante sete dias, até se cumprirem os dias de vosso empossamento, o qual durará sete dias.</item>
+<item>34. O que se fez hoje, prescreveu o Senhor que se faça novamente, em expiação por vós.</item>
+<item>35. Ficareis, pois, sete dias à entrada da tenda de reunião, dia e noite, e observareis as ordens do Senhor, para que não morrais. Esta é a ordem que recebi”.</item>
+<item>36. Aarão e seus filhos fizeram tudo o que o Senhor lhes tinha ordenado por Moisés.</item>
+ </string-array><string-array name="CapLv9">
+<item>Capítulo 9</item>
+<item>1. No oitavo dia, Moisés chamou Aarão e seus filhos com os anciãos de Israel.</item>
+<item>2. E disse a Aarão: “Toma um bezerro, em sacrifício pelo pecado, e também um carneiro para o holocausto, ambos sem defeito, e oferece-os ao Senhor.</item>
+<item>3. Dirás aos israelitas: tomai um bode, em sacrifício pelo pecado, um bezerro e um cordeiro de um ano, sem defeito, para o holocausto,</item>
+<item>4. um touro e um carneiro para o sacrifício pacífico; vós os imolareis ao Senhor com uma oblação amassada com óleo, porque o Senhor vos aparecerá hoje.”</item>
+<item>5. Eles trouxeram diante da tenda de reunião o que Moisés havia ordenado. Toda a assembléia se aproximou e ficou de pé diante do Senhor.</item>
+<item>6. Moisés disse então: “Eis o que ordena o Senhor: fazei-o, e a glória do Senhor vos aparecerá”.</item>
+<item>7. E disse a Aarão: “Aproxima-te do altar; oferece teu sacrifício pelo pecado, e teu holocausto, e faze a expiação por ti e pelo povo. Apresenta também a oferta do povo, e faze a expiação por ele como o Senhor o ordenou”.</item>
+<item>8. Aarão aproximou-se do altar e imolou o bezerro do sacrifício pelo pecado.</item>
+<item>9. Seus filhos apresentaram-lhe o sangue, no qual ele mergulhou o dedo e o pôs nos cornos do altar, derramando o resto ao pé do altar.</item>
+<item>10. Queimou sobre o altar a gordura, os rins, a pele que recobre o fígado da vítima pelo pecado, como o Senhor o tinha ordenado a Moisés;</item>
+<item>11. mas queimou fora do acampamento a carne e o couro.</item>
+<item>12. Imolou, em seguida, o holocausto. Seus filhos apresentaram-lhe o sangue, que ele derramou sobre o altar ao redor.</item>
+<item>13. Apresentaram-lhe o holocausto cortado em pedaços, com a cabeça, e ele os queimou no altar.</item>
+<item>14. Lavou as entranhas e as pernas, e as pernas, e as queimou no altar por cima do holocausto.</item>
+<item>15. Apresentou também a oferta do povo, e, tomando o bode do sacrifício pelo pecado do povo, degolou-o e o ofereceu em expiação como a primeira vítima.</item>
+<item>16. Ofereceu o holocausto e fez o sacrifício segundo o rito.</item>
+<item>17. Apresentou a oblação, e dela tomou um punhado que queimou no altar, além do holocausto da manhã.</item>
+<item>18. Imolou o touro e o carneiro em sacrifício pacífico pelo povo.</item>
+<item>19. Os filhos de Aarão apresentaram-lhe o sangue, que ele derramou sobre o altar ao redor, assim como as partes gordas do touro e do carneiro, a cauda, a gordura que envolve as entranhas, os rins e a pele que recobre o fígado.</item>
+<item>20. Puseram as gorduras sobre os peito, e Aarão queimou as gorduras no altar.</item>
+<item>21. Agitou, em seguida, como oferta diante do Senhor, os peitos e a coxa direita, como o tinha prescrito Moisés.</item>
+<item>22. Aarão levantou então as mãos para o povo, e o abençoou. Desceu após ter oferecido o sacrifício pelo pecado, o holocausto e o sacrifício pacífico.</item>
+<item>23. Moisés e Aarão entraram na tenda de reunião e, saindo, abençoaram o povo. E a glória do Senhor apareceu a todo o povo.</item>
+<item>24. Saiu um fogo de diante do Senhor que devorou no altar o holocausto e as gorduras. Vendo isso, todo o povo soltou gritos de júbilo e prostrou-se com a face por terra.</item>
+ </string-array><string-array name="CapLv10">
+<item>Capítulo 10</item>
+<item>1. Os filhos de Aarão, Nadab e Abiú, tomaram cada um o seu turíbulo, puseram neles fogo e incenso e ofereceram ao Senhor um fogo estranho, que não lhes tinha sido ordenado.</item>
+<item>2. Saiu, então, um fogo de diante do Senhor que os devorou, e morreram diante do Senhor.</item>
+<item>3. Moisés disse a Aarão: “Era isso o que o Senhor tinha anunciado quando disse: serei santificado naqueles que se aproximam de mim, e serei glorificado em presença de todo o povo”. Aarão calou-se.</item>
+<item>4. Moisés chamou Misael e Elisafon, filhos de Oziel, tio de Aarão, e disse-lhes: “Vinde e levai vossos irmãos para longe do santuário, fora do acampamento”.</item>
+<item>5. Eles vieram e levaram-nos com suas túnicas para fora do acampamento, como Moisés lhes dissera.</item>
+<item>6. Moisés disse a Aarão, a Eleazar e a Itamar: “Não descubrais as cabeças, nem rasgueis as vossas vestes; não suceda que morrais e que se levante a ira do Senhor contra toda a assembléia. Vossos irmãos e toda a casa de Israel chorem por causa do incêndio que o Senhor acendeu;</item>
+<item>7. vós, porém, não deixareis a entrada da tenda de reunião, para que não morrais, porque o óleo de unção do Senhor está sobre vós”. E obedeceram à palavra de Moisés.</item>
+<item>8. O Senhor disse a Aarão:</item>
+<item>9. “Não beberás vinho nem cerveja, tu e teus filhos, quando entrardes na tenda de reunião, para que não morrais. Esta é uma lei perpétua para vossos descendentes,</item>
+<item>10. a fim de que estejais sempre em condições de discernir o que é santo do que é profano, o puro do impuro,</item>
+<item>11. e de ensinar aos israelitas todas as leis que o Senhor lhes deu por Moisés.”</item>
+<item>12. Moisés disse a Aarão, e Eleazar e a Itamar, os dois filhos sobreviventes de Aarão: “Tomai a oblação que resta dos sacrifícios pelo fogo ao Senhor e comei-a sem fermento junto do altar, porque esta é uma coisa santíssima.</item>
+<item>13. Vós a comereis em um lugar santo, porquanto essa parte dos sacrifícios feitos pelo fogo ao Senhor é tua e de teus filhos, como me foi prescrito.</item>
+<item>14. Comereis, também, em lugar limpo, tu, teus filhos e tuas filhas, o peito que foi agitado e a coxa que foi separada. Isto é o que vos toca a ti e a teus filhos como parte dos sacrifícios pacíficos dos israelitas.</item>
+<item>15. Além das gorduras que deverão ser queimadas, trarão a coxa e o peito separados para agitá-los adiante do Senhor. Assim deve ser para ti e teus filhos em virtude de uma lei perpétua, assim como prescreveu o Senhor”.</item>
+<item>16. Moisés se informou acerca do bode imolado pelo pecado, mas eis que ele tinha sido já queimado. Irou-se, então, contra Eleazar e Itamar, os últimos filhos de Aarão:</item>
+<item>17. “Por que, disse ele, não comestes no lugar santo o sacrifício pelo pecado? Pois essa é uma coisa santíssima que o Senhor vos deu, a fim de que leveis a iniqüidade da assembléia e façais a expiação por ela diante dele.</item>
+<item>18. Já que o sangue da vítima não foi trazido para dentro do tabernáculo, vós devíeis tê-la comido em um lugar santo como ordenei.”</item>
+<item>19. Aarão disse-lhe: “Eles ofereceram hoje seu sacrifício pelo pecado e seu holocausto ao Senhor; mas, depois do que me aconteceu, se eu tivesse comido hoje a vítima pelo pecado, teria isso agradado ao Senhor?”</item>
+<item>20. Moisés, ouvindo essas palavras, deu-se por satisfeito.</item>
+ </string-array><string-array name="CapLv11">
+<item>Capítulo 11</item>
+<item>1. O senhor disse a Moisés e a Aarão: “Dize aos israelitas o seguinte:</item>
+<item>2. entre todos os animais da terra, eis o que podereis comer:</item>
+<item>3. podereis comer todo animal que tem a unha fendida e o casco dividido, e que rumina.</item>
+<item>4. Mas não comereis aqueles que só ruminam ou só têm a unha fendida. A estes, tê-los-eis por impuros: tal como o camelo, que rumina mas não tem o casco fendido.</item>
+<item>5. E como o coelho igualmente, que rumina mas não tem a unha fendida; tê-los-eis por impuros.</item>
+<item>6. E como a lebre também, que rumina, mas não tem a unha fendida; tê-la-eis por impura,</item>
+<item>7. E enfim, como o porco, que tem a unha fendida e o pé dividido, mas não rumina; tê-lo-eis por impuro.</item>
+<item>8. Não comereis da sua carne e não tocareis nos seus cadáveres: vós os tereis por impuros.</item>
+<item>9. Entre os animais que vivem na água, eis que podereis comer: podereis comer tudo o que tem barbatanas e escamas, nas águas, no mar e nos rios.</item>
+<item>10. Mas tereis em abominação todos os que não têm barbatanas nem escama, nos mares e nos rios, entre todos os animais que vivem nas águas e entre todos os seres vivos que nelas se encontram.</item>
+<item>11. A estes, tê-los-eis em abominação: não comereis de sua carne e tereis em abominação os seus cadáveres.</item>
+<item>12. Todos os que nas águas não têm barbatanas nem escamas, tê-los-eis em abominação.</item>
+<item>13. “Entre as aves, eis as que tereis abominação e de cuja carne não comereis, porque é uma abominação:</item>
+<item>14. a águia, o falcão e o abutre, o milhafre e toda variedade de falcões,</item>
+<item>15. toda espécie de corvo,</item>
+<item>16. a avestruz, a andorinha, a gaivota e toda espécie de gavião,</item>
+<item>17. o mocho, a coruja e o íbis,</item>
+<item>18. o cisne, o pelicano, o alcatraz e a cegonha,</item>
+<item>19 toda variedade de garça, a poupa e o morcego.</item>
+<item>20. Todo volátil que anda sobre quatro pés vos será uma abominação.</item>
+<item>21. Todavia, entre os insetos voláteis que andam sobre quatro pés podereis comer aqueles que, além de seus quatro pés, têm pernas para saltar em cima da terra.</item>
+<item>22. Eis, pois, os que podereis comer: toda espécie de gafanhotos, assim como as variedades de solam, de hargol e de hagab.</item>
+<item>23. Qualquer outro volátil que tenha quatro pés vos será uma abominação.</item>
+<item>24. Tornar-vos-eis imundos se os tocardes: se alguém tocar os seus cadáveres será impuro até a tarde,</item>
+<item>25. e aquele que levar os seus cadáveres lavará suas vestes e será impuro até a tarde.</item>
+<item>26. Tereis por impuro todo animal que tenha a unha fendida, mas que não tem o pé dividido e não rumina; se alguém o tocar será imundo.</item>
+<item>27. Tereis também por impuros todos os quadrúpedes que andam nas plantas dos pés; se alguém tocar seus cadáveres será impuro até a tarde;</item>
+<item>28. e aquele que levar os seus cadáveres lavará suas vestes e será impuro até a tarde. Tereis esses animais por impuros.</item>
+<item>29. Entre os animais que se movem em cima da terra, eis os que tereis por impuro: a toupeira, o rato e toda variedade de lagartos,</item>
+<item>30. o musaranho, a rã, a tartaruga, a lagartixa e o camaleão.</item>
+<item>31. Tais são os répteis que tereis por impuros, quem os tocar mortos será impuro até a tarde.</item>
+<item>32. Todo objeto o qual caírem os seus cadáveres será impuro: vasos de madeira, vestes, peles, sacos e qualquer outro utensílio. Por-se-á esse objeto na água e ele será imundo até a tarde; depois disso será puro.</item>
+<item>33. Se cair uma parte desses cadáveres num vaso de terra, tudo o que se encontrar nele será impuro, e quebrareis esse vaso.</item>
+<item>34. Todo alimento preparado com água (desse vaso) será impuro; toda bebida, seja qual for o recipiente que a contenha, será impura.</item>
+<item>35. Todo objeto sobre o qual cair alguma coisa dos seus cadáveres será impuro; o forno e o fogão serão destruídos: serão impuros, e vós os tereis como tais.</item>
+<item>36. Contudo, as fontes e as cisternas em que há depósito de água ficarão puras, mas aquele que tocar os cadáveres será impuro.</item>
+<item>37. Se cair alguma coisa dos seus cadáveres sobre uma semente qualquer, esta ficará pura.</item>
+<item>38. Mas se se derramar água sobre a semente e alguma coisa dos seus cadáveres cair sobre ela, tê-la-eis por impura.</item>
+<item>39. Se morrer algum animal que vos é lícito comer, aquele que tocar o seu cadáver será impuro até a tarde.</item>
+<item>40. Quem comer de sua carne lavará suas vestes e será impuro até a tarde; e aquele que levar esse cadáver lavará suas vestes e ficará impuro até a tarde.</item>
+<item>41. Todo animal que se arrasta sobre a terra vos será uma coisa abominável: não se comerá dele.</item>
+<item>42. Não comereis animal algum que se arrasta sobre a terra, tanto aqueles que se arrastam sobre o ventre como aqueles que andam sobre quatro ou mais pés: tê-los-eis em abominação.</item>
+<item>43. Não vos torneis abomináveis, comendo um desses répteis, e não vos façais impuros por eles, porque vos tornaríeis imundos.</item>
+<item>44. Pois eu sou o Senhor, vosso Deus. Vós vos santificareis e sereis santos, porque eu sou santo. Não vos contaminareis com esses animais que se arrastam sobre a terra,</item>
+<item>45. porque eu sou o Senhor que vos tirou da terra do Egito para ser o vosso Deus. Sereis santos porque eu sou santo.</item>
+<item>46. Tal é a lei relativa aos quadrúpedes, às aves, a todos os seres vivos que se movem na águas e a todos aqueles que se arrastam sobre a terra.</item>
+<item>47. Essa lei vos fará discernir o que é puro do que é impuro, o animal que pode ser comido do que não pode.”</item>
+ </string-array><string-array name="CapLv12">
+<item>Capítulo 12</item>
+<item>1. O Senhor disse a Moisés: “Dize aos israelitas o seguinte:</item>
+<item>2. quando uma mulher der à luz um menino será impura durante sete dias, como nos dias de sua menstruação.</item>
+<item>3. No oitavo dia far-se-á a circuncisão do menino.</item>
+<item>4. Ela ficará ainda trinta e três dias no sangue de sua purificação; não tocará coisa alguma santa, e não irá ao santuário até que se acabem os dias de sua purificação.</item>
+<item>5. Se ela der á luz uma menina, será impura durante duas semanas, como nos dias de sua menstruação, e ficará sessenta e seis dias no sangue de sua purificação.</item>
+<item>6. Cumpridos esses dias, por um filho ou por uma filha, apresentará ao sacerdote, à entrada da tenda de reunião, um cordeiro de um ano em holocausto, e um pombinho ou uma rola em sacrifícios pelo pecado.</item>
+<item>7. O sacerdote os oferecerá ao Senhor, e fará a expiação por ela, que será purificada do fluxo de seu sangue. Tal é a lei relativa à mulher que dá à luz um menino ou uma menina.</item>
+<item>8. Se as suas posses não lhe permitirem trazer um cordeiro, tomará duas rolas ou dois pombinhos, uma para o holocausto e outro para o sacrifício pelo pecado. O sacerdote fará por ela a expiação, e será purificada”.</item>
+ </string-array><string-array name="CapLv13">
+<item>Capítulo 13</item>
+<item>1. O Senhor disse a Moisés e a Aarão:</item>
+<item>2. “Quando um homem tiver um tumor, uma inflamação ou uma mancha branca na pele de seu corpo, e esta se tornar em sua pele uma chaga de lepra, ele será levado a Aarão, o sacerdote, ou a um dos seus filhos sacerdotes.</item>
+<item>3. O sacerdote examinará o mal que houver na pele do corpo: se o cabelo se tornou branco naquele lugar, e a chaga parecer mais funda que a pele, será uma chaga de lepra. O sacerdote verificará o fato e declarará impuro o homem.</item>
+<item>4. Se houver na pele de seu corpo uma mancha branca que não parecer mais funda que a pele sã, e o cabelo não se tiver tornado branco, o sacerdote isolará o doente durante sete dias.</item>
+<item>5. No sétimo dia examinará: se a chaga parecer não ter progredido e não se tiver estendido pela pele, isolá-lo-á uma segunda vez durante sete dias.</item>
+<item>6. No sétimo dia o sacerdote o examinará novamente: se a parte afetada perdeu a sua cor e não se tiver estendido por sobre a pele, declará-lo-á puro; é dartro. O homem lavará suas vestes e será puro.</item>
+<item>7. Mas se o dartro se tiver estendido por sobre a pele, depois de se ter mostrado ao sacerdote para ser declarado puro, se lhe mostrará uma segunda vez.</item>
+<item>8. Se o sacerdote verificar a extensão do dartro por sobre a pele, declará-lo-á impuro: é lepra.</item>
+<item>9. “ Quando um homem for atingido pela lepra, será conduzido ao sacerdote, que o examinará.</item>
+<item>10. Se houver na sua pele um tumor branco, e este tiver branqueado o cabelo, e aparecer a carne viva no tumor,</item>
+<item>11. é lepra inveterada na pele de seu corpo; o sacerdote o declarará impuro; não o encerrará, porque é imundo.</item>
+<item>12. Se a chaga se estendeu por toda a pele do doente, da cabeça aos pés, o sacerdote que o examinar, verificando, segundo o que viu,</item>
+<item>13. que a lepra cobre toda a pele, o declarará puro. Como se tornou completamente branco, é puro.</item>
+<item>14. Mas no dia em que se perceber nele a carne viva, será impuro;</item>
+<item>15. o sacerdote, vendo a carne viva, declará-lo-á impuro; a carne viva é impura; é a lepra.</item>
+<item>16. Se a carne viva mudar e ficar de novo branca, o homem irá ao sacerdote, que o examinará;</item>
+<item>17. se a chaga se tornou verdadeiramente branca, o sacerdote declará-lo-á puro: e ele o é.</item>
+<item>18. Quando um homem tiver tido na pele de seu corpo uma úlcera que foi curada,</item>
+<item>19. e no lugar da úlcera aparecer um tumor branco ou uma mancha de um branco-avermelhado, esse homem se apresentará ao sacerdote para ser examinado.</item>
+<item>20. Se a mancha parecer mais funda que a pele, e o cabelo se tiver tornado branco, o sacerdote declará-lo-á impuro: é uma chaga de lepra que nasceu na úlcera.</item>
+<item>21. Mas, se o sacerdote verificar que não há cabelo branco na mancha, e ela não parecer mais funda que a pele, e se tiver tornado de uma cor pálida, isolará esse homem durante sete dias.</item>
+<item>22. Se a mancha se estender por sobre a pele, o sacerdote declarará o homem impuro: é uma chaga de lepra.</item>
+<item>23. Mas, se a mancha ficou no seu lugar sem se estender, é a cicatriz da úlcera; o sacerdote declará-lo-á puro.</item>
+<item>24. Quando um homem tiver na pele uma queimadura de fogo, e a cicatriz dessa queimadura apresentar uma mancha branca ou de um branco-avermelhado, o sacerdote o examinará.</item>
+<item>25. Se o cabelo se tornou branco na mancha, e esta parecer mais funda que a pele, é a lepra que nasceu na queimadura; o sacerdote declará-lo-á impuro: é uma chaga de lepra.</item>
+<item>26. Se o sacerdote verificar que não há cabelo branco na mancha, e que ela não parece mais funda que a pele, e se tiver tornado de uma cor pálida, isolará esse homem durante sete dias.</item>
+<item>27. Depois disso o examinará. Se a mancha tiver se estendido por sobre a pele, o sacerdote declará-lo-á impuro; é uma chaga de lepra.</item>
+<item>28. Mas, se a mancha ficou no mesmo lugar sem se estender por sobre a pele, e se tiver tornado de uma cor pálida, é o tumor da queimadura. O sacerdote declará-lo-á puro, pois é a cicatriz da queimadura.</item>
+<item>29. Quando um homem ou uma mulher tiver uma chaga na cabeça ou no queixo, o sacerdote o examinará.</item>
+<item>30. Se ela parecer mais funda que a pele, e nela houver os cabelos finos e amarelados, o sacerdote declarará impuro o enfermo: esta é a tinha, a lepra da cabeça ou do queixo</item>
+<item>31. Se o sacerdote averiguar que a chaga da tinha não parece mais funda que a pele, e nela não houver cabelos negros, o sacerdote isolará durante sete dias aquele que tem a chaga da tinha.</item>
+<item>32. No sétimo dia o examinará. Se a tinha não se espalhou, nela não houver cabelo amarelado algum, e a chaga não parecer mais funda do que a pele,</item>
+<item>33. o enfermo cortará a barba, exceto no lugar da chaga, e o sacerdote o isolará de novo durante sete dias.</item>
+<item>34. No sétimo dia o examinará. Se a tinha não se espalhou por sobre a pele, e a chaga não parecer mais funda que a pele, o sacerdote declará-lo-á puro; ele levará suas vestes e será puro.</item>
+<item>35. Se, entretanto, depois que o tiver declarado puro, a tinha se estender por sobre a pele, o sacerdote o examinará.</item>
+<item>36. Se a tinha se tiver espalhado na pele, o sacerdote não procurará o cabelo amarelo, porque o homem é impuro</item>
+<item>37. Se a tinha lhe parece estacionária, e nela houver crescido cabelos negros, ele sarou; o homem está puro e o sacerdote declará-lo-á como tal.</item>
+<item>38. Quando o homem ou mulher tiver na pele manchas brancas, o sacerdote o examinará.</item>
+<item>39. Se essas manchas na pele são de um branco pálido, é uma mancha branca superficial: ele é puro.</item>
+<item>40. Quando um homem perder os seus cabelos, ele será simplesmente calvo, mas será puro.</item>
+<item>41. Se lhe caírem os cabelos da fronte, ele terá a fronte calva, mas será puro.</item>
+<item>42. Mas se na parte calva, posterior ou dianteira, se encontrar uma chaga de um branco-avermelhado, é a lepra que se declarou na parte calva posterior ou dianteira.</item>
+<item>43. O sacerdote o examinará. Se o tumor da chaga for de um branco-avermelhado na parte calva posterior ou dianteira, tendo o aspecto da lepra da pele do corpo, esse homem é leproso,</item>
+<item>44. é impuro; a sua lepra está na cabeça.</item>
+<item>45. Todo homem atingido pela lepra terá suas vestes rasgadas e a cabeça descoberta. Cobrirá a barba e clamará: Impuro! Impuro!</item>
+<item>46. Enquanto durar o seu mal, ele será impuro. É impuro; habitará só, e a sua habitação será fora do acampamento.”</item>
+<item>47. “Quando a lepra aparecer numa veste de lã ou de linho,</item>
+<item>48. num tecido de tela ou de trama, quer seja de lã quer de linho, numa pele ou num objeto qualquer de pele,</item>
+<item>49. se a mancha na veste, na pele, no tecido de tela ou de trama ou no objeto de pele, for esverdeada ou avermelhada, é uma lepra: será mostrada ao sacerdote.</item>
+<item>50. O sacerdote examinará a mancha e isolará durante sete dias o objeto atingido pelo mal.</item>
+<item>51. No sétimo dia examinará a chaga. Se ela se tiver espalhado pela veste, pelo tecido de tela ou de trama, pela pele ou pelo objeto de pele, seja qual for, é uma lepra roedora; o objeto é impuro.</item>
+<item>52. Queimará a veste, o tecido de tela ou de trama de linho ou de lã, o objeto de pele, seja qual for, em que se encontre a mancha, porque é uma lepra roedora; o objeto será queimado no fogo.</item>
+<item>53. Mas se o sacerdote verificar que mancha não se espalhou pela veste, pelo tecido de tela ou de trama, ou pelo objeto de pele,</item>
+<item>54. mandará lavar o objeto afetado e o isolará uma segunda vez durante sete dias.</item>
+<item>55. Em seguida examinará a mancha, depois que ela tiver sido lavada. Se não mudou de aspecto nem se espalhou, o objeto é impuro. Tu o queimarás no fogo: a mancha roeu o objeto de um lado a outro.</item>
+<item>56. Mas se o sacerdote verificar que a mancha lavada tomou uma cor pálida, arrancá-la-á da veste, da pele ou do tecido de tela ou de trama.</item>
+<item>57. Se ela voltar novamente à veste, ao tecido de tela ou de trama ou ao objeto de pele, é uma erupção de lepra. Tu queimarás no fogo o objeto atingido pela mancha.</item>
+<item>58. Mas a veste, o tecido de tela ou de trama, o objeto de pele, seja o que for, que tiveres lavado e do qual a mancha tiver desaparecido, será lavado uma segunda vez e será puro.</item>
+<item>59. Tal é a lei relativa à mancha de lepra que atacar as vestes de lã ou de linho, os tecidos de tela ou de trama, ou qualquer objeto de pele; é segundo ela que se declararão esses objetos puros ou impuros.”</item>
+ </string-array><string-array name="CapLv14">
+<item>Capítulo 14</item>
+<item>1. O senhor disse a Moisés:</item>
+<item>2. “Eis a lei relativa ao leproso, para o dia de sua purificação.</item>
+<item>3. Será conduzido ao sacerdote, que sairá do acampamento para examiná-lo. Se a chaga da lepra estiver sã,</item>
+<item>4. o sacerdote ordenará que se tomem, para o que se vai purificar, duas aves vivas e puras, pau de cedro, carmesim e hissopo.</item>
+<item>5. O sacerdote imolará um dos pássaros sobre um vaso de terra cheio de água de nascente.</item>
+<item>6. Tomará em seguida o pássaro vivo, o pau de cedro, o carmesim e o hissopo e os mergulhará, com o pássaro vivo, no sangue do pássaro imolado sobre a água de nascente.</item>
+<item>7. Aspergirá sete vezes aquele que se há de purificar da lepra, e o declarará puro, soltando no campo o pássaro vivo.</item>
+<item>8. Aquele que se há de purificar lavará suas vestes, cortará todo o cabelo de sua barba, banhar-se-á, e será puro. Poderá, em seguida, reintegrar-se no acampamento, mas ficará sete dias fora de sua tenda.</item>
+<item>9. No sétimo dia todos os cabelos da cabeça, a barba e as sobrancelhas, enfim, todo o cabelo; lavará suas vestes, banhará o corpo na água, e será puro.</item>
+<item>10. No oitavo dia tomará dois cordeiros sem defeito, uma ovelha de um ano sem defeito, três décimos de efá de flor de farinha amassada com óleo, em oblação, e uma pequena medida de óleo.</item>
+<item>11. O sacerdote que fez a purificação apresentará o homem que há de ser purificado e todas essas coisas ao Senhor, à entrada da tenda de reunião.</item>
+<item>12. Tomará, em seguida, um dos cordeiros e o oferecerá em sacrifício de reparação com a medida de óleo, e os agitará como oferta diante do Senhor.</item>
+<item>13. Degolará o cordeiro no lugar onde se imolam as vítimas pelo pecado e o holocausto, no lugar santo, porque a vítima do sacrifício de reparação, assim como a do sacrifício pelo pecado, pertencem ao sacerdote: esta é uma coisa santíssima.</item>
+<item>14. O sacerdote tomará do sangue do sacrifício de reparação, e pô-lo-á na ponta da orelha direita do homem que se há de purificar, bem como no polegar de sua mão direita e no hálux de seu pé direito.</item>
+<item>15. O sacerdote tomará a medida de óleo e derramará um pouco na sua mão esquerda;</item>
+<item>16. em seguida, molhando o dedo de sua mão direita no óleo que está na mão esquerda, fará sete vezes com o dedo uma aspersão de óleo diante do Senhor.</item>
+<item>17. Do óleo que sobrar na mão esquerda, o sacerdote porá na ponta da orelha direita do homem que se purifica, bem como no polegar de sua mão direita e no hálux de seu pé direito, no mesmo lugar onde pôs o sangue da vítima de reparação.</item>
+<item>18. O que lhe restar ainda de óleo na mão, derramá-lo-á sobre a cabeça do homem que se purifica, e fará por ele a expiação diante do Senhor.</item>
+<item>19. Oferecerá em seguida, o sacrifício pelo pecado e fará a expiação por aquele que se purifica de sua impureza.</item>
+<item>20. Enfim, depois de ter degolado a vítima do holocausto, o sacerdote a oferecerá sobre o altar com a oblação, e fará a expiação por esse homem, que será puro.</item>
+<item>21. Ser for pobre, e suas posses não lhe permitirem trazer tanto, tomará um só cordeiro em sacrifício de reparação, como oferta agitada, para fazer a expiação em seu favor: tomará um décimo de efá de flor de farinha amassada com óleo em oblação, e uma medida de óleo.</item>
+<item>22. Tomará também, de acordo com suas posses, duas rolas ou dois pombinhos, um em sacrifício pelo pecado e outro para o holocausto.</item>
+<item>23. No oitavo dia os trará pela sua purificação ao sacerdote, à entrada da tenda de reunião, diante do Senhor.</item>
+<item>24. O sacerdote tomará o cordeiro do sacrifício de reparação, e a medida de óleo, e os agitará diante do Senhor.</item>
+<item>25. Imolará o cordeiro do sacrifício de reparação, e tomará do sangue do sacrifício para pô-lo na ponta da orelha direita daquele que se purifica, bem como no polegar de sua mão direita e no hálux de seu pé direito.</item>
+<item>26. Derramará então óleo na palma de sua mão esquerda.</item>
+<item>27. com o dedo da direita, fará sete vezes a aspersão do óleo que está em sua mão esquerda diante do Senhor.</item>
+<item>28. Porá o óleo que está na ponta da orelha direita do homem que se purifica, e no polegar de sua mão direita e no hálux de seu pé direito, no mesmo lugar onde pôs o sangue da vítima de reparação.</item>
+<item>29. O óleo que sobrar em sua mão derramá-lo-á sobre a cabeça daquele que se purifica, a fim de fazer a expiação em seu favor diante do Senhor.</item>
+<item>30. Oferecerá uma das rolas ou um dos pombinhos, conforme suas posses lhe permitirem, um em sacrifício pelo pecado</item>
+<item>31. e outro em holocausto com a oblação. É assim que o sacerdote fará a expiação diante do Senhor pelo homem que se purifica.</item>
+<item>32. Esta é a lei relativa à purificação daquele que tem uma chaga de lepra, e cujas posses são limitadas.”</item>
+<item>33. O Senhor disse a Moisés e a Aarão:</item>
+<item>34. “Quando estiverdes na terra de Canaã, que eu vos darei em possessão, se eu ferir de lepra uma casa da terra de vossa possessão,</item>
+<item>35. o dono da casa irá e informará ao sacerdote, dizendo: parece-me que há como que uma mancha de lepra na minha casa.</item>
+<item>36. O sacerdote, antes de entrar para examinar a mancha, mandará que tirem para fora tudo o que há na casa, a fim de que não contamine nada do que houver nela. E só então entrará para visitar a casa.</item>
+<item>37. Examinará a mancha, e se a mancha que está nas paredes da casa estiver em cavidades esverdeadas ou avermelhadas, parecendo profundas na parede,</item>
+<item>38. o sacerdote sairá da casa e, tendo passado a soleira da porta, fecha-lá-á por sete dias.</item>
+<item>39. E, voltando no sétimo dia, se notar que a mancha se estendeu pelas paredes,</item>
+<item>40. mandará arrancar as pedras atingidas pela mancha e jogá-las fora da cidade em um lugar impuro.</item>
+<item>41. Mandará raspar todo o interior da casa, e a poeira que houverem raspado será jogada fora da cidade em um lugar impuro.</item>
+<item>42. Novas pedras serão colocadas no lugar das primeiras e com nova argamassa será rebocada a casa.</item>
+<item>43. Se a mancha aparecer de novo na casa, depois que tiverem sido arrancadas as pedras, raspadas e rebocadas as paredes, o sacerdote voltará.</item>
+<item>44. Se ele verificar que a mancha cresceu, é uma lepra maligna, e a casa é impura.</item>
+<item>45. Derrubar-se-ão a casa, as pedras, a madeira e toda a argamassa, que se levarão para fora da cidade a um lugar impuro.</item>
+<item>46. Quem tiver entrado na casa durante o tempo em que ela deveria estar fechada, será impuro até a tarde,</item>
+<item>47. e o que nela tiver dormindo lavará suas vestes. Também aquele que nela tiver comido lavará suas vestes.</item>
+<item>48. Mas, se o sacerdote, ao voltar, verificar que a mancha não se estendeu depois que a casa foi rebocada, declarará a casa pura, porque o mal está curado.</item>
+<item>49. Para purificar a casa, tomará duas aves, pau de cedro, carmesim e hissopo:</item>
+<item>50. imolará uma das aves sobre um vaso de terra contendo água de nascente.</item>
+<item>51. Tomará o pau de cedro, o hissopo, o carmesim e a ave viva e os molhará no sangue do pássaro imolado e na água de nascente, e aspergirá a casa sete vezes.</item>
+<item>52. Purificará a casa com o sangue do pássaro, a água de nascente, o pássaro vivo, o pau de cedro, o hissopo e o carmesim.</item>
+<item>53. Depois soltará o pássaro vivo fora da cidade, no campo. É assim que ele fará a expiação pela casa; e ela será pura.”</item>
+<item>54. Tal é a lei relativa a toda espécie de lepra e de tinha,</item>
+<item>55. assim como à lepra das vestes e das casas,</item>
+<item>56. aos tumores, aos dartros e às manchas.</item>
+<item>57. Ela indica quando uma coisa é impura e quando é pura. Tal é a lei sobre a lepra.</item>
+ </string-array><string-array name="CapLv15">
+<item>Capítulo 15</item>
+<item>1. O Senhor disse a Moisés e a Aarão:</item>
+<item>2. “Dizei aos israelitas o seguinte:</item>
+<item>3. todo homem que tem gonorréia será por isso mesmo impuro. A impureza está no fluxo; quer sua carne deixe correr o fluxo quer o retenha, há impureza.</item>
+<item>4. Qualquer cama que se deitar aquele que tem gonorréia, bem como qualquer em cadeira que ele se sentar, será impura.</item>
+<item>5. Quem tocar sua cama lavará suas vestes, banhar-se-á em água, e ficará impuro até a tarde.</item>
+<item>6. Quem se assentar na cadeira onde esteve um homem atacado de gonorréia lavará suas vestes, banhar-se-á em água, e ficará impuro até a tarde.</item>
+<item>7. Aquele que tocar o seu corpo lavará suas vestes, banhar-se-á em água, e ficará impuro até a tarde.</item>
+<item>8. Se um homem que tiver gonorréia cuspir sobre um homem puro, este lavará suas vestes, banhar-se-á em água, e ficará impuro até a tarde.</item>
+<item>9. Qualquer sela que tiver montado aquele que tem gonorréia será impura.</item>
+<item>10. Todo aquele que tocar em alguma coisa que tenha estado debaixo dele, ficará impuro até a tarde; quem transportar alguma dessas coisas lavará suas vestes, banhar-se-á em água, e ficará impuro até a tarde.</item>
+<item>11. Aquele que for tocado pelo homem que tiver gonorréia, antes de ter este lavado as mãos em água, lavará suas veste, banhar-se-á em água, e ficará impuro até a tarde.</item>
+<item>12. Todo recipiente de terra tocado por esse homem será quebrado, e todo vaso de madeira será lavado com água.</item>
+<item>13. Quando se tiver purificado aquele que tem gonorréia, contará sete dias para sua purificação; lavará suas vestes, banhar-se-á em água corrente e será puro.</item>
+<item>14. No oitavo dia tomará duas rolas ou dois pombinhos e se apresentará diante do Senhor à entrada da tenda de reunião. Dá-los-á ao sacerdote,</item>
+<item>15. que os oferecerá, um em sacrifício pelo pecado e outro em holocausto, e fará a expiação ao Senhor em seu favor, por causa de seu fluxo.</item>
+<item>16. O homem que tiver um derramamento seminal lavará em água todo o seu corpo, mas ficará até a tarde.</item>
+<item>17. Toda veste e toda pele sobre as quais cair o sêmen serão lavadas com água, e ficarão impuras até a tarde.</item>
+<item>18. Se uma mulher dormiu com esse homem, ela se lavará na mesma água que ele, e serão impuros até a tarde.”</item>
+<item>19. “Quando uma mulher tiver seu fluxo de sangue, ficará impura durante sete dias: qualquer um que a tocar será impuro até a tarde.</item>
+<item>20. Todo móvel que ela se deitar durante sua impureza será impuro, e igualmente aquele em que ela se assentar.</item>
+<item>21. Quem tocar sua cama lavará suas vestes, banhar-se-á em água, e ficará impuro até a tarde.</item>
+<item>22. Aquele que tocar em um móvel onde ela se tiver assentado lavará suas vestes, banhar-se-á em água, e ficará impuro até a tarde.</item>
+<item>23. Aquele que tocar num objeto encontrado na sua cama ou no móvel onde ela se assentou será impuro até a tarde.</item>
+<item>24. Se alguém dormir com ela, e for tocado por sua impureza, será impuro durante sete dias, e toda cama na qual se deitar será impura.</item>
+<item>25. Quando uma mulher tiver um fluxo de sangue durante vários dias, fora do tempo normal, ou se o fluxo se prolongar além do tempo de sua impureza, ela será impura durante todo o tempo desse fluxo, como se estivesse no tempo de sua impureza.</item>
+<item>26. Toda cama em que ela se deitar durante todo o tempo de seu fluxo, ser-lhe-á como a cama em que dorme durante sua impureza; todo móvel em que ela se sentar será impuro como durante sua impureza.</item>
+<item>27. Qualquer um que os tocar será impuro; lavará suas vestes, banhar-se-á em água e ficará impuro até a tarde.</item>
+<item>28. Quando ela estiver curada de seu fluxo, contará sete dias, e depois será pura.</item>
+<item>29. No oitavo dia tomará duas rolas ou dois pombinhos e os trará ao sacerdote à entrada da tenda de reunião.</item>
+<item>30. O sacerdote oferecerá um deles em sacrifício pelo pecado, o outro em holocausto, e fará em seu favor a expiação diante do Senhor, por causa do fluxo de sua impureza.</item>
+<item>31. É assim que ajudareis os israelitas a se purificarem de suas imundícies, para que não morram por ter contaminado o meu tabernáculo que está no meio deles.”</item>
+<item>32. Esta é a lei relativa ao homem que tem gonorréia ou que é manchado por um fluxo seminal,</item>
+<item>33. e relativa à mulher no tempo de sua menstruação, ou toda pessoa, seja homem ou mulher, atingida por um fluxo, e relativa ao homem que dormir com uma mulher impura.</item>
+ </string-array><string-array name="CapLv16">
+<item>Capítulo 16</item>
+<item>1. O Senhor falou a Moisés, depois da morte dos dois filhos de Aarão, que foram mortos por se terem aproximado do Senhor.</item>
+<item>2. O Senhor disse-lhe: “Recomenda a teu irmão Aarão que nunca entre no santuário, além do véu, diante do propiciatório que recobre a arca, para que não morra, porque apareço na nuvem por cima do propiciatório.</item>
+<item>3. Eis como Aarão entrará no santuário: tomará um novilho para o sacrifício pelo pecado e um carneiro para o holocausto.</item>
+<item>4. Revestir-se-á da túnica sagrada de linho, levará sobre o corpo um calção de linho, cingir-se-á dum cinto de linho e porá na cabeça um turbante de linho. Estas são as vestes sagradas, que ele só vestirá depois de se ter lavado.</item>
+<item>5. Receberá da assembléia dos israelitas dois bodes destinados ao sacrifício pelo pecado e um carneiro para o holocausto.</item>
+<item>6. Aarão oferecerá por si mesmo o touro em sacrifício pelo pecado, e fará a expiação por si mesmo e pela sua casa.</item>
+<item>7. Tomará os dois bodes e os colocará diante do Senhor, à entrada da tenda de reunião.</item>
+<item>8. Deitará sortes os dois bodes, uma para o Senhor, e outra para Azazel.</item>
+<item>9. Oferecerá o bode sobre o qual caiu a sorte para o Senhor e oferecê-lo-á em sacrifício pelo pecado.</item>
+<item>10. Quanto ao bode sobre o qual caiu a sorte para Azazel, será apresentado vivo ao Senhor, para que se faça a expiação sobre ele, a fim de enviá-lo a Azazel, no deserto.</item>
+<item>11. Aarão oferecerá o touro pelo seu pecado, e fará a expiação por si mesmo e pela sua casa. Degolará o touro destinado ao sacrifício pelo pecado e,</item>
+<item>12. tomando o turíbulo, que ele terá enchido de brasas do altar diante do Senhor, bem como dois punhados de perfume aromático em pó, entrará com tudo para dentro do véu.</item>
+<item>13. Porá o incenso no fogo diante do Senhor, para que a nuvem do perfume cubra o propiciatório da arca, e Aarão não morra.</item>
+<item>14. Tomará o sangue do touro e o aspergirá com dedo sobre o propiciatório, pela frente, e depois aspergirá com o dedo sete vezes de fronte do propiciatório.</item>
+<item>15. Imolará, enfim, o bode do sacrifício pelo pecado do povo, e levará seu sangue para outro lado do véu. Fará com esse sangue como fez com o sangue do touro, aspergindo o propiciatório e a frente do propiciatório.</item>
+<item>16. É assim que fará a expiação pelo santuário, por causa das impurezas dos israelitas e de suas transgressões, e de todos os seus pecados. Da mesma forma fará pela tenda de reunião, que está com eles no meio de suas imundícies.</item>
+<item>17. Ninguém esteja na tenda de reunião quando Aarão entrar para fazer a expiação no santuário até que saia. Fará assim a expiação por si mesmo, pela sua família e por toda a assembléia de Israel.</item>
+<item>18. Quando tiver sado, irá para o altar que está diante do Senhor e fará a expiação por esse altar: tomará o sangue do touro e do bode e o porá nos cornos do altar em toda a volta.</item>
+<item>19. Aspergirá com o dedo sete vezes o altar, para purificá-lo e santificá-lo por causa das imundícies dos israelitas.</item>
+<item>20. Havendo terminado a expiação do santuário, da tenda de reunião e do altar, Aarão trará o bode vivo.</item>
+<item>21. Imporá as duas mãos sobre a sua cabeça, e confessará sobre ele todas as iniqüidades dos israelitas, todas as suas desobediências, todos os seus pecados. Pô-los-á sobre a cabeça do bode e o enviará ao deserto pelas mãos de um homem encarregado disso.</item>
+<item>22. O bode levará, pois, sobre si, todas as iniqüidades deles para uma terra selvagem. Quando o bode tiver sido mandado para o deserto,</item>
+<item>23. Aarão voltará para a tenda de reunião, tirará as vestes de linho que ele pôs à sua entrada no santuário, e as deporá ali.</item>
+<item>24. Lavará o seu corpo no lugar santo, retomará depois suas vestes e sairá para imolar o seu holocausto e o povo, fazendo a expiação por ele e pelo povo.</item>
+<item>25. Queimará no altar a gordura do sacrifício pelo pecado.</item>
+<item>26. O homem que tiver conduzido o bode a Azazel no deserto, lavará suas vestes e banhar-se-á. Depois disso poderá voltar ao acampamento.</item>
+<item>27. “Serão levados para fora do acampamento o touro e o bode oferecidos em sacrifício pelo pecado, cujo sangue terá sido levado ao santuário para aí fazer-se a expiação; queimar-se-ão no fogo o seu couro, a sua carne e os seus excrementos.</item>
+<item>28. Aquele que os tiver queimado lavará as suas vestes, banhar-se-á e depois disso poderá voltar ao acampamento.</item>
+<item>29. Esta será para vós uma lei perpétua: no sétimo mês, no décimo dia do mês, jejuareis e não fareis trabalho algum, tanto o nativo como o estrangeiro que habita nomeio de vós,</item>
+<item>30. porque nesse dia se fará a expiação por vós, para que vos purifiqueis e sejais livres de todos os vossos pecados diante do Senhor.</item>
+<item>31. Será um sábado, um dia de descanso para vós, durante o qual jejuareis. Esta é uma instituição perpétua.</item>
+<item>32. A expiação será feita pelo sacerdote que foi ungido e empossado para exercer o sacerdócio em lugar de seu pai. Revestirá as vestes de linho, as vestes sagradas,</item>
+<item>33. e fará a expiação pelo santuário sagrado, pela tenda de reunião, pelo altar, pelos sacerdotes e por toda a assembléia.</item>
+<item>34. Esta será para vs uma instituição perpétua: uma vez por ano far-se-á a expiação de todos os pecados dos israelitas.” Aarão fez como o Senhor o tinha ordenado a Moisés.</item>
+ </string-array><string-array name="CapLv17">
+<item>Capítulo 17</item>
+<item>1. O Senhor disse a Moisés:</item>
+<item>2. “Dize a Aarão, a seus filhos e a todos os israelitas o seguinte: eis as ordens do Senhor:</item>
+<item>3. Todo israelita que imolar um boi, uma ovelha ou uma cabra, no acampamento ou fora dele,</item>
+<item>4. sem apresentá-lo à entrada da tenda de reunião para oferecê-lo ao Senhor diante do seu tabernáculo, será réu do sangue oferecido. Esse homem derramou sangue, e será cortado do meio de seu povo.</item>
+<item>5. Por isso os israelitas, em lugar de ofereceram os seus sacrifícios no campo, apresentarão as vítimas ao sacerdote, diante do Senhor, à entrada da tenda de reunião, e as oferecerão ao Senhor em sacrifício pacífico.</item>
+<item>6. O sacerdote derramará o seu sangue sobre o altar do Senhor, à entrada da tenda de reunião, e queimará a gordura em odor agradável ao Senhor.</item>
+<item>7. Nunca mais oferecerão os seus sacrifícios aos sátiros, com os quais se prostituem. Esta será para eles uma lei perpétua de geração em geração.</item>
+<item>8. Dir-lhes-ás: todo israelita ou todo estrangeiro que habita no meio deles, e que oferecer um holocausto ou outro sacrifício,</item>
+<item>9. sem levar a vítima à entrada da tenda de reunião para sacrificá-la ao Senhor, será cortado do meio de seu povo.</item>
+<item>10. A todo israelita ou a todo estrangeiro, que habita no meio deles, e que comer qualquer espécie de sangue, voltarei minha face contra ele, e exterminá-lo-ei do meio de seu povo.</item>
+<item>11. Pois a alma da carne está no sangue, e dei-vos esse sangue para o altar, a fim de que ele sirva de expiação por vossas almas, porque é pela alma que o sangue expia.</item>
+<item>12. Eis por que eu disse aos israelitas: ninguém dentre vós comerá sangue, nem o estrangeiro que habita no meio de vós.</item>
+<item>13. Se um israelita ou um estrangeiro que habita no meio deles capturar na caça um animal ou pássaro que se possa comer, derramará o seu sangue, e o cobrirá com terra,</item>
+<item>14. porque a alma de toda carne é o seu sangue, que é sua alma. Eis por que eu disse aos israelitas: não comereis sangue de animal algum, porque a alma de toda carne é o seu sangue; quem o comer será elimitado.</item>
+<item>15. Toda pessoa, natural ou estrangeira, que comer um animal morto ou dilacerado, lavará suas vestes, banhar-se-á em água e ficará impura até a tarde; e depois será pura.</item>
+<item>16. Mas, se não lavar as vestes e o corpo, levará sobre si a sua iniqüidade.”</item>
+ </string-array><string-array name="CapLv18">
+<item>Capítulo 18</item>
+<item>1. O Senhor disse a Moisés:</item>
+<item>2. “Dize aos israelitas o seguinte: eu sou o Senhor, vosso Deus.</item>
+<item>3. Não procedereis conforme os costumes do Egito onde habitastes, ou de Canaã aonde vos conduzi: não seguireis seus costumes.</item>
+<item>4. Praticareis meus preceitos e observareis minhas leis, e a elas obedecereis. Eu sou o Senhor, vosso Deus.</item>
+<item>5. Observareis meus preceitos e minhas leis: o homem que o observar viverá por eles. Eu sou o Senhor.</item>
+<item>6. Nenhum de vós se achegará àquela que lhe é próxima por sangue, para descobrir sua nudez. Eu sou o Senhor.</item>
+<item>7. Não descobrirás a nudez de teu pai, nem a de tua mãe. Ela é tua mãe: não descobrirás a sua nudez.</item>
+<item>8. Não descobrirás a nudez da mulher de teu pai: é a nudez de teu pai.</item>
+<item>9. Nem a de tua irmã, filha de teu pai ou de tua mãe, nascida na casa ou fora dela.</item>
+<item>10. Não descobrirás a nudez da filha de teu filho ou da filha de tua filha, porque é tua nudez.</item>
+<item>11. Nem a da filha da mulher de teu pai, nascida de teu pai: é tua irmã.</item>
+<item>12. Não descobrirás a nudez da irmã de teu pai: ela é da mesma carne que teu pai.</item>
+<item>13. Nem a da irmã de tua mãe; porque ela é da mesma carne que tua mãe.</item>
+<item>14. Não descobrirás a nudez do irmão de teu pai, aproximando-te de sua mulher: é tua tia.</item>
+<item>15. Não descobrirás a nudez de tua nora: é a mulher de teu filho. Não descobrirás, pois, a sua nudez.</item>
+<item>16. Nem a da mulher de teu irmão: é a nudez de teu irmão.</item>
+<item>17. Não descobrirás a nudez de uma mulher e de sua filha, e não tomarás a filha de seu filho, nem a filha de sua filha, para descobrir a sua nudez: elas são tuas próximas parentas, e isso seria um crime.</item>
+<item>18. Não tomarás a irmã de tua mulher, de modo que lhe seja um rival, descobrindo a sua nudez com a de tua mulher durante a sua vida.</item>
+<item>19. Não te achegarás a uma mulher durante a sua menstruação para descobrir a sua nudez.</item>
+<item>20. Não terás comércio com a mulher de teu próximo: contaminar-te-ias com ela.</item>
+<item>21. Não darás nenhum de teus filhos para ser sacrificado a Moloc; e não profanarás o nome de teu Deus. Eu sou o Senhor.</item>
+<item>22. Não te deitarás com um homem, como se fosse mulher: isso é uma abominação.</item>
+<item>23. Não terás comércio com um animal, para te contaminares com ele. Uma mulher não se prostituirá a um animal: isso é uma abominação.</item>
+<item>24. Não vos contamineis com nenhuma dessas coisas, porque é assim que se contaminaram as nações que vou expulsar diante de vós.</item>
+<item>25. A terra está contaminada; punirei suas iniqüidades e a terra vomitará seus habitantes.</item>
+<item>26. Vós, porém, observareis minhas leis e minhas ordens, e não cometereis nenhuma dessas abominações, tanto o aborígine como o estrangeiro que habita no meio de vós,</item>
+<item>27. porque todas essas abominações cometeram os habitantes da terra que vos precederam, e a terra está contaminada.</item>
+<item>28. Desse modo a terra não vos vomitará por havê-la contaminado, como vomitou os povos que a habitaram antes de vós.</item>
+<item>29. Todos aqueles, com efeito, que cometerem qualquer dessas abominações, serão cortados do meio de seu povo.</item>
+<item>30. Guardareis, pois, os meus mandamentos, e não seguireis nenhum dos costumes abomináveis que se praticavam antes de vós, e não vos contaminareis por eles. Eu sou o Senhor, vosso Deus.”</item>
+ </string-array><string-array name="CapLv19">
+<item>Capítulo 19</item>
+<item>1. O Senhor disse a Moisés:</item>
+<item>2. “Dirás a toda a assembléia de Israel o seguinte: sede santos, porque eu, o Senhor, vosso Deus, sou santo.</item>
+<item>3. Cada um de vós respeite a sua mãe e o seu pai, e guarde os meus sábados. Eu sou o Senhor, vosso Deus.</item>
+<item>4. Não vos volteis para os ídolos, e não façais para vós deuses de metal fundido. Eu sou o Senhor, vosso Deus.</item>
+<item>5. Quando oferecerdes ao Senhor um sacrifício pacífico, oferecê-lo-eis de maneira que seja aceito.</item>
+<item>6. Comer-se-á a vítima no mesmo dia ou no dia seguinte; o que sobrar no terceiro dia será queimado no fogo.</item>
+<item>7. Se se comer dela no terceiro dia, será uma abominação: o sacrifício não será aceito.</item>
+<item>8. Quem o comer levará sua iniqüidade, porque terá profanado o que é consagrado ao Senhor: esse será cortado do seu povo.</item>
+<item>9. Quando fizerdes a ceifa em vossa terra, não cortareis as espigas até os limites de vosso campo, e não recolhereis o que resta a respigar de vossas colheitas.</item>
+<item>10. Não respigareis tampouco a vossa vinha, nem colhereis os grãos caídos no campo; deixá-los-eis para o pobre e o estrangeiro. Eu sou o Senhor, vosso Deus.</item>
+<item>11. Não furtareis, não usareis de embustes nem de mentiras uns para com os outros.</item>
+<item>12. Não jurareis falso em meu nome, porque profanaríeis o nome de vosso Deus. Eu sou o Senhor.</item>
+<item>13. Não oprimirás o teu próximo, e não o despojarás. O salário do teu operário não ficará contigo até o dia seguinte.</item>
+<item>14. Não amaldiçoarás um surdo; não porás algo como tropeço diante do cego; mas temerás o teu Deus. Eu sou o Senhor.</item>
+<item>15. Não sereis injustos em vossos juízos: não favorecerás o pobre nem terás complacência com o grande; mas segundo a justiça julgarás o teu próximo.</item>
+<item>16. Não semearás a difamação no meio de teu povo, nem te apresentarás como testemunha contra a vida do teu próximo. Eu sou o Senhor.</item>
+<item>17. Não odiarás o teu irmão no teu coração. Repreenderás o teu próximo para que não incorras em pecado por sua causa.</item>
+<item>18. Não te vingarás; não guardarás rancor contra os filhos de teu povo. Amarás o teu próximo como a ti mesmo. Eu sou o Senhor.</item>
+<item>19. Guardareis os meus mandamentos. Não juntarás animais de espécies diferentes. Não semearás no teu campo grãos de espécies diferentes. Não usarás roupas tecidas de duas espécies de fios.</item>
+<item>20. Se um homem se deitar com uma mulher escrava desposada com outro, mas não resgatada nem posta em liberdade, serão ambos castigados, mas não morrerão, porque ela não era livre.</item>
+<item>21. Em expiação o homem oferecerá ao Senhor à entrada da tenda de reunião, um carneiro como sacrifício de reparação.</item>
+<item>22. O sacerdote fará por ele a expiação diante do Senhor com o carneiro do sacrifício de reparação pelo pecado cometido; e o seu pecado lhe será perdoado.</item>
+<item>23. Quando entrardes na terra e tiverdes plantado toda sorte de árvores frutíferas considerareis os seus primeiros frutos como incircuncisos; eles o serão durante três anos, e não se comerá deles.</item>
+<item>24. No quarto ano todos os seus frutos serão consagrados ao Senhor com ações de graças.</item>
+<item>25. No quinto ano comereis de seus frutos para que a árvore continue a produzi-los. Eu sou o Senhor, vosso Deus.</item>
+<item>26. Não comereis nada que contenha sangue. Não praticareis a adivinhação nem a magia.</item>
+<item>27. Não cortareis o cabelo em redondo, nem rapareis a barba pelos lados.</item>
+<item>28. Não fareis incisões na vossa carne por um morto, nem fareis figura alguma no vosso corpo. Eu sou o Senhor.</item>
+<item>29. Não prostituas tua filha, para que a terra não se entregue à prostituição e não se encha de crimes.</item>
+<item>30. Observareis meus sábados e respeitareis meu santuário. Eu sou o Senhor.</item>
+<item>31. Não vos dirijais aos espíritas nem aos adivinhos: não os consulteis, para que não sejais contaminados por eles. Eu sou o Senhor, vosso Deus.</item>
+<item>32. Levanta-te diante dos cabelos brancos; honra a pessoa do velho, e teme a teu Deus. Eu sou o Senhor.</item>
+<item>33. Se um estrangeiro vier habitar convosco na vossa terra, não o oprimireis,</item>
+<item>34. mas esteja ele entre vós como um compatriota, e tu o amarás como a ti mesmo, porque fostes já estrangeiros no Egito. Eu sou o Senhor, vosso Deus.</item>
+<item>35. Não cometereis injustiça nos juízos, nem na vara, nem no peso, nem na medida.</item>
+<item>36. Tereis balanças justas, pesos justos, um efá justo e um hin justo. Eu sou o Senhor, vosso Deus que vos tirei do Egito.</item>
+<item>37. Observareis todas as minhas leis e meus mandamentos, e os praticareis. Eu sou o Senhor”.</item>
+ </string-array><string-array name="CapLv20">
+<item>Capítulo 20</item>
+<item>1. O Senhor disse a Moisés: “Dirás aos israelitas:</item>
+<item>2. todo israelita ou estrangeiro que habita em Israel e que sacrificar um de seus filhos a Moloc, será punido de morte. O povo da terra o apedrejará.</item>
+<item>3. Eu voltarei o meu rosto contra ele e o cortarei do meio de seu povo, porque manchou o meu santuário e profanou o meu santo nome, dando um de seus filhos a Moloc.</item>
+<item>4. Se o povo da terra não se importar por esse homem ter dado um de seus filhos a Moloc, e se não o matar,</item>
+<item>5. eu voltarei meu rosto contra ele e contra a sua família, e o cortarei do meio de seu povo com todos aqueles que se prostituem como ele, prestando culto a Moloc.</item>
+<item>6. Se alguém se dirigir aos espíritas ou aos adivinhos para fornicar com eles, voltarei meu rosto contra esse homem e o cortarei do meio de seu povo.</item>
+<item>7. Santificai-vos, e sede santos, porque eu sou o Senhor, vosso Deus.</item>
+<item>8. Observai minhas leis e praticai-as. Eu sou o Senhor que vos santifico.</item>
+<item>9. Quem amaldiçoar o pai ou a mãe será punido de morte. Amaldiçoou o seu pai ou a sua mãe: levará a sua culpa.</item>
+<item>10. Se um homem cometer adultério com uma mulher casada, com a mulher de seu próximo, o homem e a mulher adúltera serão punidos de morte.</item>
+<item>11. Se um homem dormir com a mulher de seu pai, descobrindo assim a nudez de seu pai, serão ambos punidos de morte; levarão a sua culpa.</item>
+<item>12. Se um homem dormir com a sua nora, serão ambos punidos de morte; isso é uma ignomínia, e eles levarão a sua culpa.</item>
+<item>13. Se um homem dormir com outro homem, como se fosse mulher, ambos cometerão uma coisa abominável. Serão punidos de morte e levarão a sua culpa.</item>
+<item>14. Se um homem tomar por mulheres a filha e a mãe, cometerá um crime. Serão queimados no fogo, ele e elas, para que não haja tal crime no meio de vós.</item>
+<item>15. Se um homem tiver comércio com um animal, será punido de morte, e matareis também o animal.</item>
+<item>16. Se uma mulher se aproximar de um animal para se prostituir com ele, será morta juntamente com o animal. Serão mortos, e levarão a sua iniqüidade.</item>
+<item>17. Se um homem tomar a sua irmã, filha de seu pai ou de sua mãe, e vir a sua nudez, e ela vir a sua, isso é uma coisa infame. Serão exterminados sob os olhos de seus compatriotas: descobriu a nudez de sua irmã; levará a sua iniqüidade.</item>
+<item>18. Se um homem dormir com uma mulher durante o tempo de sua menstruação e vir a sua nudez, descobrindo o seu fluxo e descobrindo-o ela mesma, serão ambos cortados do meio de seu povo.</item>
+<item>19. Não descobrirás a nudez da irmã de tua mãe, nem da irmã de teu pai, porque descobrirás a sua carne; levarão sua iniqüidade.</item>
+<item>20. Se um homem se deitar com sua tia, ele descobrirá a nudez de seu tio; levarão a sua iniqüidade, e morrerão sem filhos.</item>
+<item>21. Se um homem tomar a mulher de seu irmão, será uma impureza; ofenderá a honra de seu irmão: não terão filhos.</item>
+<item>22. Observareis todas as minhas leis e meus mandamentos e os praticareis, a fim de que não vos vomite a terra aonde vos conduzo para aí habitar.</item>
+<item>23. Não seguireis os costumes da nação que eu expulsar de diante de vós, porque fizeram todas essas coisas e eu as abominei.</item>
+<item>24. Eu vos disse: possuireis essa terra, a qual vos darei em possessão, terra que mana leite e mel. Eu sou o Senhor, vosso Deus, que vos separei dos outros povos.</item>
+<item>25. Fareis a distinção entre animais puros e impuros, entre as aves puras e impuras, e não vos torneis abomináveis por causa de animais, de aves ou de animais que se arrastam sobre a terra, como vos ensinei a distinguir como impuros.</item>
+<item>26. Sereis para mim santos, porque eu, o Senhor, sou santo; e vos separei dos outros povos para que sejais meus.</item>
+<item>27. Qualquer homem ou mulher que evocar os espíritos ou fizer adivinhações, será morto. Serão apedrejados, e levarão sua culpa”.</item>
+ </string-array><string-array name="CapLv21">
+<item>Capítulo 21</item>
+<item>1. O Senhor disse a Moisés: “Dize aos sacerdotes, filhos de Aarão, o seguinte: ninguém será considerado como impuro no meio de seu povo por causa de um morto,</item>
+<item>2. exceto quando se trate de seu parente próximo, sua mãe, seu pai, seu filho, sua filha, seu irmão,</item>
+<item>3. sua irmã virgem que não se casou e vive junto dele. Por ela poderá contaminar-se.</item>
+<item>4. Ele, sendo chefe no meio de seu povo, não se tornará impuro, para não se profanar.</item>
+<item>5. Os sacerdotes não rasparão a cabeça, nem os lados de sua barba, e não farão incisões em sua carne.</item>
+<item>6. Serão santos para o seu Deus e não profanarão o seu nome, porque oferecem ao Senhor os sacrifícios consumidos pelo fogo, o pão de seu Deus. Serão santos.</item>
+<item>7. Não desposarão uma mulher prostituta ou desonrada, nem uma mulher repudiada por seu marido, porque são santos para o seu Deus.</item>
+<item>8. Terás, pois, o sacerdote por santo, porque ele oferece o pão de teu Deus: ele será santo para ti, porque eu, o Senhor que vos santifico, sou santo.</item>
+<item>9. Se a filha de um sacerdote se desonrar pela prostituição, desonrará seu pai; e será queimada no fogo.</item>
+<item>10. O sumo sacerdote, superior a seus irmãos, sobre cuja cabeça se derramou o óleo de unção, e que foi estabelecido para revestir as vestes sagradas, não descobrirá a sua cabeça, e não rasgará as suas vestes.</item>
+<item>11. Não se aproximará de morto algum; e não se contaminará por seu pai, nem por sua mãe.</item>
+<item>12. Não sairá do santuário de seu Deus, e não o profanará, porque o óleo da unção de seu Deus está sobre ele como um diadema. Eu sou o Senhor.</item>
+<item>13. Tomará por mulher uma virgem.</item>
+<item>14. Não desposará nem viúva, nem mulher repudiada, nem mulher prostituta ou desonrada, mas desposará uma virgem do meio de seu povo.</item>
+<item>15. Não desonrará sua linhagem no meio de seu povo: pois sou eu, o Senhor, que o santifico.”</item>
+<item>16. O Senhor disse a Moisés:</item>
+<item>17. “Dize a Aarão o seguinte: homem algum de tua linhagem, por todas as gerações, que tiver um defeito corporal, oferecerá o pão de seu Deus.</item>
+<item>18. Desse modo, serão excluídos todos aqueles que tiverem uma deformidade: cegos, coxos, mutilados, pessoas de membros desproporcionados,</item>
+<item>19. ou tendo uma fratura no pé ou na mão,</item>
+<item>20. corcundas ou anões, os que tiverem uma mancha no olho, ou a sarna, um dartro, ou os testículos quebrados.</item>
+<item>21. Homem algum da linhagem de Aarão, o sacerdote, que for deformado, oferecerá os sacrifícios consumidos pelo fogo. Sendo vítima de uma deformidade, não poderá apresentar-se para oferecer o pão de seu Deus.</item>
+<item>22. Mas poderá comer o pão de seu Deus, proveniente das ofertas santíssimas e das ofertas santas.</item>
+<item>23. Não se aproximará, porém, do véu nem do altar, porque é deformado. Não profanará meus santuários, porque eu sou o Senhor que os santifico”.</item>
+<item>24. Tais foram as palavras de Moisés a Aarão e a seus filhos, bem como a todos os israelitas.</item>
+ </string-array><string-array name="CapLv22">
+<item>Capítulo 22</item>
+<item>1. O Senhor disse a Moisés: “Dize a Aarão e a seus filhos</item>
+<item>2. que respeitem as coisas santas que os israelitas me consagram e não profanem o meu santo nome. Eu sou o Senhor.” Dir-lhes-á:</item>
+<item>3. Todo homem de vossa linhagem e de vossa descendência, que se aproximar das coisas santas consagradas ao Senhor pelos israelitas, com uma imundície, será cortado de diante de mim. Eu sou o Senhor.</item>
+<item>4. Todo homem da descendência de Aarão, atacado de lepra ou de gonorréia, não comerá coisa santa até a sua purificação. O mesmo será para aquele que tiver tocado uma pessoa contaminada por um cadáver, para aquele que tiver um fluxo seminal,</item>
+<item>5. ou para aquele que tiver tocado quer seja um réptil com que se tenha contaminado, quer seja um homem afetado de uma impureza qualquer.</item>
+<item>6. Quem tocar essas coisas será impuro até a tarde, e não comerá coisas santas. Lavará seu corpo com água e, depois do pôr-do-sol, ficará puro.</item>
+<item>7. Somente então poderá ele comer as coisas santas, porque são seu alimento.</item>
+<item>8. Não comerá um animal morto por si, ou dilacerado, para não ser contaminado por ele. Eu sou o Senhor.</item>
+<item>9. Observarão minhas leis, para que não caiam em pecado e não morram por ter profanado as coisas santas. Eu sou o Senhor que as santifica.</item>
+<item>10. Nenhum estrangeiro comerá as coisas santas. Tampouco comerão delas o hóspede e o servo de um sacerdote.</item>
+<item>11. Mas o escravo adquirido a preço de dinheiro poderá comer, bem como aquele que for nascido na casa: comerão desse alimento.</item>
+<item>12. Se uma filha de sacerdote for casada com um estrangeiro, ela não comerá os alimentos tomados dentre as coisas santas.</item>
+<item>13. Mas se, estando viúva ou repudiada, ela volta sem filhos à casa paterna como no tempo de sua juventude, poderá comer o alimento de seu pai. Nenhum estrangeiro, porém, o comerá.</item>
+<item>14. Se alguém comer por inadvertência uma coisa consagrada, pagará o seu valor ao sacerdote, e mais um quinto.</item>
+<item>15. Os sacerdotes não permitirão aos profanos comer as santas oferendas que os israelitas tiverem destinado em homenagem ao Senhor,</item>
+<item>16. para não se exporem a levar o peso da falta cometida, deixando que assim se coma as coisas santas. Porque eu sou o Senhor que as santifica”.</item>
+<item>17. O Senhor disse a Moisés:</item>
+<item>18. “Dize Aarão, a seus filhos e a todos os israelitas o seguinte: qualquer israelita ou estrangeiro em Israel que apresentar sua oferta em holocausto ao Senhor, seja em razão de um voto, seja como oferta espontânea,</item>
+<item>19. deverá, para ser aceito, apresentar um macho sem defeito, tomado entre o gado, as ovelhas ou as cabras.</item>
+<item>20. Não oferecereis vítima alguma defeituosa, porque não seria aceita.</item>
+<item>21. Quando alguém oferecer ao Senhor um sacrifício pacífico, tomado do rebanho maior ou do menor, seja em cumprimento de um voto seja como oferta espontânea, a vítima, para ser aceita, deverá ser sem defeito.</item>
+<item>22. Não oferecereis ao Senhor animal algum cego, estropiado, mutilado, atacado de úlcera, de sarna ou de dartro; não fareis dele um holocausto ao Senhor sobre o altar.</item>
+<item>23. Poderás sacrificar como oferta espontânea um boi ou um cordeiro com um membro comprido ou curto demais; mas essa vítima não será aceita para o cumprimento de um voto.</item>
+<item>24. Não oferecereis em vossa terra ao Senhor um animal cujos testículos tenham sido machucados, esmagados, arrancados ou cortados.</item>
+<item>25. Não aceitareis nenhuma dessas vítimas das mãos de um estrangeiro, para oferecê-la em alimento a vosso Deus; elas não seriam aceitas em vosso favor, pois são mutiladas e defeituosas”.</item>
+<item>26. O Senhor disse a Moisés:</item>
+<item>27. “Um bezerro, um cordeiro ou um cabrito ficará sete dias com sua mãe após seu nascimento. A partir do oitavo dia, e nos dias seguintes, será aceito para ser oferecido em sacrifício pelo fogo ao Senhor.</item>
+<item>28. Quer se trate de gado maior ou menor, não imolareis no mesmo dia o animal com sua cria.</item>
+<item>29. Quando oferecerdes ao Senhor um sacrifício de ação de graças, oferecei-o de maneira que seja aceito.</item>
+<item>30. Será comido no mesmo dia e não deixareis nada dele para o dia seguinte. Eu sou o Senhor.</item>
+<item>31. Observareis os meus preceitos e os poreis em prática. Eu sou o Senhor.</item>
+<item>32. Não profaneis o meu santo nome, e serei santificado no meio dos israelitas. Eu sou o Senhor que vos santifica,</item>
+<item>33. e que vos tirei do Egito para ser vosso Deus. Eu sou o Senhor”.</item>
+ </string-array><string-array name="CapLv23">
+<item>Capítulo 23</item>
+<item>1. O Senhor disse a Moisés: “Dize aos israelitas o seguinte:</item>
+<item>2. eis as festas do Senhor que anunciareis como devendo ser santas assembléias: estas são as minhas solenidades.</item>
+<item>3. Trabalhareis seis dias, mas no sétimo dia, sábado, dia de repouso, haverá uma santa assembléia. Nele não fareis trabalho algum. É o repouso consagrado ao Senhor, em todos os lugares em que habitardes.”</item>
+<item>4. “Eis as festas do Senhor, santas assembléias que anunciareis no devido tempo.</item>
+<item>5. No primeiro mês, no décimo quarto dia do mês, entre as duas tardes, será a Páscoa do Senhor.</item>
+<item>6. E no décimo quinto dia desse mês, realizar-se-á a festa dos Pães sem Fermento em honra do Senhor: comereis pães sem fermento durante sete dias.</item>
+<item>7. Tereis no primeiro dia uma santa assembléia, e não fareis nenhum trabalho servil.</item>
+<item>8. Durante sete dias oferecereis ao Senhor sacrifícios pelo fogo. No sétimo dia haverá uma santa assembléia; e não fareis trabalho algum servil”.</item>
+<item>9. O Senhor disse a Moisés: “Dize aos israelitas o seguinte:</item>
+<item>10. quando tiverdes entrado na terra que vos hei de dar, e fizerdes a ceifa, trareis ao sacerdote um molho de espigas como primícias de vossa ceifa.</item>
+<item>11. O sacerdote agitará esse molho de espigas diante do Senhor, para que ele vos seja favorável: fará isso no dia seguinte ao sábado.</item>
+<item>12. No mesmo dia em que o molho for agitado, oferecereis ao Senhor em holocausto um cordeiro de um ano, sem defeito,</item>
+<item>13. ajuntando a ele uma oferta de dois décimos de flor de farinha amassada com óleo, como sacrifício pelo fogo de agradável odor ao Senhor, e mais uma libação de vinho, constando de um quarto de hin.</item>
+<item>14. Não comereis nem pão, nem grão torrado, nem espigas frescas até o dia em que levardes a oferta ao vosso Deus. Esta é uma lei perpétua para vossos descendentes, em todos os lugares em que habitardes.”</item>
+<item>15. “A partir do dia seguinte ao sábado, desde o dia em que tiverdes trazido o molho para ser agitado, contareis sete semanas completas.</item>
+<item>16. Contareis cinqüenta dias até o dia seguinte ao sétimo sábado, e apresentareis ao Senhor uma nova oferta.</item>
+<item>17. Trareis de vossa casa dois pães feitos de dois décimos de flor de farinha, cozidos com fermento, para agitá-los como oferta; são as primícias do Senhor.</item>
+<item>18. Oferecereis com o pão em holocausto ao Senhor sete cordeiros de um ano, sem defeito, um novilho e dois carneiros, acompanhados da oferta e da libação: este será um sacrifício de agradável odor ao Senhor.</item>
+<item>19. Oferecereis também um bode pelo pecado e, como sacrifício pacífico, dois cordeiros de um ano.</item>
+<item>20. O sacerdote os agitará com o pão das primícias, como ofertas agitadas diante do Senhor, com os dois cordeiros: serão consagrados ao Senhor, e serão propriedade do sacerdote.</item>
+<item>21. Nesse mesmo dia anunciareis a festa e convocareis uma santa assembléia: não fareis trabalho algum servil. Esta é uma lei perpétua para vossos descendentes, em qualquer lugar onde habitardes.</item>
+<item>22. Quando fizeres a ceifa em tua terra, não ceifarás até o extremo limite de teu campo e não recolherás a espiga de tua ceifa: deixá-la-eis para o pobre e o estrangeiro. Eu sou o Senhor, vosso Deus”.</item>
+<item>23. O Senhor disse a Moisés: “Dize aos israelitas o seguinte:</item>
+<item>24. no sétimo mês, no primeiro dia do mês, haverá para vós um dia de repouso, solenidade que publicareis ao som da trombeta, uma santa assembléia.</item>
+<item>25. Não fareis trabalho algum servil, e oferecereis ao Senhor sacrifícios consumidos pelo fogo”.</item>
+<item>26. O Senhor disse a Moisés:</item>
+<item>27. “No décimo dia do sétimo mês será o dia das Expiações. Tereis uma santa assembléia: humilhareis vossas, almas e oferecereis ao Senhor sacrifícios queimados pelo fogo.</item>
+<item>28. Não fareis trabalho algum naquele dia, porque é um dia de expiação em que deve ser feita a expiação por vós diante do Senhor, vosso Deus.</item>
+<item>29. Todo aquele que se não humilhar nesse dia será cortado do meio de seu povo.</item>
+<item>30. E todo o que fizer nesse dia um trabalho qualquer, eu o suprimirei do meio de seu povo.</item>
+<item>31. Não fareis, pois, trabalho algum; esta é uma lei perpétua para vossos descendentes, em todos os lugares em que habitardes.</item>
+<item>32. Será para vós um sábado, um dia de repouso, e humilhareis vossas almas. No nono dia do mês, à tarde observareis um sábado, de uma tarde à tarde seguinte.</item>
+<item>33. O Senhor disse a Moisés: “Dize aos israelitas o seguinte:</item>
+<item>34. no décimo quinto dia do sétimo mês, celebrar-se-á a festa dos Tabernáculos durante sete dias, em honra do Senhor.</item>
+<item>35. No primeiro dia haverá uma santa assembléia: não fareis nenhum trabalho servil.</item>
+<item>36. Durante sete dias oferecereis ao Senhor sacrifícios queimados pelo fogo. No oitavo dia tereis uma santa assembléia e oferecereis ao Senhor sacrifícios queimados pelo fogo. Será uma assembléia solene: não fareis trabalho algum servil.</item>
+<item>37. Estas são as solenidades do Senhor que anunciareis para haver santas assembléias, para oferecer ao Senhor sacrifícios queimados pelo fogo, holocaustos, oblações, vítimas e libações, cada coisa em seu dia,</item>
+<item>38. sem falar dos sábados do Senhor, de vossos dons, vossos votos e de todas as ofertas espontâneas que fizerdes ao Senhor.</item>
+<item>39. No décimo quinto dia do sétimo mês, quando tiverdes colhido os produtos da terra, celebrareis uma festa ao Senhor durante sete dias. O primeiro dia será um dia de repouso, bem como o oitavo.</item>
+<item>40. No primeiro dia tomareis frutos de árvores formosas, folhas de palmeiras, ramos de árvores frondosas e de salgueiros da torrente; e alegrar-vos-eis durante sete dias diante do Senhor, vosso Deus.</item>
+<item>41. Cada ano celebrareis esta festa durante sete dias em honra do Senhor. Esta é uma lei perpétua para vossos descendentes. Celebrá-la-eis no sétimo mês.</item>
+<item>42. Habitareis em barracas de ramos durante sete dias: todo homem da geração de Israel habitará em barracas de ramos,</item>
+<item>43. para que saibam os vossos descendentes que eu fiz habitar os israelitas em barracas de ramos, quando os tirei do Egito. Eu sou o Senhor, vosso Deus.”</item>
+<item>44. Foi assim que Moisés falou aos israelitas, prescrevendo-lhes as festas do Senhor.</item>
+ </string-array><string-array name="CapLv24">
+<item>Capítulo 24</item>
+<item>1. O Senhor disse a Moisés:</item>
+<item>2. “Ordena aos israelitas que te tragam óleo puro de olivas esmagadas para manter, continuamente, acesas as lâmpadas do candelabro.</item>
+<item>3. Aarão prepará-las-á fora do véu do testemunho, na tenda de reunião, a fim de que elas queimem continuamente, da tarde à manhã, diante do Senhor.</item>
+<item>4. Disporá as lâmpadas no candelabro de ouro puro, para que queimem continuamente diante do Senhor.</item>
+<item>5. Tomarás também flor de farinha e farás com ela doze bolos cozidos, cada um dos quais com dois décimos de efá.</item>
+<item>6. Dispô-los-ás em duas pilhas de seis na mesa de ouro puro diante do Senhor.</item>
+<item>7. Sobre cada pilha porás incenso puro, que será um memorial oferecido pelo fogo ao Senhor.</item>
+<item>8. Colocar-se-ão esses pães diante do Senhor a cada sábado, continuamente, da parte dos israelitas: esta é uma aliança perpétua.</item>
+<item>9. Esses pães serão propriedade de Aarão e de seus filhos, que os comerão no lugar santo; isso será para eles uma coisa santíssima entre as ofertas feitas pelo fogo ao Senhor. É uma lei perpétua.”</item>
+<item>10. O filho de uma mulher israelita, tendo por pai um egípcio, veio entre os israelitas. E, discutindo no acampamento com um deles,</item>
+<item>11. o filho da mulher israelita blasfemou contra o santo nome e o amaldiçoou. Sua mãe chamava-se Salumite, filha de Dabri, da tribo de Dã.</item>
+<item>12. Puseram-no em prisão até que Moisés tomasse uma decisão, segundo a ordem do Senhor.”</item>
+<item>13. Então o Senhor disse a Moisés:</item>
+<item>14. “Faze sair do acampamento o blasfemo, e todos aqueles que o ouviram ponham a mão sobre a sua cabeça, e toda a assembléia o apedreje.</item>
+<item>15. Dirás aos israelitas: todo aquele que amaldiçoar o seu Deus levará o seu pecado.</item>
+<item>16. Quem blasfemar o nome do Senhor será punido de morte: toda a assembléia o apedrejará. Quer seja ele estrangeiro ou natural, se blasfemar contra o santo nome, será punido de morte.”</item>
+<item>17. “Todo aquele que ferir mortalmente um homem será morto.</item>
+<item>18. Quem tiver ferido de morte um animal doméstico, dará outro em seu lugar: vida por vida.</item>
+<item>19. Se um homem ferir o seu próximo, assim como fez, assim se lhe fará a ele:</item>
+<item>20. fratura por fratura, olho por olho e dente por dente; ser-lhe-á feito o mesmo que ele fez ao seu próximo;</item>
+<item>21. Quem matar um animal, restituirá outro, mas o que matar um homem será punido de morte.</item>
+<item>22. Só haverá uma lei entre vós tanto para o estrangeiro como para o natural: porque eu sou o Senhor vosso Deus”.</item>
+<item>23. Moisés transmitiu essas normas aos israelitas. Tiraram do acampamento o blasfemo e o apedrejaram, conforme a ordem que o Senhor tinha dado a Moisés.</item>
+ </string-array><string-array name="CapLv25">
+<item>Capítulo 25</item>
+<item>1. O Senhor disse a Moisés no monte Sinai: “Dize aos israelitas o seguinte:</item>
+<item>2. quando tiverdes entrado na terra que vos hei de dar, a terra repousará: este será um sábado em honra do Senhor.</item>
+<item>3. Durante seis anos semearás a tua terra, durante seis anos podarás a tua vinha e recolherás os seus frutos.</item>
+<item>4. Mas o sétimo ano será um sábado, um repouso para a terra, um sábado em honra do Senhor: não semearás o teu campo, nem podarás a tua vinha;</item>
+<item>5. não colherás o que nascer dos grãos caídos de tua ceifa, nem as uvas de tua vinha não podada, porque é um ano de repouso para a terra.</item>
+<item>6. Mas o que a terra der espontaneamente durante o seu sábado, vos servirá de alimento, a ti, ao teu servo e à tua serva, ao teu operário ou ao estrangeiro que mora contigo;</item>
+<item>7. tudo o que nascer servirá de alimento também ao teu rebanho e aos animais que estão em tua terra.</item>
+<item>8. Contarás sete anos sabáticos, sete vezes sete anos, cuja duração fará um período de quarenta e nove anos.</item>
+<item>9. Tocarás então a trombeta no décimo dia do sétimo mês: tocareis a trombeta no dia das Expiações em toda a vossa terra.</item>
+<item>10. Santificareis o qüinquagésimo ano e publicareis a liberdade na terra para todos os seus habitantes. Será o vosso jubileu. Voltareis cada um para as suas terras e para a sua família.</item>
+<item>11. O qüinquagésimo ano será para vós um jubileu: não semeareis, não ceifareis o que a terra produzir espontaneamente, e não vindimareis a vinha não podada,</item>
+<item>12. pois é o jubileu que vos será sagrado. Comereis o produto de vossos campos.</item>
+<item>13. Nesse ano jubilar, voltareis cada um à sua possessão.</item>
+<item>14. Se venderdes ou comprardes alguma coisa de vosso próximo, ninguém dentre vós cause dano ao seu irmão.</item>
+<item>15. Comprarás ao teu próximo segundo o número de anos decorridos desde o jubileu, e ele te venderá segundo o número de anos de colheita.</item>
+<item>16. Aumentarás o preço em razão dos anos que restarem, e o abaixarás à medida que os anos diminuírem, porque é o número de colheitas que ele te vende.</item>
+<item>17. Ninguém prejudique o seu próximo. Teme o teu Deus. Eu sou o Senhor, vosso Deus.</item>
+<item>18. Obedecereis às minhas leis; guardareis os meus preceitos e os cumprireis, a fim de habitardes em segurança na terra.</item>
+<item>19. A terra vos dará os seus frutos, comereis até vos saciardes e vivereis em segurança.</item>
+<item>20. Se disserdes: que comeremos nós no sétimo ano, se não semearmos, nem recolhermos os nossos frutos?</item>
+<item>21. Eu vos darei a minha bênção no sexto ano, e a terra produzirá uma colheita para três anos.</item>
+<item>22. Semeareis no oitavo ano, e comereis da antiga colheita até o ano novo: comereis da antiga colheita até que venha a nova.”</item>
+<item>23. “A terra não se venderá para sempre, porque a terra é minha, e vós estais em minha casa como estrangeiros ou hóspedes.</item>
+<item>24. Portanto, em todo o território de vossa propriedade, concedereis o direito de resgatar a terra.</item>
+<item>25. Se teu irmão se tornar pobre e vender uma parte de seu bem, seu parente mais próximo que tiver o direito de resgate se apresentará e resgatará o que o seu irmão vendeu.</item>
+<item>26. Se um homem não tiver ninguém que tenha o direito de resgate, mas procurar ele mesmo os meios de fazer o seu resgate,</item>
+<item>27. contará os anos desde que fez a venda, restituirá o excedente ao comprador, e se reintegrará na sua propriedade.</item>
+<item>28. Se não encontrar, porém, meios de indenizar, a terra vendida ficará nas mãos do comprador até o ano jubilar; sairá do poder deste no ano do jubileu, e voltará à posse do seu antigo dono.</item>
+<item>29. Se um homem vender uma casa de habitação situada dentro de uma cidade murada, terá o direito de resgatá-la até o fim do ano que se segue à venda: seu direito de resgate será de um ano completo.</item>
+<item>30. Se a casa situada na cidade murada não for resgatada antes do fim do ano completo, ela pertencerá sempre ao comprador e aos seus descendentes: não sairá de suas mãos no jubileu.</item>
+<item>31. Entretanto, as casas das povoações que não têm muros serão consideradas como fazendo parte do fundo de terras; poderão ser resgatadas e serão livres no ano do jubileu.</item>
+<item>32. Quanto às cidades dos levitas e às casas que possuem, terão eles um direito de resgate perpétuo.</item>
+<item>33. Quem comprar dos levitas uma casa, sairá no jubileu da casa vendida e da cidade em que a possua, porque as casas das cidades dos levitas são sua propriedade no meio dos israelitas.</item>
+<item>34. Os campos dos arrabaldes das cidades dos levitas não serão vendidos, porque são sua propriedade perpétua.”</item>
+<item>35. “Se teu irmão se tornar pobre junto de ti, e as suas mãos se enfraquecerem, sustentá-lo-ás, mesmo que se trate de um estrangeiro ou de um hóspede, a fim de que ele viva contigo.</item>
+<item>36. Não receberás dele juros nem ganho; mas temerás o teu Deus, para que o teu irmão viva contigo.</item>
+<item>37. Não lhe emprestarás com juros o teu dinheiro, e não lhe darás os teus víveres por amor ao lucro.</item>
+<item>38. Eu sou o Senhor vosso Deus que vos tirei do Egito, para vos dar a terra de Canaã e para ser o vosso Deus.</item>
+<item>39. Se teu irmão se tornar pobre junto de ti e se se vender a ti, não exigirás dele um serviço de escravo.</item>
+<item>40. Estará em tua casa como um operário, e como um hóspede estará a teu serviço até o ano jubilar.</item>
+<item>41. E sairá então de tua casa, ele e seus filhos com ele; voltará para a sua família e para a herança de seus pais.</item>
+<item>42. Porque são meus servos que tirei do Egito, não devem ser vendidos como se vende um escravo.</item>
+<item>43. Não dominarás sobre ele com rigor, mas temerás o teu Deus.</item>
+<item>44. Vossos escravos, homens ou mulheres, tomá-los-eis dentre as nações que vos cercam; delas comprareis os vossos escravos, homens ou mulheres.</item>
+<item>45. Podereis também comprá-los dentre os filhos dos estrangeiros que habitam no meio de vós, das suas famílias que moram convosco dentre os filhos que eles tiverem gerado em vossa terra: e serão vossa propriedade.</item>
+<item>46. Deixá-los-eis por herança a vossos filhos depois de vós, para que os possuam plenamente como escravos perpétuos. Mas, quanto a vossos irmãos, os israelitas, não dominareis com rigor uns sobre os outros.</item>
+<item>47. Se se tornar rico o estrangeiro, estabelecido no meio de ti, e teu irmão, seu vizinho, se tornar pobre e se vender a esse estrangeiro que vive no meio de ti,</item>
+<item>48. haverá para aquele que se vende um direito de resgate: um de seus irmãos poderá resgatá-lo.</item>
+<item>49. Seu tio, o filho de seu tio, ou um de seus próximos parentes poderá também resgatá-lo. Ou então ele mesmo se resgatará, se conseguir os meios de fazê-lo.</item>
+<item>50. Com aquele que o tiver comprado, fará a conta desde o ano em que se vendeu a ele até o ano jubilar, e o preço de venda se estimará segundo o número dos anos, avaliando seus dias de trabalho como os de um operário.</item>
+<item>51. Se houver ainda muitos anos, pagará o seu resgate em razão desses anos, segundo o preço pelo qual foi comprado;</item>
+<item>52. e se faltarem poucos anos até o ano jubilar, fará a conta disso, e pagará o seu resgate em proporção ao número desses anos.</item>
+<item>53. Ele estará em sua casa como um operário que trabalha ano por ano, e o comprador não o tratará com rudeza à tua vista.</item>
+<item>54. Se ele não for resgatado de nenhuma dessas maneiras, sairá livre no ano jubilar, ele e seus filhos,</item>
+<item>55. porque os filhos de Israel são meus servos; são meus servos que tirei da terra do Egito. Eu sou o Senhor, vosso Deus.”</item>
+ </string-array><string-array name="CapLv26">
+<item>Capítulo 26</item>
+<item>1. “Não fareis ídolos. Não levantareis estátuas nem estelas, e não poreis em vossa terra pedra alguma adornada de figuras, para vos prostrardes diante dela, porque eu sou o Senhor, vosso Deus.</item>
+<item>2. Guardareis os meus sábados e reverenciareis o meu santuário. Eu sou o Senhor.</item>
+<item>3. Se seguirdes minhas leis e guardardes os meus preceitos e os praticardes, eu vos darei as chuvas nos seus tempos.</item>
+<item>4. A terra dará o seu produto e as árvores da terra se carregarão de frutos.</item>
+<item>5. A debulha do trigo prolongar-se-á até a vindima, e a vindima até a sementeira; comereis o vosso pão à saciedade, e habitareis em segurança na vossa terra.</item>
+<item>6. Darei paz à vossa terra, e vosso sono não será perturbado. Afastarei da terra os animais nocivos, e a espada não passará pela vossa terra.</item>
+<item>7. Quando perseguirdes os vossos inimigos, cairão sob vossa espada.</item>
+<item>8. Cinco dentre vós perseguirão um cento, e cem dos vossos perseguirão dez mil, e os vossos inimigos cairão sob vossa espada.</item>
+<item>9. Eu me voltarei para vós, e vos farei crescer; multiplicar-vos-ei e ratificarei a minha aliança convosco.</item>
+<item>10. Comereis as colheitas antigas, bem conservadas, e lançareis fora as velhas, para dar lugar às novas.</item>
+<item>11. Porei o meu tabernáculo no meio de vós, e a minha alma não vos rejeitará.</item>
+<item>12. Andarei entre vós: serei o vosso Deus e vós sereis o meu povo.</item>
+<item>13. Eu sou o Senhor, vosso Deus, que vos tirei do Egito para livrar-vos da escravidão. Quebrei as cadeias de vosso jugo, e vos fiz andar com a cabeça erguida.</item>
+<item>14. Mas se não me escutardes e não guardardes os meus mandamentos,</item>
+<item>15. se desprezardes os meus preceitos e vossa alma aborrecer as minhas leis, de sorte que não pratiqueis todos os meus mandamentos e violeis minha aliança, eis como vos hei de tratar:</item>
+<item>16. enviarei terríveis flagelos sobre vós: a tísica e a febre que empanarão vosso olhar e vos farão desfalecer. Debalde semeareis a vossa semente, porque vossos inimigos a comerão.</item>
+<item>17. Voltarei minha face contra vós e sereis vencidos pelos vossos inimigos: eles vos dominarão, e fugireis sem que ninguém vos persiga.</item>
+<item>18. Se nem ainda assim me ouvirdes, castigar-vos-ei sete vezes mais pelos vossos pecados.</item>
+<item>19. Quebrarei o orgulho de vosso poder, tornarei o vosso céu como ferro e a vossa terra como bronze.</item>
+<item>20. Inutilmente se gastará a vossa força, pois vossa terra não dará os seus produtos, e as árvores da terra não produzirão os seus frutos.</item>
+<item>21. Se me puserdes obstáculos e não quiserdes ouvir-me, ferir-vos-ei sete vezes mais, conforme os vossos pecados.</item>
+<item>22. Mandarei contra vós as feras do campo, que devorarão vossos filhos, matarão vossos animais e vos reduzirão a um pequeno número, de modo que os vossos caminhos se tornarão desertos.</item>
+<item>23. Se apesar desses castigos não vos quiserdes corrigir, e vos obstinardes em resistir-me,</item>
+<item>24. eu vos resistirei por minha vez e vos ferirei sete vezes mais, por causa dos vossos pecados.</item>
+<item>25. Farei cair sobre vós a espada para vingar a minha aliança. Se vos ajuntardes em vossas cidades, lançarei a peste no meio de vós e sereis entregues nas mãos de vossos inimigos.</item>
+<item>26. Tirar-vos-ei o pão, vosso sustentáculo, de tal sorte que dez mulheres o cozerão em um só forno e vo-lo entregarão por peso; comereis e não ficareis saciados.</item>
+<item>27. Se, apesar disso, não me ouvirdes, e me resistirdes ainda,</item>
+<item>28. marcharei contra vós em meu furor e vos castigarei sete vezes mais, por causa dos vossos pecados.</item>
+<item>29. Comereis a carne de vossos filhos e de vossas filhas.</item>
+<item>30. Destruirei vossos lugares altos e quebrarei vossas estelas solares; amontoarei vossos cadáveres sobre os de vossos ídolos, e minha alma vos abominará.</item>
+<item>31. Reduzirei a deserto as vossas cidades, devastarei vossos santuários e não aspirarei mais o suave odor de vossos perfumes.</item>
+<item>32. Desolarei vossa terra e vossos inimigos ficarão estupefatos com ela quando a habitarem.</item>
+<item>33. Eu vos dispersarei entre as nações, e desembainharei a espada atrás de vós; vossa terra será devastada e vossas cidades se tornarão desertas.</item>
+<item>34. Então gozará a terra os seus sábados enquanto durar a sua solidão, quando estiverdes na terra de vossos inimigos; então a terra gozará os seus sábados e repousará.</item>
+<item>35. Nos dias em que for devastada, ela terá o repouso que não gozou nos sábados do tempo em que a habitáveis.</item>
+<item>36. Naqueles dentre vós que sobreviverem, porei tal espanto em seus corações na terra de seus inimigos, que o ruído de uma folha agitada pelo vento os porá em fuga: fugirão como se foge diante da espada e cairão sem que ninguém os persiga.</item>
+<item>37. Sem que ninguém os persiga, tropeçarão uns sobre os outros, como diante da espada. Não podereis resistir aos vossos inimigos.</item>
+<item>38. Perecereis entre as nações e a terra inimiga vos consumirá.</item>
+<item>39. Os que sobreviverem consumir-se-ão por causa de suas iniqüidades na terra de seus inimigos, e serão também consumidos por causa das iniqüidades de seus pais, que levarão sobre si.</item>
+<item>40. Eles confessarão, então, as suas iniqüidades e as de seus pais, as transgressões cometidas contra mim, porque me resistiram;</item>
+<item>41. e, por isso, eu também lhes resisti e os levei para a terra de seus inimigos. Se, então, humilharem o seu coração incircunciso e sofrerem a pena de sua iniqüidade,</item>
+<item>42. eu me lembrarei de minha aliança com Jacó, de minha aliança com Isaac e com Abraão, e lembrar-me-ei dessa terra.</item>
+<item>43. E, depois que eles a tiverem deixado, esta terra gozará os seus sábados enquanto for devastada longe deles; eles sofrerão a pena de suas iniqüidades, porque desprezaram os meus mandamentos e a sua alma feriu as minhas leis.</item>
+<item>44. Apesar de tudo isso, quando estiverem na terra de seus inimigos, não os rejeitarei, nem os abominarei a ponto de exterminá-los e de romper minha aliança com eles; porque eu sou o Senhor, seu Deus.</item>
+<item>45. Lembrar-me-ei de minha aliança com seus pais, quando os tirei do Egito à vista das nações, para ser o seu Deus. Eu sou o Senhor.”</item>
+<item>46. Tais são as ordenações, os mandamentos e as leis que o Senhor estabeleceu entre ele e os israelitas, por intermédio de Moisés, no monte Sinai.</item>
+ </string-array><string-array name="CapLv27">
+<item>Capítulo 27</item>
+<item>1. O Senhor disse a Moisés: “Dize aos israelitas o seguinte:</item>
+<item>2. se alguém fizer um voto, as pessoas serão do Senhor segundo a tua avaliação.</item>
+<item>3. Se se tratar de um homem de vinte a sessenta anos, o valor será de cinqüenta siclos de prata, segundo o siclo do santuário;</item>
+<item>4. se for uma mulher, o valor será de trinta siclos.</item>
+<item>5. Para a idade de cinco a vinte anos, o valor será de vinte siclos para o menino, e dez siclos para a menina.</item>
+<item>6. De um mês até cinco anos, o valor será de cinco siclos de prata para um menino, e três para uma menina.</item>
+<item>7. Aos sessenta anos, e daí para cima, a estimação será de quinze siclos para um homem e dez siclos para uma mulher.</item>
+<item>8. Se aquele que tiver feito o voto for demasiado pobre e não puder pagar o valor que avaliaste, apresentar-se-á ao sacerdote, que fixará o valor segundo as posses daquele que fez o voto.</item>
+<item>9. Se se tratar de animais que se podem oferecer ao Senhor, todo animal que assim se tiver dado ao Senhor será coisa santa.</item>
+<item>10. Não poderá ser trocado nem substituído, bom por mau, ou mau por bom. Mas, se se trocar um animal por outro, eles serão coisa santa, tanto um como o outro.</item>
+<item>11. Se se tratar de um animal impuro que não se pode oferecer ao Senhor, será apresentado ao sacerdote:</item>
+<item>12. ele o avaliará, conforme for bom ou mau, e sua estimação determinará o preço.</item>
+<item>13. Se se quiser resgatá-lo, ajuntará uma quinta parte ao que tiver sido avaliado.</item>
+<item>14. Se alguém consagrar ao Senhor a sua casa fazendo dela coisa santa, o sacerdote a avaliará segundo for boa ou má, e ela será vendida pelo preço dessa avaliação.</item>
+<item>15. Mas, se aquele que consagrou a sua casa quiser resgatá-la, ajuntará um quinto ao preço da avaliação, e ela lhe pertencerá de novo.</item>
+<item>16. Se alguém consagrar ao Senhor uma parte da terra que lhe pertence, tu a avaliarás segundo a quantidade de grãos que se pode semear nela, à razão de cinqüenta siclos de prata por homer de cevada.</item>
+<item>17. Se consagrar o seu campo, a partir do ano do jubileu, far-se-á segundo a tua avaliação:</item>
+<item>18. mas, se o tiver feito depois do jubileu, o sacerdote estimará o seu preço segundo o número de anos que restam até o jubileu, e haverá uma redução sobre o preço da avaliação.</item>
+<item>19. Se aquele que consagrou o seu campo quiser resgatá-lo, ajuntará um quinto ao preço fixado, e possui-lo-á.</item>
+<item>20. Se não o resgatar e o vender a outro, esse campo não poderá mais ser resgatado.</item>
+<item>21. Quando o campo ficar livre no jubileu, será consagrado ao Senhor como um campo votado ao interdito, e tornar-se-á propriedade do sacerdote.</item>
+<item>22. Se alguém consagrar ao Senhor um campo que comprou, o qual não faça parte de seu patrimônio,</item>
+<item>23. o sacerdote fixará o seu preço de acordo com a tua avaliação até o ano do jubileu, e esse homem pagará o preço fixado no mesmo dia; é uma coisa consagrada ao Senhor.</item>
+<item>24. No ano jubilar, o campo voltará ao vendedor, como patrimônio que lhe pertence.</item>
+<item>25. Todas as avaliações se farão em siclos do santuário. O siclo vale vinte gueras.</item>
+<item>26. Entretanto, ninguém poderá consagrar os primogênitos de seu gado, pois pertencem já ao Senhor pelo seu título de primogênito: seja um boi, seja uma ovelha, são propriedade do Senhor.</item>
+<item>27. Se se tratar de um animal impuro, será resgatado pelo preço que fixares, ajuntando-se mais uma quinta parte; se não for resgatado, será vendido segundo a tua avaliação.</item>
+<item>28. Se um homem consagrar ao Senhor por interdito alguma coisa que lhe pertence, seja qual for esse objeto – uma pessoa, um animal ou um campo de seu patrimônio – ela não poderá ser vendida, nem resgatada: tudo o que é votado por interdito é coisa consagrada ao Senhor.</item>
+<item>29. Nenhuma pessoa votada ao interdito poderá ser resgatada: ela será morta.</item>
+<item>30. Todos os dízimos da terra, tomados das sementes do solo ou dos frutos das árvores são propriedade do Senhor: é uma coisa consagrada ao Senhor.</item>
+<item>31. Se alguém quiser resgatar alguma coisa de seus dízimos, ajuntará uma quinta parte.</item>
+<item>32. Todos os dízimos do gado maior e menor, os dízimos do que passa sob o cajado do pastor, o décimo (animal) será consagrado ao Senhor.</item>
+<item>33. Não se fará escolha entre bom e mau e não se fará substituição. Se alguém o fizer, tanto o animal substituído como o que substituiu serão coisa consagrada: não poderão ser resgatados.”</item>
+<item>34. Tais são as ordenações que o Senhor deu a Moisés para os israelitas no monte Sinai.</item>
+
+ </string-array>
+</resources>
